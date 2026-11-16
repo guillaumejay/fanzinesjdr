@@ -1,0 +1,42 @@
+/* Galerie des numéros sur la fiche d'un fanzine. */
+.issue-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(7.5rem, 1fr));
+  gap: 1rem;
+}
+
+.issue-grid .issue-card {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  margin: 0;
+  color: var(--sl-color-white);
+  text-decoration: none;
+  font-size: var(--sl-text-sm);
+  text-align: center;
+}
+
+.issue-grid .issue-card:hover span {
+  text-decoration: underline;
+}
+
+.issue-grid img,
+.issue-grid .issue-nocover {
+  width: 100%;
+  aspect-ratio: 3 / 4;
+  object-fit: cover;
+  border: 1px solid var(--sl-color-gray-5);
+  border-radius: 0.25rem;
+  background: var(--sl-color-gray-6);
+}
+
+.issue-grid .issue-nocover {
+  display: grid;
+  place-items: center;
+  font-size: 2rem;
+  color: var(--sl-color-gray-3);
+}
+
+.issue-grid small {
+  color: var(--sl-color-gray-3);
+}
