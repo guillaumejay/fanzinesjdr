@@ -8,7 +8,7 @@ legacy_revision_timestamp: "20181025011806"
 legacy_author: "Mystery Man From Outerspace"
 source_format: "mediawiki"
 ---
-### Généralités
+## Généralités
 
 VITRIOL, "La Revue qui Décape", était le fanzine du club Jeux de Simulations "Les Voleurs de Bonne Foy" à Toulouse.
 
@@ -52,7 +52,7 @@ Des productions secondaires du club, en parallèle du fanzine, sont aussi à not
 
 Remarque : VITRIOL, tout comme l'anagramme alchimique, est une énigme dont la solution est "l'or y vit" (à l'intérieur du dedans ... ;-).
 
-### numéro 0
+## numéro 0
 
 - page 01 - Couverture : "Ca vous plaît ? C'est moi qui l'ai fait !" (JiPhi)
 - page 02 - Sommaire : "Souillon de culture" (toute la rédaction)
@@ -72,7 +72,7 @@ Remarque : VITRIOL, tout comme l'anagramme alchimique, est une énigme dont la s
 - page 47 - Théorie sur l'Eternel Recommencement : "Zi aindeu, con ..." (WilyBird)
 - page 48 - 4ème de Couverture : ?
 
-### numéro 1
+## numéro 1
 
 - page 01 - Couverture : "Ca vous plaît ? C'est moi qui l'ai fait !" (JiPhi)
 - page 02 - Sommaire : "Fusion de culture" (toute la rédaction)
@@ -92,7 +92,7 @@ Remarque : VITRIOL, tout comme l'anagramme alchimique, est une énigme dont la s
 - page 71 - Théorie sur l'Eternel Recommencement : "This is the end ..." (ChrisT)
 - page 72 - 4ème de Couverture : "Les 7 mercenaires de l'espace" (affiche du film)
 
-### numéro 2
+## numéro 2
 
 - page 01 - Couverture : "Ca vous plaît ? C'est moi qui l'ai fait !" (JiPhi)
 - page 02 - Sommaire : "Jouons de culture" (toute la rédaction)
@@ -117,7 +117,7 @@ Remarque : VITRIOL, tout comme l'anagramme alchimique, est une énigme dont la s
 - page 52 - 4ème de Couverture : ?
 - encart A4 R/V N&B : calendrier civil 1995 des Voleurs de Bonne Foy, avec illustrations de Cthulhu et d'un barde de RdD et pubs pour 3 magasins de JdR toulousains
 
-### numéro 3
+## numéro 3
 
 ![Illustration de Vitriol](/images/fanzines/vitriol/vitriol03.jpg)
 
@@ -142,7 +142,7 @@ Remarque : VITRIOL, tout comme l'anagramme alchimique, est une énigme dont la s
 - page 39 - publicité NOTREL
 - page 40 - [4ème de Couverture : calendrier universel Rêve de Dragon](http://marty.pb.free.fr/RdD/rdd_calen.pdf)
 
-### numéro 4
+## numéro 4
 
 - page 01 - Couverture : "Somewhere in time" (pochette album Iron Maiden)
 - page 02 - (résumé des épisodes précédents + coordonnées)
@@ -164,7 +164,7 @@ Remarque : VITRIOL, tout comme l'anagramme alchimique, est une énigme dont la s
 - page 55 - Théorie sur l'Eternel Recommencement : "Régis ..." (ChrisT & Gwydion)
 - page 56 - 4ème de Couverture : calendrier réformé pour 2001
 
-### numéro 5
+## numéro 5
 
 - page 01 - Couverture : "Skull and Crossbones" (pochette jeu vidéo)
 - page 02 - (résumé des épisodes précédents + coordonnées + avertissement)
@@ -185,7 +185,7 @@ Remarque : VITRIOL, tout comme l'anagramme alchimique, est une énigme dont la s
 - page 51 - Théorie sur l'Eternel Recommencement : "Eros & Thanatos" (JiPhi & Frameto)
 - page 52 - 4ème de Couverture : ?
 
-### numéro 6
+## numéro 6
 
 - page 01 - Couverture : ?
 - page 02 - (résumé des épisodes précédents + coordonnées + avertissement)
@@ -210,7 +210,7 @@ Remarque : VITRIOL, tout comme l'anagramme alchimique, est une énigme dont la s
 - page 48 - 4ème de Couverture : "Li Li" (H.R. Giger, 1974)
 - encart 8 pages R/V N&B : n°4 du B.U.F., le fanzine sur les fanzines
 
-### hors série 0
+## hors série 0
 
 - page 01 - Couverture (logo VdB)
 - page 02 - Edito + Sommaire
@@ -225,7 +225,7 @@ Remarque : VITRIOL, tout comme l'anagramme alchimique, est une énigme dont la s
 - page 24 - Le JdR Kesako + Coordonnées
 - bonus inédit - [Les Tables de la Loi v4.0 (ChrisT)](http://marty.pb.free.fr/Vitriol/vdb_theories.pdf)
 
-### hors série 1
+## hors série 1
 
 - page 01 - [Couverture : "Ca vous plaît ? C'est moi qui l'ai fait !" (JiPhi)](http://marty.pb.free.fr/MtG/vitriol95_couv-0.jpg)
 - page 02 - 2ème de Couverture : "Hurloon Minotaur" (Charles Vess)
@@ -253,7 +253,7 @@ Remarque : VITRIOL, tout comme l'anagramme alchimique, est une énigme dont la s
   - Jacques Toubon (multicolor legendary creature)
   - Black Lotus (artifact - copie de l'original "unlimited" mais avec le symbole d'édition "vitriol" !)
 
-### hors série 2
+## hors série 2
 
 - page 01 - [Couverture : "Terminators sur fond de carte magic" (Geoff Taylor & WilyBird)](http://marty.pb.free.fr/MtG/vitriol96_couv-0.jpg)
 - page 02 - (résumé des épisodes précédents + coordonnées)
@@ -290,7 +290,7 @@ Remarque : VITRIOL, tout comme l'anagramme alchimique, est une énigme dont la s
   - The Regis Club Holy Grail (artifact)
 - bonus inédit - [Les diverses éditions MtG de 1993 à 2008 (ChrisT & WilyBird)](http://marty.pb.free.fr/MtG/mtg_story.pdf)
 
-### Liens Externes
+## Liens Externes
 
 - http://marty.pb.free.fr/Vitriol/ (copie de cette page ...)
 - http://marty.pb.free.fr/Vitriol/v3_rdd.pdf (le meilleur du numéro 3, en PDF, consacré au JdR Rêve de Dragon)

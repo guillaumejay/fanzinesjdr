@@ -8,22 +8,30 @@ legacy_revision_timestamp: "20181107230839"
 legacy_author: "Mystery Man From Outerspace"
 source_format: "mediawiki"
 ---
-![Illustration de Oeuf du Dragon (L')](/images/partagees/logo-complet.png)
-
-### Généralités
+## Généralités
 
 (Cette fiche est une ébauche ; n'hésitez pas à la compléter)
 
-| Titre : L'oeuf du dragon | **Couverture :** ![Illustration de Oeuf du Dragon (L')](/images/fanzines/oeuf-du-dragon-l/oeuf-du-dragon-1-s.jpg) |  |
-| --- | --- | --- |
-| **Code ISSN :** Pas de code ISSN | **Langue :** Français | **Thème / Jeu :** Généraliste |
-| **Description :** L’œuf du dragon est un fanzine dédié à l’imaginaire et aux jeux de simulation |  |  |
-| **Format :** Papier • A4 | **Impression :** | **Adresse physique :** ℅ Christophe Babayou – 65, rue Edgar Quinet – 94100 Saint-Maur |
-| **Fondateur / Responsable :** Christophe Babayou | **Éditeur :** | **Rédac’chef :** Christophe Babayou |
-| **Site web :** ? | **Prix :** au choix de l'acheteur (pour la version numérique) | **Nombre total de n° :** 5 |
-| **Périodicité :** ? | **Début parution :** ? | **Fin parution :** ? |
+![Couverture de Oeuf du Dragon (L')](/images/fanzines/oeuf-du-dragon-l/oeuf-du-dragon-1-s.jpg)
 
-### Fiche du numéro 1
+- **Code ISSN :** Pas de code ISSN
+- **Langue :** Français
+- **Thème / Jeu :** Généraliste
+- **Description :** L’œuf du dragon est un fanzine dédié à l’imaginaire et aux jeux de simulation
+- **Format :** Papier • A4
+- **Impression :** 
+- **Adresse physique :** ℅ Christophe Babayou – 65, rue Edgar Quinet – 94100 Saint-Maur
+- **Fondateur / Responsable :** Christophe Babayou
+- **Éditeur :** 
+- **Rédac’chef :** Christophe Babayou
+- **Site web :** ?
+- **Prix :** au choix de l'acheteur (pour la version numérique)
+- **Nombre total de n° :** 5
+- **Périodicité :** ?
+- **Début parution :** ?
+- **Fin parution :** ?
+
+## Fiche du numéro 1
 - **Titre :** L'oeuf du dragon - Numéro 1
 - **Couverture :** ![Illustration de Oeuf du Dragon (L')](/images/fanzines/oeuf-du-dragon-l/oeuf-du-dragon-1-s.jpg)
 
@@ -40,7 +48,7 @@ source_format: "mediawiki"
 
 Ce numéro est disponible à l'achat sur [DriveThruRPG](http://www.drivethrurpg.com/product/148571/Oeuf-du-dragon-1).
 
-### Fiche du numéro 2
+## Fiche du numéro 2
 - **Titre :** L'oeuf du dragon - Numéro 2
 - **Couverture :** ![Illustration de Oeuf du Dragon (L')](/images/fanzines/oeuf-du-dragon-l/oeuf-du-dragon-2-s.jpg)
 
@@ -62,7 +70,7 @@ Ce numéro est disponible à l'achat sur [DriveThruRPG](http://www.drivethrurpg.
 
 Ce numéro est disponible à l'achat sur [DriveThruRPG](http://www.drivethrurpg.com/product/148572/Oeuf-du-dragon-1).
 
-### Fiche du numéro 3
+## Fiche du numéro 3
 - **Titre :** L'oeuf du dragon - Numéro 3
 - **Couverture :** ![Illustration de Oeuf du Dragon (L')](/images/fanzines/oeuf-du-dragon-l/oeuf-du-dragon-3-s.jpg)
 
@@ -86,7 +94,7 @@ Ce numéro est disponible à l'achat sur [DriveThruRPG](http://www.drivethrurpg.
 
 Ce numéro est disponible à l'achat sur [DriveThruRPG](http://www.drivethrurpg.com/product/148575/Oeuf-du-dragon-3).
 
-### Fiche du numéro 4
+## Fiche du numéro 4
 - **Titre :** L'oeuf du dragon - Numéro 4
 - **Couverture :** ![Illustration de Oeuf du Dragon (L')](/images/fanzines/oeuf-du-dragon-l/oeuf-du-dragon-4-s.jpg)
 
@@ -107,7 +115,7 @@ Ce numéro est disponible à l'achat sur [DriveThruRPG](http://www.drivethrurpg.
 
 Ce numéro est disponible à l'achat sur [DriveThruRPG](http://www.drivethrurpg.com/product/148576/Oeuf-du-dragon-4).
 
-### Fiche du numéro 5
+## Fiche du numéro 5
 - **Titre :** L'oeuf du dragon - Numéro 5
 - **Couverture :** ![Illustration de Oeuf du Dragon (L')](/images/fanzines/oeuf-du-dragon-l/oeuf-du-dragon-5-s.jpg)
 

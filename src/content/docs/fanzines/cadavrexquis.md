@@ -8,9 +8,7 @@ legacy_revision_timestamp: "20191110203807"
 legacy_author: "Mystery Man From Outerspace"
 source_format: "mediawiki"
 ---
-![Illustration de Cadavrexquis](/images/partagees/logo-a-completer.png) ![Illustration de Cadavrexquis](/images/partagees/logo-cherche-couv.png)
-
-### Mystery Man From Outerspace Propose
+## Mystery Man From Outerspace Propose
 
 http://www.igd.u-bordeaux.fr/~marchess/cadavrexquis.html (lien mort)
 
@@ -20,158 +18,201 @@ Un fanzine qui traite, entre autres, de l'Appel de Cthulhu, et qui propose plusi
 
 https://web.archive.org/web/19970715001625/http://www.igd.u-bordeaux.fr/~marchess/cadavrexquis.html
 
-### Généralités
+## Généralités
 
-| Titre : Cadavrexquis (généralités)<br>![Illustration de Cadavrexquis](/images/fanzines/cadavrexquis/cadavre.gif) | **Couverture :** ![Illustration de Cadavrexquis](/images/partagees/couverture-manquante.png) |  |
-| --- | --- | --- |
-| **Code ISSN :** ? | **Langue :** ? | **Thème / Jeu :** ? |
-| **Description :** ? |  |  |
-| **Remarque :** ? |  |  |
-| **Format :** ? | **Impression :** ? | **Adresse physique :** ? |
-| **Fondateur / Responsable :** ? | **Éditeur :** ? | **Rédac’chef :** ? |
-| **Site web :** ? | **Prix :** ? | **Nombre total de n° :** au moins 16… |
-| **Périodicité :** ? | **Début parution :** ? | **Fin parution :** ? |
+![Couverture de Cadavrexquis](/images/fanzines/cadavrexquis/cadavre.gif)
 
-### Numéro 1
+- **Couverture :** manquante
+- **Code ISSN :** ?
+- **Langue :** ?
+- **Thème / Jeu :** ?
+- **Description :** ?
+- **Remarque :** ?
+- **Format :** ?
+- **Impression :** ?
+- **Adresse physique :** ?
+- **Fondateur / Responsable :** ?
+- **Éditeur :** ?
+- **Rédac’chef :** ?
+- **Site web :** ?
+- **Prix :** ?
+- **Nombre total de n° :** au moins 16…
+- **Périodicité :** ?
+- **Début parution :** ?
+- **Fin parution :** ?
 
-| Titre : Cadavrexquis (détail du numéro 1) | **Couverture :** ![Illustration de Cadavrexquis](/images/partagees/couverture-manquante.png) |  |  |  |
-| --- | --- | --- | --- | --- |
-| **Numéro :** n°1 | **Type de numéro :** ? | **Série :** ? | **Date de parution :** ? | **Pages :** ? |
-| **Responsable :** ? | **Rédac’chef :** ? | **Éditeur :** ? |  |  |
-| **Site web :** ? | **Adresse :** ? | **Prix :** ? |  |  |
-| Sommaire |  |  |  |  |
-| Titre de l’article | Page | Type d’article |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
+## Numéro 1
 
-### Numéro 2
+- **Couverture :** manquante
+- **Numéro :** n°1
+- **Type de numéro :** ?
+- **Série :** ?
+- **Date de parution :** ?
+- **Pages :** ?
+- **Responsable :** ?
+- **Rédac’chef :** ?
+- **Éditeur :** ?
+- **Site web :** ?
+- **Adresse :** ?
+- **Prix :** ?
 
-| Titre : Cadavrexquis (détail du numéro 2) | **Couverture :** ![Illustration de Cadavrexquis](/images/partagees/couverture-manquante.png) |  |  |  |
-| --- | --- | --- | --- | --- |
-| **Numéro :** n°2 | **Type de numéro :** ? | **Série :** ? | **Date de parution :** ? | **Pages :** ? |
-| **Responsable :** ? | **Rédac’chef :** ? | **Éditeur :** ? |  |  |
-| **Site web :** ? | **Adresse :** ? | **Prix :** ? |  |  |
-| Sommaire |  |  |  |  |
-| Titre de l’article | Page | Type d’article |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
+**Sommaire**
 
-### Numéro 3
+Sommaire à compléter.
 
-| Titre : Cadavrexquis (détail du numéro 3) | **Couverture :** ![Illustration de Cadavrexquis](/images/partagees/couverture-manquante.png) |  |  |  |
-| --- | --- | --- | --- | --- |
-| **Numéro :** n°3 | **Type de numéro :** ? | **Série :** ? | **Date de parution :** ? | **Pages :** ? |
-| **Responsable :** ? | **Rédac’chef :** ? | **Éditeur :** ? |  |  |
-| **Site web :** ? | **Adresse :** ? | **Prix :** ? |  |  |
-| Sommaire |  |  |  |  |
-| Titre de l’article | Page | Type d’article |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
+## Numéro 2
 
-### Numéro 4
+- **Couverture :** manquante
+- **Numéro :** n°2
+- **Type de numéro :** ?
+- **Série :** ?
+- **Date de parution :** ?
+- **Pages :** ?
+- **Responsable :** ?
+- **Rédac’chef :** ?
+- **Éditeur :** ?
+- **Site web :** ?
+- **Adresse :** ?
+- **Prix :** ?
 
-| Titre : Cadavrexquis (détail du numéro 4) | **Couverture :** ![Illustration de Cadavrexquis](/images/partagees/couverture-manquante.png) |  |  |  |
-| --- | --- | --- | --- | --- |
-| **Numéro :** n°4 | **Type de numéro :** ? | **Série :** ? | **Date de parution :** ? | **Pages :** ? |
-| **Responsable :** ? | **Rédac’chef :** ? | **Éditeur :** ? |  |  |
-| **Site web :** ? | **Adresse :** ? | **Prix :** ? |  |  |
-| Sommaire |  |  |  |  |
-| Titre de l’article | Page | Type d’article |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
+**Sommaire**
 
-### Numéro 5
+Sommaire à compléter.
 
-| Titre : Cadavrexquis (détail du numéro 5) | **Couverture :** ![Illustration de Cadavrexquis](/images/fanzines/cadavrexquis/cad5.gif) |  |  |  |
-| --- | --- | --- | --- | --- |
-| **Numéro :** n°5 | **Type de numéro :** ? | **Série :** ? | **Date de parution :** Février 1996 | **Pages :** 56 |
-| **Responsable :** ? | **Rédac’chef :** ? | **Éditeur :** ? |  |  |
-| **Site web :** ? | **Adresse :** ? | **Prix :** 15,00 FF |  |  |
-| Sommaire |  |  |  |  |
-| Titre de l’article | Page | Type d’article |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
+## Numéro 3
 
-### Numéro 6
+- **Couverture :** manquante
+- **Numéro :** n°3
+- **Type de numéro :** ?
+- **Série :** ?
+- **Date de parution :** ?
+- **Pages :** ?
+- **Responsable :** ?
+- **Rédac’chef :** ?
+- **Éditeur :** ?
+- **Site web :** ?
+- **Adresse :** ?
+- **Prix :** ?
 
-| Titre : Cadavrexquis (détail du numéro 6) | **Couverture :** ![Illustration de Cadavrexquis](/images/fanzines/cadavrexquis/cad6.gif) |  |  |  |
-| --- | --- | --- | --- | --- |
-| **Numéro :** n°6 | **Type de numéro :** ? | **Série :** ? | **Date de parution :** Août 1996 | **Pages :** 52 |
-| **Responsable :** ? | **Rédac’chef :** ? | **Éditeur :** ? |  |  |
-| **Site web :** ? | **Adresse :** ? | **Prix :** 15,00 FF |  |  |
-| Sommaire |  |  |  |  |
-| Titre de l’article | Page | Type d’article |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
+**Sommaire**
 
-### Numéro 7
+Sommaire à compléter.
 
-| Titre : Cadavrexquis (détail du numéro 7) | **Couverture :** ![Illustration de Cadavrexquis](/images/fanzines/cadavrexquis/cad7.gif) |  |  |  |
-| --- | --- | --- | --- | --- |
-| **Numéro :** n°7 | **Type de numéro :** ? | **Série :** ? | **Date de parution :** Septembre 1996 | **Pages :** 72 |
-| **Responsable :** ? | **Rédac’chef :** ? | **Éditeur :** ? |  |  |
-| **Site web :** ? | **Adresse :** ? | **Prix :** 23,00 FF |  |  |
-| Sommaire |  |  |  |  |
-| Titre de l’article | Page | Type d’article |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
+## Numéro 4
 
-### Numéro 8
+- **Couverture :** manquante
+- **Numéro :** n°4
+- **Type de numéro :** ?
+- **Série :** ?
+- **Date de parution :** ?
+- **Pages :** ?
+- **Responsable :** ?
+- **Rédac’chef :** ?
+- **Éditeur :** ?
+- **Site web :** ?
+- **Adresse :** ?
+- **Prix :** ?
 
-| Titre : Cadavrexquis (détail du numéro 8) | **Couverture :** ![Illustration de Cadavrexquis](/images/fanzines/cadavrexquis/cad8.gif) |  |  |  |
-| --- | --- | --- | --- | --- |
-| **Numéro :** n°8 | **Type de numéro :** ? | **Série :** ? | **Date de parution :** Décembre 1996 | **Pages :** 60 |
-| **Responsable :** ? | **Rédac’chef :** ? | **Éditeur :** ? |  |  |
-| **Site web :** ? | **Adresse :** ? | **Prix :** 20,00 FF |  |  |
-| Sommaire |  |  |  |  |
-| Titre de l’article | Page | Type d’article |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
+**Sommaire**
 
-### Numéro 9
+Sommaire à compléter.
 
-| Titre : Cadavrexquis (détail du numéro 9) | **Couverture :** ![Illustration de Cadavrexquis](/images/fanzines/cadavrexquis/cad9.gif) |  |  |  |
-| --- | --- | --- | --- | --- |
-| **Numéro :** n°9 | **Type de numéro :** ? | **Série :** ? | **Date de parution :** Mars 1997 | **Pages :** 60 |
-| **Responsable :** ? | **Rédac’chef :** ? | **Éditeur :** ? |  |  |
-| **Site web :** ? | **Adresse :** ? | **Prix :** 20,00 FF |  |  |
-| Sommaire |  |  |  |  |
-| Titre de l’article | Page | Type d’article |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
+## Numéro 5
+
+![Couverture du numéro 5 de Cadavrexquis](/images/fanzines/cadavrexquis/cad5.gif)
+
+- **Numéro :** n°5
+- **Type de numéro :** ?
+- **Série :** ?
+- **Date de parution :** Février 1996
+- **Pages :** 56
+- **Responsable :** ?
+- **Rédac’chef :** ?
+- **Éditeur :** ?
+- **Site web :** ?
+- **Adresse :** ?
+- **Prix :** 15,00 FF
+
+**Sommaire**
+
+Sommaire à compléter.
+
+## Numéro 6
+
+![Couverture du numéro 6 de Cadavrexquis](/images/fanzines/cadavrexquis/cad6.gif)
+
+- **Numéro :** n°6
+- **Type de numéro :** ?
+- **Série :** ?
+- **Date de parution :** Août 1996
+- **Pages :** 52
+- **Responsable :** ?
+- **Rédac’chef :** ?
+- **Éditeur :** ?
+- **Site web :** ?
+- **Adresse :** ?
+- **Prix :** 15,00 FF
+
+**Sommaire**
+
+Sommaire à compléter.
+
+## Numéro 7
+
+![Couverture du numéro 7 de Cadavrexquis](/images/fanzines/cadavrexquis/cad7.gif)
+
+- **Numéro :** n°7
+- **Type de numéro :** ?
+- **Série :** ?
+- **Date de parution :** Septembre 1996
+- **Pages :** 72
+- **Responsable :** ?
+- **Rédac’chef :** ?
+- **Éditeur :** ?
+- **Site web :** ?
+- **Adresse :** ?
+- **Prix :** 23,00 FF
+
+**Sommaire**
+
+Sommaire à compléter.
+
+## Numéro 8
+
+![Couverture du numéro 8 de Cadavrexquis](/images/fanzines/cadavrexquis/cad8.gif)
+
+- **Numéro :** n°8
+- **Type de numéro :** ?
+- **Série :** ?
+- **Date de parution :** Décembre 1996
+- **Pages :** 60
+- **Responsable :** ?
+- **Rédac’chef :** ?
+- **Éditeur :** ?
+- **Site web :** ?
+- **Adresse :** ?
+- **Prix :** 20,00 FF
+
+**Sommaire**
+
+Sommaire à compléter.
+
+## Numéro 9
+
+![Couverture du numéro 9 de Cadavrexquis](/images/fanzines/cadavrexquis/cad9.gif)
+
+- **Numéro :** n°9
+- **Type de numéro :** ?
+- **Série :** ?
+- **Date de parution :** Mars 1997
+- **Pages :** 60
+- **Responsable :** ?
+- **Rédac’chef :** ?
+- **Éditeur :** ?
+- **Site web :** ?
+- **Adresse :** ?
+- **Prix :** 20,00 FF
+
+**Sommaire**
+
+Sommaire à compléter.

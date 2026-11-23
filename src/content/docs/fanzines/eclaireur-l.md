@@ -8,7 +8,7 @@ legacy_revision_timestamp: "20171030161816"
 legacy_author: "Mystery Man From Outerspace"
 source_format: "mediawiki"
 ---
-### Mystery Man From Outerspace Propose
+## Mystery Man From Outerspace Propose
 *Ceci est une ébauche de fiche de fanzine. N'hésitez pas à la compléter (et à supprimer le texte ci-dessous lorsqu'il sera devenu inutile).*
 
 L'Éclaireur est un e-zine de ? librement téléchargeable sur leur site :

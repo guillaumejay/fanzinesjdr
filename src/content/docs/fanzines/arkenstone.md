@@ -17,7 +17,7 @@ Michel Poupart
 22120 Yiffiniac
 arkenzine@yahoo.fr
 
-### Mystery Man From Outerspace Propose
+## Mystery Man From Outerspace Propose
 
 *Ceci est une ébauche de fiche de fanzine. N'hésitez pas à la compléter (et à supprimer le texte ci-dessous lorsqu'il sera devenu inutile).*
 
