@@ -316,7 +316,7 @@ Sommaire à compléter.
 | Tout ça ne vaut pas un clair de lune à Maubeuge (à jouer à Dreux ou à Troyes) |  | 6 | scénario INS/MV |
 | Louis XX lâche sa tête ! (ça fait longtemps, on en profite !) |  | 12 | scénario Bitume MK 5 |
 | Le bon, la brute et le truand (du sang, du sexe, de l'aventure) |  | 20 | scénario Bloodlust |
-| Je t'aime gros comme ça (un conte spécialement écrit pour vous par Rolland Barthélémy) |  | 26 | conte |
+| Je t'aime gros comme ça | Rolland Barthélémy | 26 | conte |
 | Pages culture : avec au sommaire des rires, des chansons, des jeux dont vous n'entendrez parler nulle part ailleurs et une affiche toonesque ! |  | 29 | culture |
 | Toon Wars |  | 51 | scénario Toon |
 | Pan ! T'es mort ! (Pour et par ceux qui trouvent que le système de jeu Berlin XVIII ne tue pas assez) |  | 56 | aide de jeu Berlin XVIII |
