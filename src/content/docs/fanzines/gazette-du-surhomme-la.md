@@ -52,7 +52,7 @@ source_format: "mediawiki"
 | Des Nouvelles de France : Le Zouave du pont de l'Alma - Les disparus de Saint Agil - Quel prénom choisir ? - Faux miracle en bouteille. |  | 4 | Courtes nouvelles d'ambiance |
 | Le Dossier : La Montre à remonter le Temps |  | 7 | Scénario officiel |
 | Les Archives du CID : Quaterman Jane « Fury », Alexandre Verrier « le Faucheur », M. Mime |  | 18 | Profils de PNJ |
-| Réclames (fausses publicités) |  | s 6, 10, 18 | Aides de jeu / Ambiance |
+| Réclames (fausses publicités) |  | 6, 10, 18 | Aides de jeu / Ambiance |
 
 ## Numéro 2
 ![Couverture du numéro 2 de Gazette du SurHomme (La)](/images/fanzines/gazette-du-surhomme-la/lagazettedusurhomme2.jpg)
@@ -77,7 +77,7 @@ source_format: "mediawiki"
 | Contact, Les PNJ, Suggestions de PNJ |  | 5 | Scénario |
 | Les Archives du CID : Cynic, Gavial, Le Gentilhomme fantôme |  | 13 | Profils de PNJ |
 | Une Minute de Silence, Les PNJ, Aide de Jeu |  | 24 | Scénario |
-| Réclames (fausses publicités) |  | s 4, 22, 23 | Aides de jeu / Ambiance |
+| Réclames (fausses publicités) |  | 4, 22, 23 | Aides de jeu / Ambiance |
 
 ## Numéro 3
 ![Couverture du numéro 3 de Gazette du SurHomme (La)](/images/fanzines/gazette-du-surhomme-la/lagazettedusurhomme3.jpg)
@@ -104,7 +104,7 @@ source_format: "mediawiki"
 | Les Archives du CID : Mandylion, Le Père Fernand, Le Corbeau |  | 33 | Profils de PNJ |
 | Aide de jeu : Pour quelques ressources de plus |  | 49 | Aide de jeu |
 | Enigma, Les PNJ |  | 53 | Scénario |
-| Réclames (fausses publicités) |  | s 13, 24, 51, 52 | Aides de jeu / Ambiance |
+| Réclames (fausses publicités) |  | 13, 24, 51, 52 | Aides de jeu / Ambiance |
 
 ## Numéro 4
 ![Couverture du numéro 4 de Gazette du SurHomme (La)](/images/fanzines/gazette-du-surhomme-la/lagazettedusurhomme4.jpg)
@@ -130,7 +130,7 @@ source_format: "mediawiki"
 | Le réveil des dieux rouges |  | 59 | Synopsis de scénario |
 | Nuées ardentes |  | 68 | Scénario |
 | Les Archives du CID : Le Sylvanaute, Indiana Jones, Brainox, Les Chasseurs d'hommes, Kaiser Kong, Le Maître de Guerre |  | 95 | Profils de PNJ |
-| Réclames (fausses publicités) |  | s 8, 46, 67 | Aides de jeu / Ambiance |
+| Réclames (fausses publicités) |  | 8, 46, 67 | Aides de jeu / Ambiance |
 
 ## Numéro 5
 
@@ -164,7 +164,7 @@ source_format: "mediawiki"
 | Esméralda, alias Gargouille |  | 48 | profil de PNJ / pré-tiré |
 | Oya, la Tempète |  | 50 | profil de PNJ / pré-tiré |
 | Geneviève d'Ernemont, alias Féline |  | 52 | profil de PNJ / pré-tiré |
-| Nombreuses Réclames |  | s 7-8, 12, 15-16, 26, 44 | aides de jeu / ambiance |
+| Nombreuses Réclames |  | 7-8, 12, 15-16, 26, 44 | aides de jeu / ambiance |
 
 ## Numéro 6
 
@@ -190,7 +190,7 @@ source_format: "mediawiki"
 | Dossier : Origines, l'aide de jeu qui explore le passé des personnages... |  | 10 | aide de jeu |
 | Scénario : La Fiancée de Belzébuth |  | 20 | scénario |
 | Les Archives du CID : Mauvaissoir, tueur à gages et voyageur temporel – Le Voyageur, explorateur du temps (a fondé “Time Sword”) – Le Mage Ormus, initié à la transmigration |  | 47 | profils de PNJ / pré-tirés |
-| Nombreuses réclames dont : « Charles XI, Prince de Néo-Paris et Roi de France, protège les honnêtes citoyens » – « Le Nyctalope protège Paris »<br>￼ |  | s 7, 8-9, 18-19, 20, 43, 46, 51 | aides de jeu / ambiance |
+| Nombreuses réclames dont : « Charles XI, Prince de Néo-Paris et Roi de France, protège les honnêtes citoyens » – « Le Nyctalope protège Paris »<br>￼ |  | 7, 8-9, 18-19, 20, 43, 46, 51 | aides de jeu / ambiance |
 
 ## Numéro 7
 

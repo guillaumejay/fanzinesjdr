@@ -254,7 +254,7 @@ Sommaire à compléter.
 | Titre | Auteur | Page | Type |
 | --- | --- | --- | --- |
 | Édito |  | 3 | édito |
-| Sommaire |  | s 4-5 | sommaire |
+| Sommaire |  | 4-5 | sommaire |
 | News / Brèves |  | 6 | sorties / nouveautés / actualité |
 | Critique : ORNI - The Burning Wheel Revised |  | 18 | critique JdR |
 | Inspi : Freaks’ Squeele, T4, Succube Pizza |  | 22 | inspi bd |

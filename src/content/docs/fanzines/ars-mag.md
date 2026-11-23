@@ -597,11 +597,11 @@ source_format: "mediawiki"
 | --- | --- | --- | --- |
 | Pour info |  | 2 | Copyright, Ours, Distribution |
 | Édito |  | 2 | Édito |
-| Les encyclopédies (par Adam Bank et Jeremiah Genest) |  | 4 | Bibliothèque d' Alliance / archétype |
+| Les encyclopédies | Adam Bank et Jeremiah Genest | 4 | Bibliothèque d' Alliance / archétype |
 | Rencontre avec Adam Bank et Jeremiah Genest |  | 8 | Interview |
-| Le Culte de Mercure (par Michaël de Verteuil) |  | 12 | Article de fond / aide de jeu |
-| Le Chêne Lumineux : acte II (par jean-Michel Réty) |  | 23 | Scénario |
-| [Archétype de mage : l'Artiste](http://darmont.free.fr/arm/download/artiste.pdf) (par Jérôme Darmont) |  | 44 | Archétype |
+| Le Culte de Mercure | Michaël de Verteuil | 12 | Article de fond / aide de jeu |
+| Le Chêne Lumineux : acte II | Jean-Michel Réty | 23 | Scénario |
+| [Archétype de mage : l'Artiste](http://darmont.free.fr/arm/download/artiste.pdf) | Jérôme Darmont | 44 | Archétype |
 | Bulletin d'abonnement |  | 44 | Bulletin d'abonnement |
 | Bestiaire |  | 45 | Bestiaire |
 | Revue |  | 54 | Inspiration |

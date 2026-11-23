@@ -52,22 +52,22 @@ source_format: "mediawiki"
 | Titre | Auteur | Page | Type |
 | --- | --- | --- | --- |
 | **RUNEQUEST** |  |  |  |
-| Les plaines de Prax (par Frédéric Weil, illustrations de Yves Corriger) |  | 6 | ? |
-| L'envahisseur lunar (par Frédéric Weil, illustrations de Alain Gassner) |  | 8 | ? |
-| Les cultes de la Passe des Dragons (par Rémi Bachelet) |  | 10 | ? |
-| La piste des Broos (par Guillaume Fournier et Frédéric Weil, illustrations et plan de Guillaume Fournier) |  | 14 | ? |
-| L'expérience préliminaire (par Fabrice Lamidey et Frédéric Weil, illustrations de Francis Saint-Martin) |  | 19 | ? |
-| Sartar et Prax (carte de Guillaume Fournier) |  | 24 | ? |
-| Les Aldryami (par Fabrice Lamidey, illustrations de Rachid Mékaoui) |  | 26 | ? |
+| Les plaines de Prax | Frédéric Weil, illustrations de Yves Corriger | 6 | ? |
+| L'envahisseur lunar | Frédéric Weil, illustrations de Alain Gassner | 8 | ? |
+| Les cultes de la Passe des Dragons | Rémi Bachelet | 10 | ? |
+| La piste des Broos | Guillaume Fournier et Frédéric Weil, illustrations et plan de Guillaume Fournier | 14 | ? |
+| L'expérience préliminaire | Fabrice Lamidey et Frédéric Weil, illustrations de Francis Saint-Martin | 19 | ? |
+| Sartar et Prax | carte de Guillaume Fournier | 24 | ? |
+| Les Aldryami | Fabrice Lamidey, illustrations de Rachid Mékaoui | 26 | ? |
 | **MULTIMONDES** |  |  |  |
-| Des étoiles… (par Hervé Fontanières, illustrations de Gilles Lautussier) |  | 30 | ? |
+| Des étoiles… | Hervé Fontanières, illustrations de Gilles Lautussier | 30 | ? |
 | **HAWKMOON** |  |  |  |
-| Rue Grandbrittania (par Tristan Lhomme, illustrations de Alain Gassner) |  | 32 | ? |
+| Rue Grandbrittania | Tristan Lhomme, illustrations de Alain Gassner | 32 | ? |
 | **STORMBRINGER** |  |  |  |
-| Les Ducs du Chaos (par Jean Michel Ringuet, illustrations de Guillaume Sorel) |  | 34 | ? |
-| Les Marais de la Démence (par Vincent Jugie, illustrations de Gilles Francescano) |  | 42 | ? |
+| Les Ducs du Chaos | Jean Michel Ringuet, illustrations de Guillaume Sorel | 34 | ? |
+| Les Marais de la Démence | Vincent Jugie, illustrations de Gilles Francescano | 42 | ? |
 | **TANK LEADER** |  |  |  |
-| Les réponses (par Franck Stora, illustrations de Gilles Francescano) |  | 48 | ? |
+| Les réponses | Franck Stora, illustrations de Gilles Francescano | 48 | ? |
 
 ## Numéro 2
 
@@ -90,19 +90,19 @@ source_format: "mediawiki"
 | Titre | Auteur | Page | Type |
 | --- | --- | --- | --- |
 | **RUNEQUEST** |  |  |  |
-| Les Poèmes Gloranthiens (par Frédéric Weil, illustrations de Rachid Mékaoui) |  | 6 | ? |
-| Les Élémentaires (par Rémi Bachelet, illustrations de Christine Millard) |  | 8 | ? |
-| Sartar (par Guillaume Fournier, illustrations de Guillaume Fournier) |  | 14 | ? |
-| Les chemins de Sartar (par Frédéric Weil, illustrations de Zamal) |  | 20 | ? |
-| Les mercenaires (par Frédéric Weil, illustrations de J.C.Rodriguez) |  | 28 | ? |
+| Les Poèmes Gloranthiens | Frédéric Weil, illustrations de Rachid Mékaoui | 6 | ? |
+| Les Élémentaires | Rémi Bachelet, illustrations de Christine Millard | 8 | ? |
+| Sartar | Guillaume Fournier, illustrations de Guillaume Fournier | 14 | ? |
+| Les chemins de Sartar | Frédéric Weil, illustrations de Zamal | 20 | ? |
+| Les mercenaires | Frédéric Weil, illustrations de J.C.Rodriguez | 28 | ? |
 | **STORMBRINGER** |  |  |  |
-| L’Appétit vient en mangeant… (par Philippe Butin et Éric Simon, illustrations de Zamal) |  | 32 | ? |
-| Une longue soirée d'hiver (par Vincent Jugie, illustrations de Toto's Brothers) |  | 36 | ? |
+| L’Appétit vient en mangeant… | Philippe Butin et Éric Simon, illustrations de Zamal | 32 | ? |
+| Une longue soirée d'hiver | Vincent Jugie, illustrations de Toto's Brothers | 36 | ? |
 | **HAWKMOON** |  |  |  |
-| La libre cité d’Heid’bergge (par Tristan Lhomme, illustrations de Guillaume Fournier) |  | 41 | ? |
-| L’ÉTUDIANT PIEG (é) (par Tristan Lhomme, illlustrations de Guillaume Fournier) |  | 44 | ? |
+| La libre cité d’Heid’bergge | Tristan Lhomme, illustrations de Guillaume Fournier | 41 | ? |
+| L’ÉTUDIANT PIEG (é) | Tristan Lhomme, illustrations de Guillaume Fournier | 44 | ? |
 | **RADIO TATOU** |  |  |  |
-| RADIO TATOU (par Orc‘ Tatou) |  | ? | ? |
+| RADIO TATOU | Orc‘ Tatou | ? | ? |
 
 ## Numéro 3
 

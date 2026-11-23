@@ -65,7 +65,7 @@ def convert_table(rows, issue, fanzine, doubts):
         if in_toc:
             get = lambda k: row[cols[k]] if k in cols and cols[k] < len(row) else ""
             title, page, kind, game = get("titre"), get("page"), get("type"), get("jeu")
-            page = re.sub(r"^Page\s*", "", page, flags=re.I)
+            page = re.sub(r"^Pages?\s*", "", page, flags=re.I)
             if {title, page, kind, game} <= {"?", ""}:
                 continue
             if not any(c for c in row[1:]):

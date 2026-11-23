@@ -152,7 +152,7 @@ https://www.meluzine.org/fr/fanzine/55/0
 | Scénario : Les Portes de la mort | Mage : l’Ascension | ? | scénario Mage : l’Ascension |
 | Scénario : Prophéties (le Réveil des ombres 3/3) | Vampire : la Mascarade | ? | scénario Vampire : la Mascarade |
 | Spécial Conteurs : Et après la fin des Empires ? | Wraith : le Néant | ? | présentation spéciale Conteurs |
-| Hommage (par Goomi) |  | ? | hommage |
+| Hommage | Goomi | ? | hommage |
 
 ## Numéro 4
 

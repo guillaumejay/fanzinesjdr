@@ -623,7 +623,7 @@ Sommaire à compléter.
 | Titre | Auteur | Page | Type |
 | --- | --- | --- | --- |
 | Sommaire |  | deuxième de couverture | table des matières |
-| Nouvelles du front (collectif : D. Mane, Philippe Bracq, Didier Guiserix, Sylvie Rodriguez, Michel Serrat, Jean Lefèbvre) |  | 4 | Actualités des parutions, des événements et des clubs |
+| Nouvelles du front | collectif : D. Mane, Philippe Bracq, Didier Guiserix, Sylvie Rodriguez, Michel Serrat, Jean Lefèbvre | 4 | Actualités des parutions, des événements et des clubs |
 | Case White | Yves Jourdain | 9 | Critique de la série de wargames sur la Seconde guerre mondiale |
 | Amirauté spécial Crète mai 41 | Jean Ricard | 12 | Compte rendu de partie de ce wargame d'Hexalor |
 | Get the Carriers. De la guerre navale de 1943... à celle de 1983 | Hervé Hatt | 16 | Réflexions sur la manière de simuler les conflits navals du milieu du XXe siècle dans les wargames, entre réalisme et jouabilité |
@@ -631,7 +631,7 @@ Sommaire à compléter.
 | Chroniques tactiques | Hervé Hatt | 20 | Conseils stratégiques pour wargames du type Ambush ou Squad Leader |
 | Dune | Sylvie Rodriguez | 22 | présentation du jeu de société d'Avalon Hill |
 | Ludique | O.T., J.C., Sylvie Rodriguez, Michel Serrat | 24 | Mini-critiques de jeux de société |
-| Speed Perso Service (Alain Faure et Alain Piglione, avec crapougnats par Didier Guiserix) |  | 26 | Programme informatique (avec lignes de code à recopier) pour Oric 48 K permettant de tirer et de calculer les caractéristiques et les abilities d'un personnage d'Advanced Dungeons and Dragons. |
+| Speed Perso Service | Alain Faure et Alain Piglione, avec crapougnats par Didier Guiserix | 26 | Programme informatique (avec lignes de code à recopier) pour Oric 48 K permettant de tirer et de calculer les caractéristiques et les abilities d'un personnage d'Advanced Dungeons and Dragons. |
 | Devine qui vient dîner ce soir et autres curiosité incroyables : la TembroTachibis froide (Frédéric Lasserre), le Gopneldaun (Didier Guiserix), avec dessins par Didier Guiserix |  | 31 | Description de deux créatures avec leurs caractéristiques pour Dungeons and Dragons (Basic). |
 | Mini-jeu de Casus Belli : Peur sur Irka | Sylvie et J. C. Rodriguez | 34 | Mini-jeu de société utilisant un plateau (fourni sur la double page des p. 36-37 en encart), des pions et un jeu de cartes classiques de 52 cartes |
 | La Terre du Milieu | Denis Gerfaud | 28 | Critique du jeu de rôle sur table Middle Earth Role Playing d'I.C.E. |
@@ -1129,7 +1129,7 @@ Sommaire à compléter.
 | L'Épreuve du feu : Hawkmoon |  | 34 | critique jeu de rôle |
 | Les Fous du tragique millénaire |  | 36 | aide de jeu Hawkmoon |
 | L'Épreuve du feu : Marvel Super Heros |  | 38 | critique jeu de rôle |
-| Casus Belli aventures |  | s 43 à 66 | recueil de scénarios en cahier détachable |
+| Casus Belli aventures |  | 43 à 66 | recueil de scénarios en cahier détachable |
 | Le Renard dans la roulotte |  | II | scénario Hawkmoon |
 | Projet Doppelganger |  | IV | scénario Marvel Super Heros |
 | L'Ambassadeur |  | VI | scénario AD&D |
@@ -2142,7 +2142,7 @@ Sommaire à compléter.
 | Titre | Auteur | Page | Type |
 | --- | --- | --- | --- |
 | Edito |  | 4 | Editorial |
-| L'actualité des jeux |  | s 6-11 | Actualités sur les parutions récentes |
+| L'actualité des jeux |  | 6-11 | Actualités sur les parutions récentes |
 | BD : "Monghol & Ghota" |  | 6 | Bande dessinée humoristique. |
 | Le coup d'oeil du Critik : "Faiths & Avatars" (supplément pour AD&D - Forgotten Realms) par Samuel Delerme |  | 12 | Critique courte |
 | Le coup d'oeil du Critik : "Changelin" (jeu de rôle en VF), par Fabrice Colin |  | 12 | Critique courte |
@@ -2154,33 +2154,33 @@ Sommaire à compléter.
 | Le coup d'oeil du Critik : "The North", supplément pour AD&D - Forgotten Realms, par Samuel Delerme |  | 16 | Critique courte |
 | Le coup d'oeil du Critik : "Threats", supplément pour Shadowrun en VO, par Samuel Delerme |  | 16 | Critique courte |
 | Le coup d'oeil du Critik : "Uncaged : Faces of Sigil", supplément pour AD&D Planescape, par Patrick Bousquet |  | 16 | Critique courte |
-| L'antre du Critik : "Earthdawn" (1e édition, VF), par Fabrice Colin |  | s 20-22 | Critique détaillée |
-| L'antre du Critik : "Rolemaster : The Standard System", par Vincent Briday |  | s 24-28 | Critique détaillée |
-| L'Encyclopédie transuniverselle de Gwô & Millord : "Bouillabaisse un peu l'abat-jour...", par Patrick Bousquet et Christophe Debien (illustration : Thierry Ségur) |  | s 30-32 | Aide de jeu générique sur les restaurants et tavernes et la qualité de la cuisine. |
+| L'antre du Critik : "Earthdawn" (1e édition, VF), par Fabrice Colin |  | 20-22 | Critique détaillée |
+| L'antre du Critik : "Rolemaster : The Standard System", par Vincent Briday |  | 24-28 | Critique détaillée |
+| L'Encyclopédie transuniverselle de Gwô & Millord : "Bouillabaisse un peu l'abat-jour..." | Patrick Bousquet et Christophe Debien, illustration : Thierry Ségur | 30-32 | Aide de jeu générique sur les restaurants et tavernes et la qualité de la cuisine. |
 | Dialogues : "L'homme de Conspirations sort de l'ombre" |  | 35 | Interview de Jonathan Tweet par la rédaction |
-| "Rhadjabán, la cité du dieu Airain" |  | s 38-46 et 79-86 (en cahier central) | Aide de jeu médiéval-fantastique présentant une ville dans une ambiance de contes des Mille et une nuits. Textes de Patrick Bousquet, Stéphane Bura, Christophe Debien, Tristan Lhomme et Pierre Rosenthal, illustrations de Bernard Bittler, plans de Didier Guiserix, Jean-Marie Noël et Mathieu Sapin. |
-| "Les feux du ciel" |  | s 48-51 | Scénario pour AD&D2 par Stéphane Bura (illustration de Bernard Bittler, plans par Cyrille Daujean) |
-| "Memory backup" |  | s 52-55 | Scénario pour "Empyrium", par Philippe Rat (illustrations d'Eric Puech) |
-| Destination aventure : "Vert crescendo" |  | s 55-59 | Scénario pour "Earthdawn" par Fabrice Colin (illustrations d'Eric Puech, plan par Cyrille Daujean) |
-| "Solstice mortel" |  | s 60-63 | Scénario pour "Mage" par Tristan Lhomme (illustrations d'Eric Puech) |
-| Scénario Grand Ecran : "Projet Poing d'acier" |  | s 64-77 | Scénario pour "Star Wars" par Philippe Rat (illustrations d'Eric Puech) |
+| "Rhadjabán, la cité du dieu Airain" |  | 38-46 et 79-86 (en cahier central) | Aide de jeu médiéval-fantastique présentant une ville dans une ambiance de contes des Mille et une nuits. Textes de Patrick Bousquet, Stéphane Bura, Christophe Debien, Tristan Lhomme et Pierre Rosenthal, illustrations de Bernard Bittler, plans de Didier Guiserix, Jean-Marie Noël et Mathieu Sapin. |
+| "Les feux du ciel" |  | 48-51 | Scénario pour AD&D2 par Stéphane Bura (illustration de Bernard Bittler, plans par Cyrille Daujean) |
+| "Memory backup" |  | 52-55 | Scénario pour "Empyrium", par Philippe Rat (illustrations d'Eric Puech) |
+| Destination aventure : "Vert crescendo" |  | 55-59 | Scénario pour "Earthdawn" par Fabrice Colin (illustrations d'Eric Puech, plan par Cyrille Daujean) |
+| "Solstice mortel" |  | 60-63 | Scénario pour "Mage" par Tristan Lhomme (illustrations d'Eric Puech) |
+| Scénario Grand Ecran : "Projet Poing d'acier" |  | 64-77 | Scénario pour "Star Wars" par Philippe Rat (illustrations d'Eric Puech) |
 | Adaptations pour Simulacres |  | 78 | Caractéristiques techniques des scénarios du numéro pour le jeu "Simulacres" |
 | Fiche de personnage pour "Simulacres" |  | 85-86 | Fiche de personnage recto-verso pour le jeu "Simulacres" |
-| Le Petit Capharnaüm n°23 : "Adapter les scénarios de space opera à Simulacres" |  | s 88-90 | Aide de jeu pour "Simulacres" par Pierre Rosenthal (illustrations d'Eric Puech) |
-| L'antre du Critik : "Les colons de Katäne" (jeu de plateau) |  | s 92-93 | Critique détaillée par Bruno-André Giraudon |
+| Le Petit Capharnaüm n°23 : "Adapter les scénarios de space opera à Simulacres" |  | 88-90 | Aide de jeu pour "Simulacres" par Pierre Rosenthal (illustrations d'Eric Puech) |
+| L'antre du Critik : "Les colons de Katäne" (jeu de plateau) |  | 92-93 | Critique détaillée par Bruno-André Giraudon |
 | Aux quatre coins des cartes |  | 94-95 | Actualités des jeux de cartes à jouer et à collectionner, présentée par Pierre Rosenthal. |
 | Métalliques |  | 96 | Actualité des figurines, par François Décamp (photos par Bruno de Grimouard ; figurines peintes par Michel Dauvillier, Bruno de Grimouard, Thierry Cornic). |
-| L'antre du Critik : "Warzone" (jeu de figurines) |  | s 98-99 | Critique détaillée par Croc |
+| L'antre du Critik : "Warzone" (jeu de figurines) |  | 98-99 | Critique détaillée par Croc |
 | "Les trouble-fêtes" |  | 100 | Scénario pour le jeu de figurines "Space Hulk" par Croc (illustration : Jean-Dominique Lavoix-Carli ; plan : P.R.) |
 | Bataille pour Acheron |  | 102 | Scénario pour le jeu de figurines "Warhammer 40,000" par Croc (illustration : J.-D. Lavoix-Carli) |
-| Parabellum |  | s 104-105 | Actualité des jeux de réflexion et des jeux de plateau, présentée par Franck Stora |
-| Inspirations |  | s 106-107 | Critiques de livres et de bandes dessinées pouvant servir d'inspiration aux MJ, par André Foussat. |
-| Cave canem |  | s 104-112 | Pages humoristiques parodiant "Casus Belli", par Fabrice Colin, G. E. Rannes, Pat & Chris, Tristan Lhomme, Stéphane Bura. Illustrations de Rolland Barthélémy, Mathieu Sapin, Mehdi et Christopher. |
+| Parabellum |  | 104-105 | Actualité des jeux de réflexion et des jeux de plateau, présentée par Franck Stora |
+| Inspirations |  | 106-107 | Critiques de livres et de bandes dessinées pouvant servir d'inspiration aux MJ, par André Foussat. |
+| Cave canem |  | 104-112 | Pages humoristiques parodiant "Casus Belli", par Fabrice Colin, G. E. Rannes, Pat & Chris, Tristan Lhomme, Stéphane Bura. Illustrations de Rolland Barthélémy, Mathieu Sapin, Mehdi et Christopher. |
 | L'actualité du jeu |  | 114 | Tribune et courrier des lecteurs, par Christian Lehmann et Frank Stora. |
 | En direct de la rédaction |  | 115 | Article par Fabrice Colin. |
 | BD : Les Irrécupérables : "Les dessous des cartes" |  | 115 | Bande dessinée humoristique, par Mehdi et Christopher. |
 | Liste des clubs d'initiation Casus Belli |  | 115 |  |
-| L'actualité du jeu |  | s 116-121 | Actualités variées (tournois, conventions, fanzines, clubs, minitel, expositions...) |
+| L'actualité du jeu |  | 116-121 | Actualités variées (tournois, conventions, fanzines, clubs, minitel, expositions...) |
 | BD : "Monghol & Ghota" |  | 120 | Bande dessinée humoristique. |
 
 ## Numéro 97
@@ -3361,7 +3361,7 @@ Sommaire à compléter.
 | Créer un univers de campagne | Jean Balczesak et Didier Guiserix | 83 | conseils / aide de jeu |
 | Jouer sans règles ou presque | Jean-Luc Bizien | 86 | conseils / aide de jeu |
 | Jouer à haut niveau | Peter D. Adkison | 89 | conseils / aide de jeu |
-| Jouer les Grosbills (jean-Luc Bizien) |  | 82 | conseils / aide de jeu |
+| Jouer les Grosbills | Jean-Luc Bizien | 82 | conseils / aide de jeu |
 | Réussir ses parties d'initiation | Didier Guiserix | 84 | conseils / aide de jeu |
 | Jeunes loups et vieux renards autour d'une même table | Serge Olivier | 96 | conseils / aide de jeu |
 

@@ -64,8 +64,8 @@ https://www.meluzine.org/fr/fanzine/56/1
 | Des gogo-gadgets pour vos voleurs | AD&D | 14 | aide de jeu AD&D |
 | Scénario : Idée au gramme (INS/MV) |  | 11 | scénario INS/MV |
 | Un scénario pour Stormbringer |  | 26 | scénario Stormbringer |
-| Le Collectionneur (par Silverleaf) |  | 13 | nouvelle |
-| L'Échiquier cosmique (par petit Greg) |  | 24 | nouvelle |
+| Le Collectionneur | Silverleaf | 13 | nouvelle |
+| L'Échiquier cosmique | petit Greg | 24 | nouvelle |
 | Hoshikaze partie 1 (space opera) |  | 18 | univers |
 
 ## Numéro 2

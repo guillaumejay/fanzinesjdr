@@ -81,12 +81,12 @@ Sommaire à compléter.
 
 | Titre | Auteur | Page | Type |
 | --- | --- | --- | --- |
-| Royaumes inoubliables | D&D | s 26-29 | enquêtes, monde de Faérûn |
-| Team building | D&D | s 40-43 | la voie du héros |
+| Royaumes inoubliables | D&D | 26-29 | enquêtes, monde de Faérûn |
+| Team building | D&D | 40-43 | la voie du héros |
 | Le Marché des 1000 merveilles |  | (entre les pages 42-43) | poster géant |
-| Le Marché des 1000 merveilles |  | s 52-57 | aide de jeu |
+| Le Marché des 1000 merveilles |  | 52-57 | aide de jeu |
 | Le Fort de Gisombre, pour les Royaumes Oubliés |  | 58 | les maîtres du jeu |
-| La Nécropole Jiyarin | Shangaï 1932 | s 72-80 | les maîtres du jeu - scénario Cthulhu |
+| La Nécropole Jiyarin | Shangaï 1932 | 72-80 | les maîtres du jeu - scénario Cthulhu |
 
 ## Numéro 3
 
@@ -128,10 +128,10 @@ Sommaire à compléter.
 
 | Titre | Auteur | Page | Type |
 | --- | --- | --- | --- |
-| Le Barbare | D&D | s 32-41 | classe de personnage D&D |
+| Le Barbare | D&D | 32-41 | classe de personnage D&D |
 | Le Temple du Roi-Guerrier |  | (entre les pages 42-43) | poster géant |
-| Tactiques augmentées | Shadownrun | s 50-53 | aide de jeu Comlink et Hacker |
-| Le Seigneur des Brumes |  | s 66-79 | scénario D&D |
+| Tactiques augmentées | Shadownrun | 50-53 | aide de jeu Comlink et Hacker |
+| Le Seigneur des Brumes |  | 66-79 | scénario D&D |
 
 ## Numéro 5
 

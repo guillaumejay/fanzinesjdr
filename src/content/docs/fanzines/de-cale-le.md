@@ -69,11 +69,11 @@ Ou bien directement sur le site de La Bourse à Dés : http://www.labourseades.f
 | Test de jeu : *Cats ! La Mascarade* |  | 13 | Test d'un jeu de rôle sur table. |
 | Chronique : "Schreiber... saucisse... gratuité..." |  | 14 | Article sur les ressources gratuites sur Internet pour les jeux de rôle sur table avec présentations de sites utiles. |
 | Chronique : atelier création de scénario |  | 15 | Conseils pour écrire ses scénarios de jeu de rôle sur table. |
-| Scénario : *La Chasse à l'amulette* |  | s 17 à 30 | Scénario pour *Cats ! La Mascarade* avec aides de jeu et fiches de personnages. |
+| Scénario : *La Chasse à l'amulette* |  | 17 à 30 | Scénario pour *Cats ! La Mascarade* avec aides de jeu et fiches de personnages. |
 | Voix : L'arbre de vie - Le renouveau - Krystal |  | 31 | (Apparemment une courte nouvelle.) |
-| Voix : Première maîtrise d'un MJ : *Into the Odd* |  | s 32-33 | Récit de parties par un MJ débutant à ce jeu. |
-| Jeux : instants ludiques |  | s 34 à 36 | Quiz. |
-| Agenda |  | s 37-38 | Annonces d'activités ludiques et d'événements à Poitiers et aux alentours. |
+| Voix : Première maîtrise d'un MJ : *Into the Odd* |  | 32-33 | Récit de parties par un MJ débutant à ce jeu. |
+| Jeux : instants ludiques |  | 34 à 36 | Quiz. |
+| Agenda |  | 37-38 | Annonces d'activités ludiques et d'événements à Poitiers et aux alentours. |
 
 ## Numéro 2
 

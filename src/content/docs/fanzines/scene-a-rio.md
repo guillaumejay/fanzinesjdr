@@ -80,14 +80,14 @@ source_format: "mediawiki"
 | --- | --- | --- | --- |
 | Editorial |  | 3 | Edito |
 | La rédaction vous parle |  | 4 | L'actu du jeu de rôle |
-| Cinéma |  | s 6 et 13 | Actu ciné |
+| Cinéma |  | 6 et 13 | Actu ciné |
 | En guise de conclusion |  | 7 | Article de fond sur les jeux de rôle |
 | The green hell |  | 12 | Nouvelle |
 | THE ZAP GUN |  | 15 | Scénario Berlin XVIII |
 | Vampires |  | 35 | Article de fond |
 | La Belle et la Bête |  | 39 | Scénario pour l'Appel de Cthulhu |
-| Les Mangas à la mode |  | s 49 | Conseils de lecture |
-| Bouquins |  | s 51, 53 et 60 | Conseils de lecture |
+| Les Mangas à la mode |  | 49 | Conseils de lecture |
+| Bouquins |  | 51, 53 et 60 | Conseils de lecture |
 | BD par MATU |  | 52 | Conseils de lecture |
 | Nouvelles pafrèches |  | 54 | Humour |
 | Néant |  | 56 | Nouvelle |

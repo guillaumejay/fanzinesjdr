@@ -57,27 +57,27 @@ https://www.noosfere.org/icarus/livres/collection.asp?numcollection=1975551937&N
 | Titre | Jeu | Auteur | Page | Type |
 | --- | --- | --- | --- | --- |
 | Édito | n/a | Melchor | 3 | édito |
-| Instinct grégaire | n/a | Lorien & Melchor | s 4-12 | article |
-| Kritik bouquins | n/a | Melchor | s 13-14 | critiques |
-| Hector | n/a | Lorien | s 15-16 | ? |
-| Ozone | n/a | Lorien | s 17-18 | ? |
-| Qui va à la chasse… | n/a | Yann | s 18-19 | ? |
-| Happy end | n/a | Melchor | s 19-20 | ? |
-| Gary | n/a | Lorien | s 21-24 | ? |
-| Un peu dur | n/a | Gille & Emmanuel Grellard | s 25-26 | bande dessinée |
-| Tech en vrac | n/a | Lorien | s 27-29 | notes |
+| Instinct grégaire | n/a | Lorien & Melchor | 4-12 | article |
+| Kritik bouquins | n/a | Melchor | 13-14 | critiques |
+| Hector | n/a | Lorien | 15-16 | ? |
+| Ozone | n/a | Lorien | 17-18 | ? |
+| Qui va à la chasse… | n/a | Yann | 18-19 | ? |
+| Happy end | n/a | Melchor | 19-20 | ? |
+| Gary | n/a | Lorien | 21-24 | ? |
+| Un peu dur | n/a | Gille & Emmanuel Grellard | 25-26 | bande dessinée |
+| Tech en vrac | n/a | Lorien | 27-29 | notes |
 | Exo-squelette | n/a | Melchor | 30 | jeu |
-| Le Bokor | n/a | Melchor | s 31-32 | jeu |
+| Le Bokor | n/a | Melchor | 31-32 | jeu |
 | interview de Lips | n/a | Lorien | 33 | entretien |
 | Interview de Croc | n/a | Melchor | 34 | entretien |
 | Santé 2020 | n/a | Lorien | 35 | notes |
-| Chicago 2020 | n/a | Speedmock | s 36-39 | article |
-| L'agent corporatiste | n/a | T. Hawat | s 40-42 | ? |
-| Pleasure Corp | n/a | Lorien | s 43-44 | ? |
-| Interview de G.Elton Ranne et Stéphane Bura | n/a | Lorien | s 45-46 | entretien |
-| Brothers of Blood | n/a | Melchor | s 47-52 | scénario |
-| Sur tous les fronts | n/a | D.O.A. | s 53-57 | scénario |
-| Eat or be eaten | n/a | Melchor | s 58-59 | scénario |
+| Chicago 2020 | n/a | Speedmock | 36-39 | article |
+| L'agent corporatiste | n/a | T. Hawat | 40-42 | ? |
+| Pleasure Corp | n/a | Lorien | 43-44 | ? |
+| Interview de G.Elton Ranne et Stéphane Bura | n/a | Lorien | 45-46 | entretien |
+| Brothers of Blood | n/a | Melchor | 47-52 | scénario |
+| Sur tous les fronts | n/a | D.O.A. | 53-57 | scénario |
+| Eat or be eaten | n/a | Melchor | 58-59 | scénario |
 | Cinéma – coup de gueule de Lorien | n/a | Lorien | 61 | notes |
 
 ## Numéro 2

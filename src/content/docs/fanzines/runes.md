@@ -398,7 +398,7 @@ Sommaire à compléter.
 | La Gazette |  | 42 | ? |
 | Quoi de neuf ? | Henri Balczesak | 44 | actualité |
 | Et si on faisait mieux connaissance ? – réponse |  | 46 | ? |
-| Il… (texte Binjoy, dessins Montesinos) |  | 48 | bande dessinée |
+| Il… | texte Binjoy, dessins Montesinos | 48 | bande dessinée |
 | Vous dites ? |  | 50 | courrier des lecteurs |
 | Bulletin d'abonnement |  | 51 | abonnement |
 

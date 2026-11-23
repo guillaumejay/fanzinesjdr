@@ -2054,7 +2054,7 @@ Sommaire à compléter.
 | Concevoir une créature |  | 221 | conception / créature |
 | Voies de créature |  | 227 | voies |
 | CHAPITRE 12 : BESTIAIRE & PNJ |  | 235 |  |
-| A-Z : d'Ange à Zombi |  | s 237-279 | bestiaire |
+| A-Z : d'Ange à Zombi |  | 237-279 | bestiaire |
 | PNJ prédéfinis |  | 280 | PNJ prédéfinis |
 | CHAPITRE 13 : SCÉNARIO – RETOUR À CLAIVAL |  | 283 |  |
 | Retour à Claival |  | 284 | scénario |
@@ -2169,7 +2169,7 @@ Sommaire à compléter.
 | Concevoir une créature |  | 221 | conception / créature |
 | Voies de créature |  | 227 | voies |
 | CHAPITRE 12 : BESTIAIRE & PNJ |  | 235 |  |
-| A-Z : d'Ange à Zombi |  | s 237-279 | bestiaire |
+| A-Z : d'Ange à Zombi |  | 237-279 | bestiaire |
 | PNJ prédéfinis |  | 280 | PNJ prédéfinis |
 | CHAPITRE 13 : SCÉNARIO – RETOUR À CLAIVAL |  | 283 |  |
 | Retour à Claival |  | 284 | scénario |
