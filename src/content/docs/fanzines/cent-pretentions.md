@@ -8,9 +8,7 @@ legacy_revision_timestamp: "20181108073006"
 legacy_author: "Mystery Man From Outerspace"
 source_format: "mediawiki"
 ---
-![Illustration de Cent Prétentions](/images/partagees/logo-a-completer.png) ![Illustration de Cent Prétentions](/images/partagees/logo-cherche-couv.png)
-
-### Mystery Man From Outerspace Propose
+## Mystery Man From Outerspace Propose
 
 *Ceci est une ébauche de fiche de fanzine. N'hésitez pas à la compléter (et à supprimer le texte ci-dessous lorsqu'il sera devenu inutile).*
 
@@ -40,161 +38,197 @@ On retrouve les scénarios de Cent Prétentions pour MEGA sur le site des [Messa
 
 [Numéro 9](https://web.archive.org/web/20001013041054/http://imaginaire.isabel.com:80/centpret/numeros/cp9.htm) : Encore du nouveau, Salzberg, une campagne en 4 actes, un gros scénario et quelques aides de jeu pour Hawkmoon première et seconde édition. Un numéro de plus de 100 pages entièrement consacré au Tragique Millénaire et dont toutes les aventures tournent autour d'anciens dieux polissons qui sement le bazard partout où ils passent.
 
-### Généralités
+## Généralités
 
-| Titre : Cent Prétentions (généralités)<br>![Illustration de Cent Prétentions](/images/partagees/fiche-c-est-a-vous.png) | **Couverture :** ![Illustration de Cent Prétentions](/images/partagees/couverture-manquante.png) |  |
-| --- | --- | --- |
-| **Code ISSN :** ? | **Langue :** français | **Thème / Jeu :** ? |
-| **Description :** ? |  |  |
-| **Remarque :** ? |  |  |
-| **Format :** ? | **Impression :** ? | **Adresse physique :** ? |
-| **Fondateur / Responsable :** ? | **Éditeur :** ? | **Rédac’chef :** ? |
-| **Site web :** [sur Web Archive](https://web.archive.org/web/20001013064254/http://imaginaire.isabel.com:80/centpret/numeros/index.htm) | **Prix :** ? | **Nombre total de n° :** ? |
-| **Périodicité :** ? | **Début parution :** ? | **Fin parution :** ? |
+- **Couverture :** manquante
+- **Code ISSN :** ?
+- **Langue :** français
+- **Thème / Jeu :** ?
+- **Description :** ?
+- **Remarque :** ?
+- **Format :** ?
+- **Impression :** ?
+- **Adresse physique :** ?
+- **Fondateur / Responsable :** ?
+- **Éditeur :** ?
+- **Rédac’chef :** ?
+- **Site web :** [sur Web Archive](https://web.archive.org/web/20001013064254/http://imaginaire.isabel.com:80/centpret/numeros/index.htm)
+- **Prix :** ?
+- **Nombre total de n° :** ?
+- **Périodicité :** ?
+- **Début parution :** ?
+- **Fin parution :** ?
 
-### Numéro 1
+## Numéro 1
 
-| Titre : Cent Prétentions (détail du numéro 1)<br>![Illustration de Cent Prétentions](/images/partagees/fiche-c-est-a-vous.png) | **Couverture :** ![Illustration de Cent Prétentions](/images/partagees/couverture-manquante.png) |  |  |  |
-| --- | --- | --- | --- | --- |
-| **Numéro :** n°1 | **Type de numéro :** ? | **Série :** ? | **Date de parution :** ? | **Pages :** ? |
-| **Responsable :** ? | **Rédac’chef :** ? | **Éditeur :** ? |  |  |
-| **Site web :** ? | **Adresse :** ? | **Prix :** ? |  |  |
-| Sommaire |  |  |  |  |
-| Titre de l’article | Page | Type d’article |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
+- **Couverture :** manquante
+- **Numéro :** n°1
+- **Type de numéro :** ?
+- **Série :** ?
+- **Date de parution :** ?
+- **Pages :** ?
+- **Responsable :** ?
+- **Rédac’chef :** ?
+- **Éditeur :** ?
+- **Site web :** ?
+- **Adresse :** ?
+- **Prix :** ?
 
-### Numéro 2
+**Sommaire**
 
-| Titre : Cent Prétentions (détail du numéro 2)<br>![Illustration de Cent Prétentions](/images/partagees/fiche-c-est-a-vous.png) | **Couverture :** ![Illustration de Cent Prétentions](/images/partagees/couverture-manquante.png) |  |  |  |
-| --- | --- | --- | --- | --- |
-| **Numéro :** n°2 | **Type de numéro :** ? | **Série :** ? | **Date de parution :** ? | **Pages :** ? |
-| **Responsable :** ? | **Rédac’chef :** ? | **Éditeur :** ? |  |  |
-| **Site web :** ? | **Adresse :** ? | **Prix :** ? |  |  |
-| Sommaire |  |  |  |  |
-| Titre de l’article | Page | Type d’article |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
+Sommaire à compléter.
 
-### Numéro 3
+## Numéro 2
 
-| Titre : Cent Prétentions (détail du numéro 3)<br>![Illustration de Cent Prétentions](/images/partagees/fiche-c-est-a-vous.png) | **Couverture :** ![Illustration de Cent Prétentions](/images/partagees/couverture-manquante.png) |  |  |  |
-| --- | --- | --- | --- | --- |
-| **Numéro :** n°3 | **Type de numéro :** ? | **Série :** ? | **Date de parution :** ? | **Pages :** ? |
-| **Responsable :** ? | **Rédac’chef :** ? | **Éditeur :** ? |  |  |
-| **Site web :** ? | **Adresse :** ? | **Prix :** ? |  |  |
-| Sommaire |  |  |  |  |
-| Titre de l’article | Page | Type d’article |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
+- **Couverture :** manquante
+- **Numéro :** n°2
+- **Type de numéro :** ?
+- **Série :** ?
+- **Date de parution :** ?
+- **Pages :** ?
+- **Responsable :** ?
+- **Rédac’chef :** ?
+- **Éditeur :** ?
+- **Site web :** ?
+- **Adresse :** ?
+- **Prix :** ?
 
-### Numéro 4
+**Sommaire**
 
-| Titre : Cent Prétentions (détail du numéro 4)<br>![Illustration de Cent Prétentions](/images/partagees/fiche-c-est-a-vous.png) | **Couverture :** ![Illustration de Cent Prétentions](/images/partagees/couverture-manquante.png) |  |  |  |
-| --- | --- | --- | --- | --- |
-| **Numéro :** n°4 | **Type de numéro :** ? | **Série :** ? | **Date de parution :** ? | **Pages :** ? |
-| **Responsable :** ? | **Rédac’chef :** ? | **Éditeur :** ? |  |  |
-| **Site web :** ? | **Adresse :** ? | **Prix :** ? |  |  |
-| Sommaire |  |  |  |  |
-| Titre de l’article | Page | Type d’article |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
+Sommaire à compléter.
 
-### Numéro 5
+## Numéro 3
 
-| Titre : Cent Prétentions (détail du numéro 5)<br>![Illustration de Cent Prétentions](/images/partagees/fiche-c-est-a-vous.png) | **Couverture :** ![Illustration de Cent Prétentions](/images/partagees/couverture-manquante.png) |  |  |  |
-| --- | --- | --- | --- | --- |
-| **Numéro :** n°5 | **Type de numéro :** ? | **Série :** ? | **Date de parution :** ? | **Pages :** ? |
-| **Responsable :** ? | **Rédac’chef :** ? | **Éditeur :** ? |  |  |
-| **Site web :** ? | **Adresse :** ? | **Prix :** ? |  |  |
-| Sommaire |  |  |  |  |
-| Titre de l’article | Page | Type d’article |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
+- **Couverture :** manquante
+- **Numéro :** n°3
+- **Type de numéro :** ?
+- **Série :** ?
+- **Date de parution :** ?
+- **Pages :** ?
+- **Responsable :** ?
+- **Rédac’chef :** ?
+- **Éditeur :** ?
+- **Site web :** ?
+- **Adresse :** ?
+- **Prix :** ?
 
-### Numéro 6
+**Sommaire**
 
-| Titre : Cent Prétentions (détail du numéro 6)<br>![Illustration de Cent Prétentions](/images/partagees/fiche-c-est-a-vous.png) | **Couverture :** ![Illustration de Cent Prétentions](/images/partagees/couverture-manquante.png) |  |  |  |
-| --- | --- | --- | --- | --- |
-| **Numéro :** n°6 | **Type de numéro :** ? | **Série :** ? | **Date de parution :** ? | **Pages :** ? |
-| **Responsable :** ? | **Rédac’chef :** ? | **Éditeur :** ? |  |  |
-| **Site web :** ? | **Adresse :** ? | **Prix :** ? |  |  |
-| Sommaire |  |  |  |  |
-| Titre de l’article | Page | Type d’article |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
+Sommaire à compléter.
 
-### Numéro 7
+## Numéro 4
 
-| Titre : Cent Prétentions (détail du numéro 7)<br>![Illustration de Cent Prétentions](/images/partagees/fiche-c-est-a-vous.png) | **Couverture :** ![Illustration de Cent Prétentions](/images/partagees/couverture-manquante.png) |  |  |  |
-| --- | --- | --- | --- | --- |
-| **Numéro :** n°7 | **Type de numéro :** ? | **Série :** ? | **Date de parution :** ? | **Pages :** ? |
-| **Responsable :** ? | **Rédac’chef :** ? | **Éditeur :** ? |  |  |
-| **Site web :** ? | **Adresse :** ? | **Prix :** ? |  |  |
-| Sommaire |  |  |  |  |
-| Titre de l’article | Page | Type d’article |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
+- **Couverture :** manquante
+- **Numéro :** n°4
+- **Type de numéro :** ?
+- **Série :** ?
+- **Date de parution :** ?
+- **Pages :** ?
+- **Responsable :** ?
+- **Rédac’chef :** ?
+- **Éditeur :** ?
+- **Site web :** ?
+- **Adresse :** ?
+- **Prix :** ?
 
-### Numéro 8
+**Sommaire**
 
-| Titre : Cent Prétentions (détail du numéro 8)<br>![Illustration de Cent Prétentions](/images/partagees/fiche-c-est-a-vous.png) | **Couverture :** ![Illustration de Cent Prétentions](/images/partagees/couverture-manquante.png) |  |  |  |
-| --- | --- | --- | --- | --- |
-| **Numéro :** n°8 | **Type de numéro :** ? | **Série :** ? | **Date de parution :** ? | **Pages :** ? |
-| **Responsable :** ? | **Rédac’chef :** ? | **Éditeur :** ? |  |  |
-| **Site web :** ? | **Adresse :** ? | **Prix :** ? |  |  |
-| Sommaire |  |  |  |  |
-| Titre de l’article | Page | Type d’article |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
+Sommaire à compléter.
 
-### Numéro 9
+## Numéro 5
 
-| Titre : Cent Prétentions (détail du numéro 9)<br>![Illustration de Cent Prétentions](/images/partagees/fiche-c-est-a-vous.png) | **Couverture :** ![Illustration de Cent Prétentions](/images/partagees/couverture-manquante.png) |  |  |  |
-| --- | --- | --- | --- | --- |
-| **Numéro :** n°9 | **Type de numéro :** ? | **Série :** ? | **Date de parution :** ? | **Pages :** ? |
-| **Responsable :** ? | **Rédac’chef :** ? | **Éditeur :** ? |  |  |
-| **Site web :** ? | **Adresse :** ? | **Prix :** ? |  |  |
-| Sommaire |  |  |  |  |
-| Titre de l’article | Page | Type d’article |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
+- **Couverture :** manquante
+- **Numéro :** n°5
+- **Type de numéro :** ?
+- **Série :** ?
+- **Date de parution :** ?
+- **Pages :** ?
+- **Responsable :** ?
+- **Rédac’chef :** ?
+- **Éditeur :** ?
+- **Site web :** ?
+- **Adresse :** ?
+- **Prix :** ?
 
-### Notes
+**Sommaire**
+
+Sommaire à compléter.
+
+## Numéro 6
+
+- **Couverture :** manquante
+- **Numéro :** n°6
+- **Type de numéro :** ?
+- **Série :** ?
+- **Date de parution :** ?
+- **Pages :** ?
+- **Responsable :** ?
+- **Rédac’chef :** ?
+- **Éditeur :** ?
+- **Site web :** ?
+- **Adresse :** ?
+- **Prix :** ?
+
+**Sommaire**
+
+Sommaire à compléter.
+
+## Numéro 7
+
+- **Couverture :** manquante
+- **Numéro :** n°7
+- **Type de numéro :** ?
+- **Série :** ?
+- **Date de parution :** ?
+- **Pages :** ?
+- **Responsable :** ?
+- **Rédac’chef :** ?
+- **Éditeur :** ?
+- **Site web :** ?
+- **Adresse :** ?
+- **Prix :** ?
+
+**Sommaire**
+
+Sommaire à compléter.
+
+## Numéro 8
+
+- **Couverture :** manquante
+- **Numéro :** n°8
+- **Type de numéro :** ?
+- **Série :** ?
+- **Date de parution :** ?
+- **Pages :** ?
+- **Responsable :** ?
+- **Rédac’chef :** ?
+- **Éditeur :** ?
+- **Site web :** ?
+- **Adresse :** ?
+- **Prix :** ?
+
+**Sommaire**
+
+Sommaire à compléter.
+
+## Numéro 9
+
+- **Couverture :** manquante
+- **Numéro :** n°9
+- **Type de numéro :** ?
+- **Série :** ?
+- **Date de parution :** ?
+- **Pages :** ?
+- **Responsable :** ?
+- **Rédac’chef :** ?
+- **Éditeur :** ?
+- **Site web :** ?
+- **Adresse :** ?
+- **Prix :** ?
+
+**Sommaire**
+
+Sommaire à compléter.
+
+## Notes
 Aucune des couvertures n'est disponible (reportez-vous à l'onglet « Discussion » pour plus de détails).

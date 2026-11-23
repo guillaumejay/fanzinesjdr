@@ -8,7 +8,7 @@ legacy_revision_timestamp: "20161202065518"
 legacy_author: "Mystery Man From Outerspace"
 source_format: "mediawiki"
 ---
-### Mystery Man From Outerspace Propose
+## Mystery Man From Outerspace Propose
 *Ceci est une ébauche de fiche de fanzine. N'hésitez pas à la compléter (et à supprimer le texte ci-dessous lorsqu'il sera devenu inutile).*
 
 Alpha+Phase est un fanzine/e-zine spécialisé, consacré au jeu de rôle « Eclipse Phase » ( paru en français chez BBE). Il compte 2 numéros.

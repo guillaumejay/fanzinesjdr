@@ -8,30 +8,44 @@ legacy_revision_timestamp: "20211111140048"
 legacy_author: "Mystery Man From Outerspace"
 source_format: "mediawiki"
 ---
-### Généralités
+## Généralités
 
-| Titre : Déjà Mort (Généralités)<br>![Illustration de Déjà Mort](/images/partagees/fiche-besoin-d-aide.png) | **Couverture :** ![Illustration de Déjà Mort](/images/fanzines/deja-mort/dejamort01.jpg) |  |
-| --- | --- | --- |
-| **Code ISSN :** ? | **Langue :** français | **Thème / Jeu :** D&D5 et autres jeux |
-| **Description :** ? |  |  |
-| **Remarque :** ? |  |  |
-| **Format :** ? | **Impression :** ? | **Adresse physique :** ? |
-| **Fondateur / Responsable :** ? | **Éditeur :** Éditions Déjà Mort | **Rédac’chef :** ? |
-| **Site web :** https://editionsdejamort.bigcartel.com | **Prix :** 8 $ (version pdf) ou 23 $ (version papier) | **Nombre total de n° :** 1 |
-| **Périodicité :** ? | **Début parution :** mai 2021 | **Fin parution :** n/a (en cours) |
+![Couverture de Déjà Mort](/images/fanzines/deja-mort/dejamort01.jpg)
 
-### Numéro 1
+- **Code ISSN :** ?
+- **Langue :** français
+- **Thème / Jeu :** D&D5 et autres jeux
+- **Description :** ?
+- **Remarque :** ?
+- **Format :** ?
+- **Impression :** ?
+- **Adresse physique :** ?
+- **Fondateur / Responsable :** ?
+- **Éditeur :** Éditions Déjà Mort
+- **Rédac’chef :** ?
+- **Site web :** https://editionsdejamort.bigcartel.com
+- **Prix :** 8 $ (version pdf) ou 23 $ (version papier)
+- **Nombre total de n° :** 1
+- **Périodicité :** ?
+- **Début parution :** mai 2021
+- **Fin parution :** n/a (en cours)
 
-| Titre : Déjà Mort (Détail du numéro 1)<br>![Illustration de Déjà Mort](/images/partagees/fiche-besoin-d-aide.png) | **Couverture :** ![Illustration de Déjà Mort](/images/fanzines/deja-mort/dejamort01.jpg) |  |  |  |
-| --- | --- | --- | --- | --- |
-| **Numéro :** n°1 | **Type de numéro :** ? | **Série :** ? | **Date de parution :** mai 2021 | **Pages :** 72 |
-| **Responsable :** ? | **Rédac’chef :** ? | **Éditeur :** Éditions Déjà Mort |  |  |
-| **Site web :** https://editionsdejamort.bigcartel.com | **Adresse :** ? | **Prix :** 8 $ (version pdf) ou 23 $ (version papier) |  |  |
-| Sommaire |  |  |  |  |
-| Titre de l’article | Page | Type d’article |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
+## Numéro 1
+
+![Couverture du numéro 1 de Déjà Mort](/images/fanzines/deja-mort/dejamort01.jpg)
+
+- **Numéro :** n°1
+- **Type de numéro :** ?
+- **Série :** ?
+- **Date de parution :** mai 2021
+- **Pages :** 72
+- **Responsable :** ?
+- **Rédac’chef :** ?
+- **Éditeur :** Éditions Déjà Mort
+- **Site web :** https://editionsdejamort.bigcartel.com
+- **Adresse :** ?
+- **Prix :** 8 $ (version pdf) ou 23 $ (version papier)
+
+**Sommaire**
+
+Sommaire à compléter.

@@ -8,20 +8,28 @@ legacy_revision_timestamp: "20181030223302"
 legacy_author: "Mystery Man From Outerspace"
 source_format: "mediawiki"
 ---
-![Illustration de Palantir](/images/partagees/logo-a-completer.png) ![Illustration de Palantir](/images/partagees/logo-cherche-couv.png)
+## Généralités
+![Couverture de Palantir](/images/fanzines/palantir/palantir-1-s.png)
 
-### Généralités
-| Titre : Palantir - Mythes et légendes de l'Infini | **Couverture :**  ![Illustration de Palantir](/images/fanzines/palantir/palantir-1-s.png) |  |
-| --- | --- | --- |
-| **Code ISSN :** Pas de code ISSN | **Langue :** Français | **Thème / Jeu :** Généraliste |
-| **Description :** Fanzine de 124 pages noir et blanc relié (broché collé) avec une page de couverture imprimée sur papier bleu pâle, un plat avant en plastique transparent, un plat arrière cartonné blanc et un dos cartonné blanc. |  |  |
-| **Remarque :** |  |  |
-| **Format :** Papier • A4 | **Impression :** Photocopie | **Adresse physique :** Jean-Philippe Dufour - 42, rue Brancas - 92310 Sèvres - (16 1) 45 34 41 27 |
-| **Fondateur / Responsable :** Mention Les Compagnons de Fëanor (?) ; rédacteur en chef: Jean-Philippe Dufour ; responsable financier: Light Vador ; responsable de la distribution: Frédéric Brousse, rédacteurs: Jena-Philippe Bernard, Frédéric Brousse, Denis Corel, Jean-Philippe Dufour, Christophe Guérin, Erwan Harroch, Sébastien Miroudot, Laurent Morin ; dessinateurs: Patrick Bac Cam, Jean-Philippe Bernard, Renaud Burrer, Julien Danielides, Julien Delhome, Guillaume Gérard, Fabrice Holbé, Arnaud Le Moal, Jérôme Lengreney "JEFF", David Loison, Pierre Minouk, Cyril Pedrosa, S. F. ; traducteurs: Patrick Bac Cam, Jean-Philippe Dufour ; concepteur artistique: Light Vador. | **Éditeur :** auto-édition | **Rédac’chef :** Jean-Philippe Dufour |
-| **Site web :** ? | **Prix :** 25 Fr (35 F pour le n°2) | **Nombre total de n° :** 2 |
-| **Périodicité :** Semestriel | **Début parution :** Mars 1992 | **Fin parution :** Décembre 1992 |
+- **Code ISSN :** Pas de code ISSN
+- **Langue :** Français
+- **Thème / Jeu :** Généraliste
+- **Description :** Fanzine de 124 pages noir et blanc relié (broché collé) avec une page de couverture imprimée sur papier bleu pâle, un plat avant en plastique transparent, un plat arrière cartonné blanc et un dos cartonné blanc.
+- **Remarque :** 
+- **Format :** Papier • A4
+- **Impression :** Photocopie
+- **Adresse physique :** Jean-Philippe Dufour - 42, rue Brancas - 92310 Sèvres - (16 1) 45 34 41 27
+- **Fondateur / Responsable :** Mention Les Compagnons de Fëanor (?) ; rédacteur en chef: Jean-Philippe Dufour ; responsable financier: Light Vador ; responsable de la distribution: Frédéric Brousse, rédacteurs: Jena-Philippe Bernard, Frédéric Brousse, Denis Corel, Jean-Philippe Dufour, Christophe Guérin, Erwan Harroch, Sébastien Miroudot, Laurent Morin ; dessinateurs: Patrick Bac Cam, Jean-Philippe Bernard, Renaud Burrer, Julien Danielides, Julien Delhome, Guillaume Gérard, Fabrice Holbé, Arnaud Le Moal, Jérôme Lengreney "JEFF", David Loison, Pierre Minouk, Cyril Pedrosa, S. F. ; traducteurs: Patrick Bac Cam, Jean-Philippe Dufour ; concepteur artistique: Light Vador.
+- **Éditeur :** auto-édition
+- **Rédac’chef :** Jean-Philippe Dufour
+- **Site web :** ?
+- **Prix :** 25 Fr (35 F pour le n°2)
+- **Nombre total de n° :** 2
+- **Périodicité :** Semestriel
+- **Début parution :** Mars 1992
+- **Fin parution :** Décembre 1992
 
-### Fiche du numéro 1
+## Fiche du numéro 1
 - **Titre :** Palantir - Mythes et légendes de l'Infini - Numéro un
 - **Couverture :** ![Illustration de Palantir](/images/fanzines/palantir/palantir-1-s.png)
 

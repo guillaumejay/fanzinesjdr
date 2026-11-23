@@ -8,9 +8,7 @@ legacy_revision_timestamp: "20181031085803"
 legacy_author: "Mystery Man From Outerspace"
 source_format: "mediawiki"
 ---
-![Illustration de Body Bag](/images/partagees/logo-a-completer.png)
-
-### Mystery Man From Outerspace Propose
+## Mystery Man From Outerspace Propose
 
 *Ceci est une ébauche de fiche de fanzine. N'hésitez pas à la compléter (et à supprimer le texte ci-dessous lorsqu'il sera devenu inutile).*
 
@@ -18,76 +16,104 @@ http://sdimag.fr/index.php?rub=0&art=Affiche_Fiche&ID=1624
 
 http://johndoe-rpg.com/catalogue/bodybag/
 
-### Généralités
+## Généralités
 
-| Titre : Body Bag (généralités)<br>![Illustration de Body Bag](/images/partagees/fiche-c-est-a-vous.png) | **Couverture :** ![Illustration de Body Bag](/images/fanzines/body-bag/bodybag1.jpg) |  |
-| --- | --- | --- |
-| **Code ISSN :** ? | **Langue :** ? | **Thème / Jeu :** ? |
-| **Description :** ? |  |  |
-| **Remarque :** ? |  |  |
-| **Format :** numérique (pdf) | **Impression :** ? | **Adresse physique :** ? |
-| **Fondateur / Responsable :** ? | **Éditeur :** Éditions John Doe | **Rédac’chef :** ? |
-| **Site web :** http://johndoe-rpg.com/catalogue/bodybag/ | **Prix :** gratuit | **Nombre total de n° :** 4 |
-| **Périodicité :** ? | **Début parution :** ? | **Fin parution :** ? |
+![Couverture de Body Bag](/images/fanzines/body-bag/bodybag1.jpg)
 
-### Numéro 1
+- **Code ISSN :** ?
+- **Langue :** ?
+- **Thème / Jeu :** ?
+- **Description :** ?
+- **Remarque :** ?
+- **Format :** numérique (pdf)
+- **Impression :** ?
+- **Adresse physique :** ?
+- **Fondateur / Responsable :** ?
+- **Éditeur :** Éditions John Doe
+- **Rédac’chef :** ?
+- **Site web :** http://johndoe-rpg.com/catalogue/bodybag/
+- **Prix :** gratuit
+- **Nombre total de n° :** 4
+- **Périodicité :** ?
+- **Début parution :** ?
+- **Fin parution :** ?
 
-| Titre : Body Bag (détail du numéro 1)<br>![Illustration de Body Bag](/images/partagees/fiche-c-est-a-vous.png) | **Couverture :** ![Illustration de Body Bag](/images/fanzines/body-bag/bodybag1.jpg) |  |  |  |
-| --- | --- | --- | --- | --- |
-| **Numéro :** n°1 | **Type de numéro :** ? | **Série :** ? | **Date de parution :** ? | **Pages :** ? |
-| **Responsable :** ? | **Rédac’chef :** ? | **Éditeur :** ? |  |  |
-| **Site web :** http://johndoe-rpg.com/wp-content/uploads/2014/03/BodyBagComplet001.pdf | **Adresse :** ? | **Prix :** ? |  |  |
-| Sommaire |  |  |  |  |
-| Titre de l’article | Page | Type d’article |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
+## Numéro 1
 
-### Numéro 2
+![Couverture du numéro 1 de Body Bag](/images/fanzines/body-bag/bodybag1.jpg)
 
-| Titre : Body Bag (détail du numéro 2)<br>![Illustration de Body Bag](/images/partagees/fiche-c-est-a-vous.png) | **Couverture :** ![Illustration de Body Bag](/images/fanzines/body-bag/bodybag2.jpg) |  |  |  |
-| --- | --- | --- | --- | --- |
-| **Numéro :** n°2 | **Type de numéro :** ? | **Série :** ? | **Date de parution :** ? | **Pages :** ? |
-| **Responsable :** ? | **Rédac’chef :** ? | **Éditeur :** ? |  |  |
-| **Site web :** http://johndoe-rpg.com/wp-content/uploads/2014/03/BodyBagComplet002.pdf | **Adresse :** ? | **Prix :** ? |  |  |
-| Sommaire |  |  |  |  |
-| Titre de l’article | Page | Type d’article |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-### Numéro 3
+- **Numéro :** n°1
+- **Type de numéro :** ?
+- **Série :** ?
+- **Date de parution :** ?
+- **Pages :** ?
+- **Responsable :** ?
+- **Rédac’chef :** ?
+- **Éditeur :** ?
+- **Site web :** http://johndoe-rpg.com/wp-content/uploads/2014/03/BodyBagComplet001.pdf
+- **Adresse :** ?
+- **Prix :** ?
 
-| Titre : Body Bag (détail du numéro 3)<br>![Illustration de Body Bag](/images/partagees/fiche-c-est-a-vous.png) | **Couverture :** ![Illustration de Body Bag](/images/fanzines/body-bag/bodybag3.jpg) |  |  |  |
-| --- | --- | --- | --- | --- |
-| **Numéro :** n°3 | **Type de numéro :** ? | **Série :** ? | **Date de parution :** ? | **Pages :** ? |
-| **Responsable :** ? | **Rédac’chef :** ? | **Éditeur :** ? |  |  |
-| **Site web :** http://johndoe-rpg.com/wp-content/uploads/2014/03/BodyBagComplet003.pdf | **Adresse :** ? | **Prix :** ? |  |  |
-| Sommaire |  |  |  |  |
-| Titre de l’article | Page | Type d’article |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-### Numéro 4
+**Sommaire**
 
-| Titre : Body Bag (détail du numéro 4)<br>![Illustration de Body Bag](/images/partagees/fiche-c-est-a-vous.png) | **Couverture :** ![Illustration de Body Bag](/images/fanzines/body-bag/bodybag4.jpg) |  |  |  |
-| --- | --- | --- | --- | --- |
-| **Numéro :** n°4 | **Type de numéro :** ? | **Série :** ? | **Date de parution :** ? | **Pages :** ? |
-| **Responsable :** ? | **Rédac’chef :** ? | **Éditeur :** ? |  |  |
-| **Site web :** http://johndoe-rpg.com/wp-content/uploads/2014/03/BodyBagComplet004.pdf | **Adresse :** ? | **Prix :** ? |  |  |
-| Sommaire |  |  |  |  |
-| Titre de l’article | Page | Type d’article |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
+Sommaire à compléter.
+
+## Numéro 2
+
+![Couverture du numéro 2 de Body Bag](/images/fanzines/body-bag/bodybag2.jpg)
+
+- **Numéro :** n°2
+- **Type de numéro :** ?
+- **Série :** ?
+- **Date de parution :** ?
+- **Pages :** ?
+- **Responsable :** ?
+- **Rédac’chef :** ?
+- **Éditeur :** ?
+- **Site web :** http://johndoe-rpg.com/wp-content/uploads/2014/03/BodyBagComplet002.pdf
+- **Adresse :** ?
+- **Prix :** ?
+
+**Sommaire**
+
+Sommaire à compléter.
+
+## Numéro 3
+
+![Couverture du numéro 3 de Body Bag](/images/fanzines/body-bag/bodybag3.jpg)
+
+- **Numéro :** n°3
+- **Type de numéro :** ?
+- **Série :** ?
+- **Date de parution :** ?
+- **Pages :** ?
+- **Responsable :** ?
+- **Rédac’chef :** ?
+- **Éditeur :** ?
+- **Site web :** http://johndoe-rpg.com/wp-content/uploads/2014/03/BodyBagComplet003.pdf
+- **Adresse :** ?
+- **Prix :** ?
+
+**Sommaire**
+
+Sommaire à compléter.
+
+## Numéro 4
+
+![Couverture du numéro 4 de Body Bag](/images/fanzines/body-bag/bodybag4.jpg)
+
+- **Numéro :** n°4
+- **Type de numéro :** ?
+- **Série :** ?
+- **Date de parution :** ?
+- **Pages :** ?
+- **Responsable :** ?
+- **Rédac’chef :** ?
+- **Éditeur :** ?
+- **Site web :** http://johndoe-rpg.com/wp-content/uploads/2014/03/BodyBagComplet004.pdf
+- **Adresse :** ?
+- **Prix :** ?
+
+**Sommaire**
+
+Sommaire à compléter.

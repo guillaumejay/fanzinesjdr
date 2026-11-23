@@ -8,164 +8,208 @@ legacy_revision_timestamp: "20200908184222"
 legacy_author: "Mystery Man From Outerspace"
 source_format: "mediawiki"
 ---
-![Illustration de Hermès Trimégiste](/images/partagees/logo-a-completer.png)
-
-### Mystery Man From Outerspace Propose
+## Mystery Man From Outerspace Propose
 
 Ceci est une ébauche de fiche de fanzine. N'hésitez pas à la compléter (et à supprimer le texte ci-dessous lorsqu'il sera devenu inutile).
 
-### Généralités
+## Généralités
 
-| Titre : Hermès Trimégiste (généralités) | **Couverture :** ![Illustration de Hermès Trimégiste](/images/fanzines/hermes-trimegiste/hermes-trimegiste-01.jpg) |  |
-| --- | --- | --- |
-| **Code ISSN :** ? | **Langue :** ? | **Thème / Jeu :** ? |
-| **Description :** ? |  |  |
-| **Remarque :** ? |  |  |
-| **Format :** ? | **Impression :** ? | **Adresse physique :** ? |
-| **Fondateur / Responsable :** ? | **Éditeur :** ? | **Rédac’chef :** ? |
-| **Site web :** ? | **Prix :** ? | **Nombre total de n° :** ? |
-| **Périodicité :** ? | **Début parution :** ? | **Fin parution :** ? |
+![Couverture de Hermès Trimégiste](/images/fanzines/hermes-trimegiste/hermes-trimegiste-01.jpg)
 
-### Numéro 1
+- **Code ISSN :** ?
+- **Langue :** ?
+- **Thème / Jeu :** ?
+- **Description :** ?
+- **Remarque :** ?
+- **Format :** ?
+- **Impression :** ?
+- **Adresse physique :** ?
+- **Fondateur / Responsable :** ?
+- **Éditeur :** ?
+- **Rédac’chef :** ?
+- **Site web :** ?
+- **Prix :** ?
+- **Nombre total de n° :** ?
+- **Périodicité :** ?
+- **Début parution :** ?
+- **Fin parution :** ?
 
-| Titre : Hermès Trimégiste (détail du numéro 1) | **Couverture :** ![Illustration de Hermès Trimégiste](/images/fanzines/hermes-trimegiste/hermes-trimegiste-01.jpg) |  |  |  |
-| --- | --- | --- | --- | --- |
-| **Numéro :** n°1 | **Type de numéro :** ? | **Série :** ? | **Date de parution :** ? | **Pages :** ? |
-| **Responsable :** ? | **Rédac’chef :** ? | **Éditeur :** ? |  |  |
-| **Site web :** ? | **Adresse :** ? | **Prix :** ? |  |  |
-| Sommaire |  |  |  |  |
-| Titre de l’article | Page | Type d’article |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
+## Numéro 1
 
-### Numéro 2
+![Couverture du numéro 1 de Hermès Trimégiste](/images/fanzines/hermes-trimegiste/hermes-trimegiste-01.jpg)
 
-| Titre : Hermès Trimégiste (détail du numéro 2) | **Couverture :** ![Illustration de Hermès Trimégiste](/images/fanzines/hermes-trimegiste/hermes-trimegiste-02.jpg) |  |  |  |
-| --- | --- | --- | --- | --- |
-| **Numéro :** n°2 | **Type de numéro :** ? | **Série :** ? | **Date de parution :** ? | **Pages :** ? |
-| **Responsable :** ? | **Rédac’chef :** ? | **Éditeur :** ? |  |  |
-| **Site web :** ? | **Adresse :** ? | **Prix :** ? |  |  |
-| Sommaire |  |  |  |  |
-| Titre de l’article | Page | Type d’article |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
+- **Numéro :** n°1
+- **Type de numéro :** ?
+- **Série :** ?
+- **Date de parution :** ?
+- **Pages :** ?
+- **Responsable :** ?
+- **Rédac’chef :** ?
+- **Éditeur :** ?
+- **Site web :** ?
+- **Adresse :** ?
+- **Prix :** ?
 
-### Numéro 3
+**Sommaire**
 
-| Titre : Hermès Trimégiste (détail du numéro 3) | **Couverture :** ![Illustration de Hermès Trimégiste](/images/fanzines/hermes-trimegiste/hermes-trimegiste-03.jpg) |  |  |  |
-| --- | --- | --- | --- | --- |
-| **Numéro :** n°3 | **Type de numéro :** ? | **Série :** ? | **Date de parution :** ? | **Pages :** ? |
-| **Responsable :** ? | **Rédac’chef :** ? | **Éditeur :** ? |  |  |
-| **Site web :** ? | **Adresse :** ? | **Prix :** ? |  |  |
-| Sommaire |  |  |  |  |
-| Titre de l’article | Page | Type d’article |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
+Sommaire à compléter.
 
-### Numéro 4
+## Numéro 2
 
-| Titre : Hermès Trimégiste (détail du numéro 4) | **Couverture :** ![Illustration de Hermès Trimégiste](/images/fanzines/hermes-trimegiste/hermes-trimegiste-04.jpg) |  |  |  |
-| --- | --- | --- | --- | --- |
-| **Numéro :** n°4 | **Type de numéro :** ? | **Série :** ? | **Date de parution :** ? | **Pages :** ? |
-| **Responsable :** ? | **Rédac’chef :** ? | **Éditeur :** ? |  |  |
-| **Site web :** ? | **Adresse :** ? | **Prix :** ? |  |  |
-| Sommaire |  |  |  |  |
-| Titre de l’article | Page | Type d’article |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
+![Couverture du numéro 2 de Hermès Trimégiste](/images/fanzines/hermes-trimegiste/hermes-trimegiste-02.jpg)
 
-### Numéro 5
+- **Numéro :** n°2
+- **Type de numéro :** ?
+- **Série :** ?
+- **Date de parution :** ?
+- **Pages :** ?
+- **Responsable :** ?
+- **Rédac’chef :** ?
+- **Éditeur :** ?
+- **Site web :** ?
+- **Adresse :** ?
+- **Prix :** ?
 
-| Titre : Hermès Trimégiste (détail du numéro 5) | **Couverture :** ![Illustration de Hermès Trimégiste](/images/fanzines/hermes-trimegiste/hermes-trimegiste-05.jpg) |  |  |  |
-| --- | --- | --- | --- | --- |
-| **Numéro :** n°5 | **Type de numéro :** ? | **Série :** ? | **Date de parution :** ? | **Pages :** ? |
-| **Responsable :** ? | **Rédac’chef :** ? | **Éditeur :** ? |  |  |
-| **Site web :** ? | **Adresse :** ? | **Prix :** ? |  |  |
-| Sommaire |  |  |  |  |
-| Titre de l’article | Page | Type d’article |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
+**Sommaire**
 
-### Numéro 6
+Sommaire à compléter.
 
-| Titre : Hermès Trimégiste (détail du numéro 6) | **Couverture :** ![Illustration de Hermès Trimégiste](/images/fanzines/hermes-trimegiste/hermes-trimegiste-06.jpg) |  |  |  |
-| --- | --- | --- | --- | --- |
-| **Numéro :** n°6 | **Type de numéro :** ? | **Série :** ? | **Date de parution :** ? | **Pages :** ? |
-| **Responsable :** ? | **Rédac’chef :** ? | **Éditeur :** ? |  |  |
-| **Site web :** ? | **Adresse :** ? | **Prix :** ? |  |  |
-| Sommaire |  |  |  |  |
-| Titre de l’article | Page | Type d’article |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
+## Numéro 3
 
-### Numéro 7
+![Couverture du numéro 3 de Hermès Trimégiste](/images/fanzines/hermes-trimegiste/hermes-trimegiste-03.jpg)
 
-| Titre : Hermès Trimégiste (détail du numéro 7) | **Couverture :** ![Illustration de Hermès Trimégiste](/images/fanzines/hermes-trimegiste/hermes-trimegiste-07.jpg) |  |  |  |
-| --- | --- | --- | --- | --- |
-| **Numéro :** n°7 | **Type de numéro :** ? | **Série :** ? | **Date de parution :** ? | **Pages :** ? |
-| **Responsable :** ? | **Rédac’chef :** ? | **Éditeur :** ? |  |  |
-| **Site web :** ? | **Adresse :** ? | **Prix :** ? |  |  |
-| Sommaire |  |  |  |  |
-| Titre de l’article | Page | Type d’article |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
+- **Numéro :** n°3
+- **Type de numéro :** ?
+- **Série :** ?
+- **Date de parution :** ?
+- **Pages :** ?
+- **Responsable :** ?
+- **Rédac’chef :** ?
+- **Éditeur :** ?
+- **Site web :** ?
+- **Adresse :** ?
+- **Prix :** ?
 
-### Numéro 8
+**Sommaire**
 
-| Titre : Hermès Trimégiste (détail du numéro 8) | **Couverture :** ![Illustration de Hermès Trimégiste](/images/fanzines/hermes-trimegiste/hermes-trimegiste-08.jpg) |  |  |  |
-| --- | --- | --- | --- | --- |
-| **Numéro :** n°8 | **Type de numéro :** ? | **Série :** ? | **Date de parution :** ? | **Pages :** ? |
-| **Responsable :** ? | **Rédac’chef :** ? | **Éditeur :** ? |  |  |
-| **Site web :** ? | **Adresse :** ? | **Prix :** ? |  |  |
-| Sommaire |  |  |  |  |
-| Titre de l’article | Page | Type d’article |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
+Sommaire à compléter.
 
-### Numéro 9
+## Numéro 4
 
-| Titre : Hermès Trimégiste (détail du numéro 9) | **Couverture :** ![Illustration de Hermès Trimégiste](/images/fanzines/hermes-trimegiste/hermes-trimegiste-09.jpg) |  |  |  |
-| --- | --- | --- | --- | --- |
-| **Numéro :** n°9 | **Type de numéro :** ? | **Série :** ? | **Date de parution :** ? | **Pages :** ? |
-| **Responsable :** ? | **Rédac’chef :** ? | **Éditeur :** ? |  |  |
-| **Site web :** ? | **Adresse :** ? | **Prix :** ? |  |  |
-| Sommaire |  |  |  |  |
-| Titre de l’article | Page | Type d’article |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
+![Couverture du numéro 4 de Hermès Trimégiste](/images/fanzines/hermes-trimegiste/hermes-trimegiste-04.jpg)
+
+- **Numéro :** n°4
+- **Type de numéro :** ?
+- **Série :** ?
+- **Date de parution :** ?
+- **Pages :** ?
+- **Responsable :** ?
+- **Rédac’chef :** ?
+- **Éditeur :** ?
+- **Site web :** ?
+- **Adresse :** ?
+- **Prix :** ?
+
+**Sommaire**
+
+Sommaire à compléter.
+
+## Numéro 5
+
+![Couverture du numéro 5 de Hermès Trimégiste](/images/fanzines/hermes-trimegiste/hermes-trimegiste-05.jpg)
+
+- **Numéro :** n°5
+- **Type de numéro :** ?
+- **Série :** ?
+- **Date de parution :** ?
+- **Pages :** ?
+- **Responsable :** ?
+- **Rédac’chef :** ?
+- **Éditeur :** ?
+- **Site web :** ?
+- **Adresse :** ?
+- **Prix :** ?
+
+**Sommaire**
+
+Sommaire à compléter.
+
+## Numéro 6
+
+![Couverture du numéro 6 de Hermès Trimégiste](/images/fanzines/hermes-trimegiste/hermes-trimegiste-06.jpg)
+
+- **Numéro :** n°6
+- **Type de numéro :** ?
+- **Série :** ?
+- **Date de parution :** ?
+- **Pages :** ?
+- **Responsable :** ?
+- **Rédac’chef :** ?
+- **Éditeur :** ?
+- **Site web :** ?
+- **Adresse :** ?
+- **Prix :** ?
+
+**Sommaire**
+
+Sommaire à compléter.
+
+## Numéro 7
+
+![Couverture du numéro 7 de Hermès Trimégiste](/images/fanzines/hermes-trimegiste/hermes-trimegiste-07.jpg)
+
+- **Numéro :** n°7
+- **Type de numéro :** ?
+- **Série :** ?
+- **Date de parution :** ?
+- **Pages :** ?
+- **Responsable :** ?
+- **Rédac’chef :** ?
+- **Éditeur :** ?
+- **Site web :** ?
+- **Adresse :** ?
+- **Prix :** ?
+
+**Sommaire**
+
+Sommaire à compléter.
+
+## Numéro 8
+
+![Couverture du numéro 8 de Hermès Trimégiste](/images/fanzines/hermes-trimegiste/hermes-trimegiste-08.jpg)
+
+- **Numéro :** n°8
+- **Type de numéro :** ?
+- **Série :** ?
+- **Date de parution :** ?
+- **Pages :** ?
+- **Responsable :** ?
+- **Rédac’chef :** ?
+- **Éditeur :** ?
+- **Site web :** ?
+- **Adresse :** ?
+- **Prix :** ?
+
+**Sommaire**
+
+Sommaire à compléter.
+
+## Numéro 9
+
+![Couverture du numéro 9 de Hermès Trimégiste](/images/fanzines/hermes-trimegiste/hermes-trimegiste-09.jpg)
+
+- **Numéro :** n°9
+- **Type de numéro :** ?
+- **Série :** ?
+- **Date de parution :** ?
+- **Pages :** ?
+- **Responsable :** ?
+- **Rédac’chef :** ?
+- **Éditeur :** ?
+- **Site web :** ?
+- **Adresse :** ?
+- **Prix :** ?
+
+**Sommaire**
+
+Sommaire à compléter.

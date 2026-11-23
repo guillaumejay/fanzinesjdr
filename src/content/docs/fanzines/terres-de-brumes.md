@@ -8,112 +8,138 @@ legacy_revision_timestamp: "20181026214608"
 legacy_author: "Mystery Man From Outerspace"
 source_format: "mediawiki"
 ---
-![Illustration de Terres de Brumes](/images/partagees/logo-a-completer.png) ![Illustration de Terres de Brumes](/images/partagees/logo-cherche-couv.png)
+## Généralités
 
-### Généralités
+- **Couverture :** manquante
+- **Code ISSN :** ?
+- **Langue :** ?
+- **Thème / Jeu :** ?
+- **Description :** ?
+- **Remarque :** ?
+- **Format :** ?
+- **Impression :** ?
+- **Adresse physique :** ?
+- **Fondateur / Responsable :** ?
+- **Éditeur :** ?
+- **Rédac’chef :** ?
+- **Site web :** ?
+- **Prix :** 25,00 FF
+- **Nombre total de n° :** ?
+- **Périodicité :** ?
+- **Début parution :** ?
+- **Fin parution :** ?
 
-| Titre : Terres de Brumes (généralités)<br>![Illustration de Terres de Brumes](/images/partagees/fiche-c-est-a-vous.png) | **Couverture :** ![Illustration de Terres de Brumes](/images/partagees/couverture-manquante.png) |  |
-| --- | --- | --- |
-| **Code ISSN :** ? | **Langue :** ? | **Thème / Jeu :** ? |
-| **Description :** ? |  |  |
-| **Remarque :** ? |  |  |
-| **Format :** ? | **Impression :** ? | **Adresse physique :** ? |
-| **Fondateur / Responsable :** ? | **Éditeur :** ? | **Rédac’chef :** ? |
-| **Site web :** ? | **Prix :** 25,00 FF | **Nombre total de n° :** ? |
-| **Périodicité :** ? | **Début parution :** ? | **Fin parution :** ? |
+## Numéro 1
 
-### Numéro 1
+- **Couverture :** manquante
+- **Numéro :** n°1
+- **Type de numéro :** ?
+- **Série :** ?
+- **Date de parution :** ?
+- **Pages :** ?
+- **Responsable :** ?
+- **Rédac’chef :** ?
+- **Éditeur :** ?
+- **Site web :** ?
+- **Adresse :** ?
+- **Prix :** 25,00 FF
 
-| Titre : Terres de Brumes (détail du numéro 1)<br>![Illustration de Terres de Brumes](/images/partagees/fiche-c-est-a-vous.png) | **Couverture :** ![Illustration de Terres de Brumes](/images/partagees/couverture-manquante.png) |  |  |  |
-| --- | --- | --- | --- | --- |
-| **Numéro :** n°1 | **Type de numéro :** ? | **Série :** ? | **Date de parution :** ? | **Pages :** ? |
-| **Responsable :** ? | **Rédac’chef :** ? | **Éditeur :** ? |  |  |
-| **Site web :** ? | **Adresse :** ? | **Prix :** 25,00 FF |  |  |
-| Sommaire |  |  |  |  |
-| Titre de l’article | Page | Type d’article |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
+**Sommaire**
 
-### Numéro 2
+Sommaire à compléter.
 
-| Titre : Terres de Brumes (détail du numéro 2)<br>![Illustration de Terres de Brumes](/images/partagees/fiche-c-est-a-vous.png) | **Couverture :** ![Illustration de Terres de Brumes](/images/partagees/couverture-manquante.png) |  |  |  |
-| --- | --- | --- | --- | --- |
-| **Numéro :** n°2 | **Type de numéro :** ? | **Série :** ? | **Date de parution :** ? | **Pages :** ? |
-| **Responsable :** ? | **Rédac’chef :** ? | **Éditeur :** ? |  |  |
-| **Site web :** ? | **Adresse :** ? | **Prix :** 25,00 FF |  |  |
-| Sommaire |  |  |  |  |
-| Titre de l’article | Page | Type d’article |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
+## Numéro 2
 
-### Numéro 3
+- **Couverture :** manquante
+- **Numéro :** n°2
+- **Type de numéro :** ?
+- **Série :** ?
+- **Date de parution :** ?
+- **Pages :** ?
+- **Responsable :** ?
+- **Rédac’chef :** ?
+- **Éditeur :** ?
+- **Site web :** ?
+- **Adresse :** ?
+- **Prix :** 25,00 FF
 
-| Titre : Terres de Brumes (détail du numéro 3)<br>![Illustration de Terres de Brumes](/images/partagees/fiche-c-est-a-vous.png) | **Couverture :** ![Illustration de Terres de Brumes](/images/partagees/couverture-manquante.png) |  |  |  |
-| --- | --- | --- | --- | --- |
-| **Numéro :** n°3 | **Type de numéro :** ? | **Série :** ? | **Date de parution :** ? | **Pages :** ? |
-| **Responsable :** ? | **Rédac’chef :** ? | **Éditeur :** ? |  |  |
-| **Site web :** ? | **Adresse :** ? | **Prix :** 25,00 FF |  |  |
-| Sommaire |  |  |  |  |
-| Titre de l’article | Page | Type d’article |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
+**Sommaire**
 
-### Numéro 4
+Sommaire à compléter.
 
-| Titre : Terres de Brumes (détail du numéro 4)<br>![Illustration de Terres de Brumes](/images/partagees/fiche-c-est-a-vous.png) | **Couverture :** ![Illustration de Terres de Brumes](/images/partagees/couverture-manquante.png) |  |  |  |
-| --- | --- | --- | --- | --- |
-| **Numéro :** n°4 | **Type de numéro :** ? | **Série :** ? | **Date de parution :** ? | **Pages :** ? |
-| **Responsable :** ? | **Rédac’chef :** ? | **Éditeur :** ? |  |  |
-| **Site web :** ? | **Adresse :** ? | **Prix :** 25,00 FF |  |  |
-| Sommaire |  |  |  |  |
-| Titre de l’article | Page | Type d’article |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
+## Numéro 3
 
-### Numéro 5
+- **Couverture :** manquante
+- **Numéro :** n°3
+- **Type de numéro :** ?
+- **Série :** ?
+- **Date de parution :** ?
+- **Pages :** ?
+- **Responsable :** ?
+- **Rédac’chef :** ?
+- **Éditeur :** ?
+- **Site web :** ?
+- **Adresse :** ?
+- **Prix :** 25,00 FF
 
-| Titre : Terres de Brumes (détail du numéro 5)<br>![Illustration de Terres de Brumes](/images/partagees/fiche-c-est-a-vous.png) | **Couverture :** ![Illustration de Terres de Brumes](/images/fanzines/terres-de-brumes/terresdebrumes05.jpg) |  |  |  |
-| --- | --- | --- | --- | --- |
-| **Numéro :** n°5 | **Type de numéro :** ? | **Série :** ? | **Date de parution :** mai 1997 | **Pages :** ? |
-| **Responsable :** ? | **Rédac’chef :** ? | **Éditeur :** ? |  |  |
-| **Site web :** ? | **Adresse :** ? | **Prix :** 25,00 FF |  |  |
-| Sommaire |  |  |  |  |
-| Titre de l’article | Page | Type d’article |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
+**Sommaire**
 
-### Numéro 6
+Sommaire à compléter.
 
-| Titre : Terres de Brumes (détail du numéro 6)<br>![Illustration de Terres de Brumes](/images/partagees/fiche-c-est-a-vous.png) | **Couverture :** ![Illustration de Terres de Brumes](/images/partagees/couverture-manquante.png) |  |  |  |
-| --- | --- | --- | --- | --- |
-| **Numéro :** n°6 | **Type de numéro :** ? | **Série :** ? | **Date de parution :** ? | **Pages :** ? |
-| **Responsable :** ? | **Rédac’chef :** ? | **Éditeur :** ? |  |  |
-| **Site web :** ? | **Adresse :** ? | **Prix :** 25,00 FF |  |  |
-| Sommaire |  |  |  |  |
-| Titre de l’article | Page | Type d’article |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
-| ? | Page ? | ? |  |  |
+## Numéro 4
+
+- **Couverture :** manquante
+- **Numéro :** n°4
+- **Type de numéro :** ?
+- **Série :** ?
+- **Date de parution :** ?
+- **Pages :** ?
+- **Responsable :** ?
+- **Rédac’chef :** ?
+- **Éditeur :** ?
+- **Site web :** ?
+- **Adresse :** ?
+- **Prix :** 25,00 FF
+
+**Sommaire**
+
+Sommaire à compléter.
+
+## Numéro 5
+
+![Couverture du numéro 5 de Terres de Brumes](/images/fanzines/terres-de-brumes/terresdebrumes05.jpg)
+
+- **Numéro :** n°5
+- **Type de numéro :** ?
+- **Série :** ?
+- **Date de parution :** mai 1997
+- **Pages :** ?
+- **Responsable :** ?
+- **Rédac’chef :** ?
+- **Éditeur :** ?
+- **Site web :** ?
+- **Adresse :** ?
+- **Prix :** 25,00 FF
+
+**Sommaire**
+
+Sommaire à compléter.
+
+## Numéro 6
+
+- **Couverture :** manquante
+- **Numéro :** n°6
+- **Type de numéro :** ?
+- **Série :** ?
+- **Date de parution :** ?
+- **Pages :** ?
+- **Responsable :** ?
+- **Rédac’chef :** ?
+- **Éditeur :** ?
+- **Site web :** ?
+- **Adresse :** ?
+- **Prix :** 25,00 FF
+
+**Sommaire**
+
+Sommaire à compléter.

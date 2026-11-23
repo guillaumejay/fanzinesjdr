@@ -16,6 +16,9 @@ correction ou nouvelle fiche.
 - La fiche générale ouvre la page sous le titre `## Généralités`.
 - Chaque numéro dispose ensuite d’une section `## Numéro n`,
   `## Numéro hors-série n` ou `## Numéro spécial n`.
+- Dans chaque section, les informations prennent la forme d’une liste
+  `- **Champ :** valeur`, suivie du sommaire en tableau. N’utilisez plus les
+  anciennes grilles à colonnes vides héritées du wiki.
 - Conservez les informations vérifiables et indiquez leur source dans le texte
   ou dans une section « Sources ».
 - Utilisez `?` pour une information inconnue et `n/a` seulement lorsqu’un champ
@@ -55,15 +58,19 @@ Exemple minimal :
 ```md
 ## Généralités
 
-| Titre : Exemple | **Couverture :** ![Couverture du numéro 1](/images/fanzines/exemple/exemple-01.jpg) | |
-| --- | --- | --- |
-| **Code ISSN :** ? | **Langue :** français | **Thème / Jeu :** généraliste |
-| **Description :** Fanzine associatif consacré au jeu de rôle. | | |
-| **Remarque :** ? | | |
-| **Format :** papier, A5, portrait | **Impression :** photocopie | **Adresse physique :** ? |
-| **Fondateur / Responsable :** ? | **Éditeur :** ? | **Rédac’chef :** ? |
-| **Site web :** n/a | **Prix :** ? | **Nombre total de n° :** 1 |
-| **Périodicité :** n/a | **Début parution :** mars 1992 | **Fin parution :** mars 1992 |
+![Couverture du numéro 1 d’Exemple](/images/fanzines/exemple/exemple-01.jpg)
+
+- **Code ISSN :** ?
+- **Langue :** français
+- **Thème / Jeu :** généraliste
+- **Description :** Fanzine associatif consacré au jeu de rôle.
+- **Format :** papier, A5, portrait
+- **Impression :** photocopie
+- **Éditeur :** ?
+- **Nombre total de n° :** 1
+- **Périodicité :** n/a
+- **Début parution :** mars 1992
+- **Fin parution :** mars 1992
 ```
 
 ## Fiche d’un numéro
@@ -82,16 +89,25 @@ Exemple minimal :
 | **Adresse physique** | Adresse publiée dans ce numéro. |
 | **Prix** | Prix de ce numéro, avec sa devise. |
 
-Exemple d’en-tête :
+Exemple de numéro :
 
 ```md
 ## Numéro 1
 
-| Titre : Exemple | **Couverture :** ![Couverture du numéro 1 d’Exemple](/images/fanzines/exemple/exemple-01.jpg) | | | |
-| --- | --- | --- | --- | --- |
-| **Numéro :** 1 | **Type de numéro :** normal | **Série :** n/a | **Date de parution :** mars 1992 | **Pages :** ? |
-| **Responsable :** ? | **Éditeur :** ? | **Rédac’chef :** ? | | |
-| **Site web :** n/a | **Adresse physique :** ? | **Prix :** ? | | |
+![Couverture du numéro 1 d’Exemple](/images/fanzines/exemple/exemple-01.jpg)
+
+- **Numéro :** 1
+- **Type de numéro :** normal
+- **Date de parution :** mars 1992
+- **Pages :** ?
+- **Responsable :** ?
+- **Prix :** ?
+
+**Sommaire**
+
+| Titre | Auteur | Page | Type |
+| --- | --- | --- | --- |
+| Le château oublié | Camille Martin | 12 | scénario |
 ```
 
 ### Sommaire
@@ -100,19 +116,19 @@ Utilisez de préférence le tableau détaillé lorsque les informations sont
 disponibles :
 
 ```md
-| Titre de l’article | Jeu | Auteur | Page | Type d’article |
+| Titre | Jeu | Auteur | Page | Type |
 | --- | --- | --- | --- | --- |
-| Le château oublié | Donjons & Dragons | Camille Martin | Page 12 | Scénario |
+| Le château oublié | Donjons & Dragons | Camille Martin | 12 | scénario |
 ```
 
 - N’ajoutez pas de guillemets autour du titre d’un article.
 - Donnez les auteurs tels qu’ils sont crédités.
-- Indiquez `Page` suivi du nombre en chiffres arabes.
+- Indiquez seulement le numéro de page, en chiffres arabes.
 - Renseignez le jeu pour un scénario, une aide de jeu ou une critique. Il n’est
   pas nécessaire de le répéter entre parenthèses dans le titre si la colonne
   `Jeu` est présente.
-- Si seules trois informations sont connues, un tableau
-  `Titre de l’article | Page | Type d’article` reste acceptable.
+- La colonne `Jeu` est facultative : sans elle, utilisez
+  `Titre | Auteur | Page | Type`. Laissez une cellule vide plutôt que d’inventer.
 
 Les principaux types d’articles sont : scénario, campagne, synopsis, aide de
 jeu, règles, bestiaire, personnage, univers, critique, actualité, entretien,
