@@ -1,6 +1,6 @@
 ---
 title: "Beludis"
-description: "Archive de la page MediaWiki « Beludis »."
+description: "Beludis : numéros, couvertures et sommaires."
 legacy_page_id: 388
 legacy_title: "Beludis"
 legacy_revision_id: 6135

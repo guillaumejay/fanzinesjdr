@@ -1,6 +1,6 @@
 ---
 title: "Vitriol"
-description: "Archive de la page MediaWiki « Vitriol »."
+description: "Vitriol : numéros, couvertures et sommaires."
 legacy_page_id: 96
 legacy_title: "Vitriol"
 legacy_revision_id: 5664

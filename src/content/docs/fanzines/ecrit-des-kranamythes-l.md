@@ -1,6 +1,6 @@
 ---
 title: "Écrit des Kranamythes (L')"
-description: "Archive de la page MediaWiki « Écrit des Kranamythes (L') »."
+description: "L'Écrit des Kranamythes : numéros, couvertures et sommaires."
 legacy_page_id: 461
 legacy_title: "Écrit_des_Kranamythes_(L')"
 legacy_revision_id: 6678

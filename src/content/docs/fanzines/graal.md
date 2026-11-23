@@ -1,6 +1,6 @@
 ---
 title: "Graal"
-description: "Archive de la page MediaWiki « Graal »."
+description: "Graal : numéros, couvertures et sommaires."
 legacy_page_id: 72
 legacy_title: "Graal"
 legacy_revision_id: 7712
@@ -781,4 +781,4 @@ Sommaire à compléter.
 | Numéro spécial n°1 « Le Vaisseau Monde » |  | n/a | campagne non-officielle pour Stormbringer et AD&D - contient 4 scénarios, de nombreuses aides de jeu richement détaillées, un poster en couleur |
 
 ## Notes
-Toutes les couvertures sont disponibles (reportez-vous à l"onglet « Discussion » pour en savoir plus).
+Toutes les couvertures sont disponibles.

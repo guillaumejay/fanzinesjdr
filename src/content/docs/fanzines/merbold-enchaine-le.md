@@ -1,6 +1,6 @@
 ---
 title: "Merbold Enchaîné (Le)"
-description: "Archive de la page MediaWiki « Merbold Enchaîné (Le) »."
+description: "Le Merbold Enchaîné : numéros, couvertures et sommaires."
 legacy_page_id: 285
 legacy_title: "Merbold_Enchaîné_(Le)"
 legacy_revision_id: 5630

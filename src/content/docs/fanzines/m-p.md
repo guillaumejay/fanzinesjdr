@@ -1,6 +1,6 @@
 ---
 title: "M-P"
-description: "Archive de la page MediaWiki « M-P »."
+description: "Fanzines et revues de jeu de rôle dont le titre commence par M à P."
 legacy_page_id: 7
 legacy_title: "M-P"
 legacy_revision_id: 11026

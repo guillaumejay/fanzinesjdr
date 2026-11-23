@@ -1,6 +1,6 @@
 ---
 title: "Pleine Lune"
-description: "Archive de la page MediaWiki « Pleine Lune »."
+description: "Pleine Lune : numéros, couvertures et sommaires."
 legacy_page_id: 331
 legacy_title: "Pleine_Lune"
 legacy_revision_id: 7819

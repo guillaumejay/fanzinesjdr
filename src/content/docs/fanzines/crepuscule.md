@@ -1,6 +1,6 @@
 ---
 title: "Crépuscule"
-description: "Archive de la page MediaWiki « Crépuscule »."
+description: "Crépuscule : numéros, couvertures et sommaires."
 legacy_page_id: 415
 legacy_title: "Crépuscule"
 legacy_revision_id: 6202

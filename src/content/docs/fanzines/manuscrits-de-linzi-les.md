@@ -1,6 +1,6 @@
 ---
 title: "Manuscrits de Linzi (Les)"
-description: "Archive de la page MediaWiki « Manuscrits de Linzi (Les) »."
+description: "Les Manuscrits de Linzi : numéros, couvertures et sommaires."
 legacy_page_id: 452
 legacy_title: "Manuscrits_de_Linzi_(Les)"
 legacy_revision_id: 6586

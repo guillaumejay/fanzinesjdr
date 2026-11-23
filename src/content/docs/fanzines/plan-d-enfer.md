@@ -1,6 +1,6 @@
 ---
 title: "Plan d'Enfer"
-description: "Archive de la page MediaWiki « Plan d'Enfer »."
+description: "Plan d'Enfer : numéros, couvertures et sommaires."
 legacy_page_id: 492
 legacy_title: "Plan_d'Enfer"
 legacy_revision_id: 7984

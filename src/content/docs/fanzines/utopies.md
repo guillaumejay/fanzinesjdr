@@ -1,6 +1,6 @@
 ---
 title: "Utopies"
-description: "Archive de la page MediaWiki « Utopies »."
+description: "Utopies : numéros, couvertures et sommaires."
 legacy_page_id: 371
 legacy_title: "Utopies"
 legacy_revision_id: 10292

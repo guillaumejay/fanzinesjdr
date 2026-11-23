@@ -1,6 +1,6 @@
 ---
 title: "Borderôles"
-description: "Archive de la page MediaWiki « Borderôles »."
+description: "Borderôles : numéros, couvertures et sommaires."
 legacy_page_id: 401
 legacy_title: "Borderôles"
 legacy_revision_id: 6652

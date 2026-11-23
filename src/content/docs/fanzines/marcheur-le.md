@@ -1,6 +1,6 @@
 ---
 title: "Marcheur (Le)"
-description: "Archive de la page MediaWiki « Marcheur (Le) »."
+description: "Le Marcheur : numéros, couvertures et sommaires."
 legacy_page_id: 283
 legacy_title: "Marcheur_(Le)"
 legacy_revision_id: 3069
@@ -41,4 +41,4 @@ Aides de jeu
 
 http://darkearth2.free.fr/jdr/Divers/Gazettes/Dark_Earth_Gazette_Le_Marcheur_2.pdf
 
-Toutes les couvertures sont disponibles (reportez-vous à l'onglet « Discussion » pour plus de détails).
+Toutes les couvertures sont disponibles.

@@ -1,6 +1,6 @@
 ---
 title: "Cyber Kobold Vampire Magicien"
-description: "Archive de la page MediaWiki « Cyber Kobold Vampire Magicien »."
+description: "Cyber Kobold Vampire Magicien : numéros, couvertures et sommaires."
 legacy_page_id: 416
 legacy_title: "Cyber_Kobold_Vampire_Magicien"
 legacy_revision_id: 6203

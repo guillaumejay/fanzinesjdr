@@ -1,6 +1,6 @@
 ---
 title: "MJ"
-description: "Archive de la page MediaWiki « MJ »."
+description: "MJ : numéros, couvertures et sommaires."
 legacy_page_id: 473
 legacy_title: "MJ"
 legacy_revision_id: 7018

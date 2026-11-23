@@ -1,6 +1,6 @@
 ---
 title: "Gazette du Donjon (La)"
-description: "Archive de la page MediaWiki « Gazette du Donjon (La) »."
+description: "La Gazette du Donjon : numéros, couvertures et sommaires."
 legacy_page_id: 56
 legacy_title: "Gazette_du_Donjon_(La)"
 legacy_revision_id: 7867
@@ -19,7 +19,7 @@ https://www.donjondudragon.fr/gazette.html
 
 Il compte 4 numéros (le n°5 est en cours de réalisation) et un hors-série.
 
-Toutes les couvertures sont disponibles (reportez-vous à l'onglet « Discussion » pour plus de détails).
+Toutes les couvertures sont disponibles.
 
 ## Généralités
 

@@ -1,6 +1,6 @@
 ---
 title: "Magnus"
-description: "Archive de la page MediaWiki « Magnus »."
+description: "Magnus (2005–2006) : numéros, couvertures et sommaires."
 legacy_page_id: 477
 legacy_title: "Magnus"
 legacy_revision_id: 8266

@@ -1,6 +1,6 @@
 ---
 title: "Beff'toh Espee Cruist"
-description: "Archive de la page MediaWiki « Beff'toh Espee Cruist »."
+description: "Beff'toh Espee Cruist : numéros, couvertures et sommaires."
 legacy_page_id: 380
 legacy_title: "Beff'toh_Espee_Cruist"
 legacy_revision_id: 6087

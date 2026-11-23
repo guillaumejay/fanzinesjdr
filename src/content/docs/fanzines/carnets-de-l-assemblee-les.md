@@ -1,6 +1,6 @@
 ---
 title: "Carnets de l'Assemblée (Les)"
-description: "Archive de la page MediaWiki « Carnets de l'Assemblée (Les) »."
+description: "Les Carnets de l'Assemblée : numéros, couvertures et sommaires."
 legacy_page_id: 296
 legacy_title: "Carnets_de_l'Assemblée_(Les)"
 legacy_revision_id: 5536

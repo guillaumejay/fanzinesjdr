@@ -1,6 +1,6 @@
 ---
 title: "Dragon Radieux"
-description: "Archive de la page MediaWiki « Dragon Radieux »."
+description: "Dragon Radieux (1985–1990) : numéros, couvertures et sommaires."
 legacy_page_id: 77
 legacy_title: "Dragon_Radieux"
 legacy_revision_id: 11093
@@ -984,4 +984,4 @@ Sommaire à compléter.
 | Hurlements – La Prise de Blaye |  | 84 | scénario Hurlements |
 
 ## Notes
-Toutes les couvertures sont disponibles (reportez-vous à l'onglet « Discussion » pour plus de détails).
+Toutes les couvertures sont disponibles.

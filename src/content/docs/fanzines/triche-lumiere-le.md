@@ -1,6 +1,6 @@
 ---
 title: "Triche-lumière (Le)"
-description: "Archive de la page MediaWiki « Triche-lumière (Le) »."
+description: "Le Triche-lumière (1991) : numéros, couvertures et sommaires."
 legacy_page_id: 82
 legacy_title: "Triche-lumière_(Le)"
 legacy_revision_id: 2776

@@ -1,6 +1,6 @@
 ---
 title: "Aldarane"
-description: "Archive de la page MediaWiki « Aldarane »."
+description: "Aldarane : numéros, couvertures et sommaires."
 legacy_page_id: 408
 legacy_title: "Aldarane"
 legacy_revision_id: 6179

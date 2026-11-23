@@ -1,6 +1,6 @@
 ---
 title: "Iceland"
-description: "Archive de la page MediaWiki « Iceland »."
+description: "Iceland : numéros, couvertures et sommaires."
 legacy_page_id: 423
 legacy_title: "Iceland"
 legacy_revision_id: 6228

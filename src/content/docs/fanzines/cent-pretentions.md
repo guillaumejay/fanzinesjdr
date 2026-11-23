@@ -1,6 +1,6 @@
 ---
 title: "Cent Prétentions"
-description: "Archive de la page MediaWiki « Cent Prétentions »."
+description: "Cent Prétentions : numéros, couvertures et sommaires."
 legacy_page_id: 386
 legacy_title: "Cent_Prétentions"
 legacy_revision_id: 6310
@@ -231,4 +231,4 @@ Sommaire à compléter.
 Sommaire à compléter.
 
 ## Notes
-Aucune des couvertures n'est disponible (reportez-vous à l'onglet « Discussion » pour plus de détails).
+Aucune des couvertures n'est disponible.

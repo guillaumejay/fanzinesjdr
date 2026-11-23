@@ -1,6 +1,6 @@
 ---
 title: "Guide du Roublard (Le)"
-description: "Archive de la page MediaWiki « Guide du Roublard (Le) »."
+description: "Le Guide du Roublard (depuis 2019) : numéros, couvertures et sommaires."
 legacy_page_id: 475
 legacy_title: "Guide_du_Roublard_(Le)"
 legacy_revision_id: 7099

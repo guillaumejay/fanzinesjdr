@@ -1,6 +1,6 @@
 ---
 title: "I-L"
-description: "Archive de la page MediaWiki « I-L »."
+description: "Fanzines et revues de jeu de rôle dont le titre commence par I à L."
 legacy_page_id: 6
 legacy_title: "I-L"
 legacy_revision_id: 11024

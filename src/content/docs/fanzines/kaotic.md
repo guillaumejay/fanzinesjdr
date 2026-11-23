@@ -1,6 +1,6 @@
 ---
 title: "Kaotic"
-description: "Archive de la page MediaWiki « Kaotic »."
+description: "Kaotic (1999) : numéros, couvertures et sommaires."
 legacy_page_id: 348
 legacy_title: "Kaotic"
 legacy_revision_id: 7124

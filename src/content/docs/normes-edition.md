@@ -185,9 +185,13 @@ parenthèses à la fin.
 ```md
 ---
 title: "Antre du Dragon (L')"
-description: "Fiche du fanzine L'Antre du Dragon."
+description: "L'Antre du Dragon (1985–1990) : numéros, couvertures et sommaires."
 ---
 ```
+
+La description apparaît dans les résultats des moteurs de recherche : donnez le
+titre usuel, les années de parution si elles sont connues, puis
+« numéros, couvertures et sommaires ».
 
 Les champs `legacy_*` et `source_format` présents dans les fiches existantes
 sont propres à la migration de l’ancien wiki : ne les ajoutez pas.

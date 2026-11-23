@@ -1,6 +1,6 @@
 ---
 title: "U-W"
-description: "Archive de la page MediaWiki « U-W »."
+description: "Fanzines et revues de jeu de rôle dont le titre commence par U à W."
 legacy_page_id: 9
 legacy_title: "U-W"
 legacy_revision_id: 8013

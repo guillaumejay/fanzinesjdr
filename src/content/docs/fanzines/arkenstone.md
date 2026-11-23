@@ -1,6 +1,6 @@
 ---
 title: "Arkenstone"
-description: "Archive de la page MediaWiki « Arkenstone »."
+description: "Arkenstone : numéros, couvertures et sommaires."
 legacy_page_id: 253
 legacy_title: "Arkenstone"
 legacy_revision_id: 6408

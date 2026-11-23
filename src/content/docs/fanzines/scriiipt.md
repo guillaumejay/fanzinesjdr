@@ -1,6 +1,6 @@
 ---
 title: "Scriiipt"
-description: "Archive de la page MediaWiki « Scriiipt »."
+description: "Scriiipt : numéros, couvertures et sommaires."
 legacy_page_id: 58
 legacy_title: "Scriiipt"
 legacy_revision_id: 7283
@@ -161,4 +161,4 @@ http://scriiipt.com/telechargements/?category=7
 
 Il compte 6 numéros (dont un numéro 0).
 
-Toutes les couvertures sont disponibles (reportez-vous à l'onglet « Discussion » pour plus de détails).
+Toutes les couvertures sont disponibles.

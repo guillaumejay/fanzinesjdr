@@ -1,6 +1,6 @@
 ---
 title: "Plasma"
-description: "Archive de la page MediaWiki « Plasma »."
+description: "Plasma (1991–1994) : numéros, couvertures et sommaires."
 legacy_page_id: 217
 legacy_title: "Plasma"
 legacy_revision_id: 7184
@@ -349,4 +349,4 @@ Sommaire à compléter.
 Sommaire à compléter.
 
 ## Notes
-Toutes les couvertures sont disponibles (reportez-vous à l'onglet « Discussion » pour plus de détails).
+Toutes les couvertures sont disponibles.

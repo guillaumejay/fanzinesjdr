@@ -1,6 +1,6 @@
 ---
 title: "RdA' Zine (Rêves d'Ailleurs)"
-description: "Archive de la page MediaWiki « RdA' Zine (Rêves d'Ailleurs) »."
+description: "RdA' Zine (Rêves d'Ailleurs) (depuis 2014) : numéros, couvertures et sommaires."
 legacy_page_id: 67
 legacy_title: "RdA'_Zine_(Rêves_d'Ailleurs)"
 legacy_revision_id: 2473

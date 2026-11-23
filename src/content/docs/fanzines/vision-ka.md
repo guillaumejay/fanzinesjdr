@@ -1,6 +1,6 @@
 ---
 title: "Vision Ka"
-description: "Archive de la page MediaWiki « Vision Ka »."
+description: "Vision Ka : numéros, couvertures et sommaires."
 legacy_page_id: 114
 legacy_title: "Vision_Ka"
 legacy_revision_id: 5006
@@ -19,7 +19,7 @@ http://heritiersbabel.org/?cat=44
 
 Il compte 9 numéros.
 
-Toutes les couvertures  sont disponibles (reportez-vous à l'onglet « Discussion » pour plus de détails).
+Toutes les couvertures sont disponibles.
 
 ## Généralités
 Voir aussi [Palimpseste](../palimpseste/), du même éditeur

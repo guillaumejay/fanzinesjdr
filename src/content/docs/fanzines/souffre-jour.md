@@ -1,6 +1,6 @@
 ---
 title: "Souffre-Jour"
-description: "Archive de la page MediaWiki « Souffre-Jour »."
+description: "Souffre-Jour : numéros, couvertures et sommaires."
 legacy_page_id: 248
 legacy_title: "Souffre-Jour"
 legacy_revision_id: 7370
@@ -16,7 +16,7 @@ Ce pro-zine compte 8 numéros.
 
 Les pro-zines sont disponibles ici : [sur cette page](http://www.souffre-jour.com/index.php?option=com_content&task=view&id=109&Itemid=140). À commander ou à télécharger gratuitement pour les numéros papier épuisés…
 
-Certaines des couvertures sont disponilbes dans l'onglet « Discussion ».
+Certaines des couvertures sont disponibles.
 
 ## Généralités
 

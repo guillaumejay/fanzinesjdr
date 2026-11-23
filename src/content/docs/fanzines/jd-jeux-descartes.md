@@ -1,6 +1,6 @@
 ---
 title: "JD+ (Jeux Descartes +)"
-description: "Archive de la page MediaWiki « JD+ (Jeux Descartes +) »."
+description: "JD+ (Jeux Descartes +) : numéros, couvertures et sommaires."
 legacy_page_id: 102
 legacy_title: "JD+_(Jeux_Descartes_+)"
 legacy_revision_id: 7133
@@ -153,4 +153,4 @@ Sommaire à compléter.
 Sommaire à compléter.
 
 ## Notes
-Toutes les couvertures sont disponibles (reportez-vous à l'onglet « Discussion » pour plus de détails).
+Toutes les couvertures sont disponibles.

@@ -1,6 +1,6 @@
 ---
 title: "Tête dans le Donjon (La)"
-description: "Archive de la page MediaWiki « Tête dans le Donjon (La) »."
+description: "La Tête dans le Donjon : numéros, couvertures et sommaires."
 legacy_page_id: 2320
 legacy_title: "Tête_dans_le_Donjon_(La)"
 legacy_revision_id: 10344

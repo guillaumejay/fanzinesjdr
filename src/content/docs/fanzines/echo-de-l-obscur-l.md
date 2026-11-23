@@ -1,6 +1,6 @@
 ---
 title: "Écho de l'Obscur (L')"
-description: "Archive de la page MediaWiki « Écho de l'Obscur (L') »."
+description: "L'Écho de l'Obscur : numéros, couvertures et sommaires."
 legacy_page_id: 490
 legacy_title: "Écho_de_l'Obscur_(L')"
 legacy_revision_id: 7428

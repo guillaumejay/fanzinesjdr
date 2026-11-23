@@ -1,6 +1,6 @@
 ---
 title: "Dragon Rouge"
-description: "Archive de la page MediaWiki « Dragon Rouge »."
+description: "Dragon Rouge (2008) : numéros, couvertures et sommaires."
 legacy_page_id: 297
 legacy_title: "Dragon_Rouge"
 legacy_revision_id: 7851

@@ -1,6 +1,6 @@
 ---
 title: "PTGPTB ebook"
-description: "Archive de la page MediaWiki « PTGPTB ebook »."
+description: "PTGPTB ebook (depuis 2014) : numéros, couvertures et sommaires."
 legacy_page_id: 320
 legacy_title: "PTGPTB_ebook"
 legacy_revision_id: 7254

@@ -1,6 +1,6 @@
 ---
 title: "Gazette du SurHomme (La)"
-description: "Archive de la page MediaWiki « Gazette du SurHomme (La) »."
+description: "La Gazette du SurHomme (depuis 2011) : numéros, couvertures et sommaires."
 legacy_page_id: 11
 legacy_title: "Gazette_du_SurHomme_(La)"
 legacy_revision_id: 7987

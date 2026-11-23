@@ -1,6 +1,6 @@
 ---
 title: "Alko Venturus"
-description: "Archive de la page MediaWiki « Alko Venturus »."
+description: "Alko Venturus (depuis 2018) : numéros, couvertures et sommaires."
 legacy_page_id: 325
 legacy_title: "Alko_Venturus"
 legacy_revision_id: 5228

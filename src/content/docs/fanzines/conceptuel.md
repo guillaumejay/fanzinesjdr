@@ -1,6 +1,6 @@
 ---
 title: "Conceptuel"
-description: "Archive de la page MediaWiki « Conceptuel »."
+description: "Conceptuel : numéros, couvertures et sommaires."
 legacy_page_id: 383
 legacy_title: "Conceptuel"
 legacy_revision_id: 6069

@@ -1,6 +1,6 @@
 ---
 title: "Gazette Aventurienne (La)"
-description: "Archive de la page MediaWiki « Gazette Aventurienne (La) »."
+description: "La Gazette Aventurienne (depuis 2018) : numéros, couvertures et sommaires."
 legacy_page_id: 327
 legacy_title: "Gazette_Aventurienne_(La)"
 legacy_revision_id: 6212
@@ -76,4 +76,4 @@ Il compte 1 numéro.
 | Réédition augmentée pour « L’Art de cuisiner la salzarelle » |  | 2 | article |
 
 ## Notes
-Toutes les couvertures sont disponibles (reportez-vous à l'onglet « Discussion » pour plus de détails).
+Toutes les couvertures sont disponibles.

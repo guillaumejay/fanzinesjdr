@@ -1,6 +1,6 @@
 ---
 title: "Apsara"
-description: "Archive de la page MediaWiki « Apsara »."
+description: "Apsara (1992) : numéros, couvertures et sommaires."
 legacy_page_id: 211
 legacy_title: "Apsara"
 legacy_revision_id: 8270

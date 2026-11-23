@@ -1,6 +1,6 @@
 ---
 title: "Fumble !"
-description: "Archive de la page MediaWiki « Fumble ! »."
+description: "Fumble ! (1991–2000) : numéros, couvertures et sommaires."
 legacy_page_id: 481
 legacy_title: "Fumble_!"
 legacy_revision_id: 7217

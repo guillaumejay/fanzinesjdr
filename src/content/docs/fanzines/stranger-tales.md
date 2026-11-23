@@ -1,6 +1,6 @@
 ---
 title: "Stranger Tales"
-description: "Archive de la page MediaWiki « Stranger Tales »."
+description: "Stranger Tales (depuis 2017) : numéros, couvertures et sommaires."
 legacy_page_id: 309
 legacy_title: "Stranger_Tales"
 legacy_revision_id: 7829

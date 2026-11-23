@@ -1,6 +1,6 @@
 ---
 title: "Atmosphères"
-description: "Archive de la page MediaWiki « Atmosphères »."
+description: "Atmosphères : numéros, couvertures et sommaires."
 legacy_page_id: 97
 legacy_title: "Atmosphères"
 legacy_revision_id: 5800

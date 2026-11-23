@@ -1,6 +1,6 @@
 ---
 title: "Arcanes"
-description: "Archive de la page MediaWiki « Arcanes »."
+description: "Arcanes : numéros, couvertures et sommaires."
 legacy_page_id: 436
 legacy_title: "Arcanes"
 legacy_revision_id: 11068

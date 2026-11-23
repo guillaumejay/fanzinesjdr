@@ -1,6 +1,6 @@
 ---
 title: "Casus Belli 2e Époque"
-description: "Archive de la page MediaWiki « Casus Belli 2e Époque »."
+description: "Casus Belli 2e Époque (2000–2006) : numéros, couvertures et sommaires."
 legacy_page_id: 125
 legacy_title: "Casus_Belli_2e_Époque"
 legacy_revision_id: 7078
@@ -834,4 +834,4 @@ Sommaire à compléter.
 Sommaire à compléter.
 
 ## Notes
-Toutes les couvertures de la deuxième époque sont disponibles (reportez-vous à l'onglet « Discussion » pour plus de détails).
+Toutes les couvertures de la deuxième époque sont disponibles.

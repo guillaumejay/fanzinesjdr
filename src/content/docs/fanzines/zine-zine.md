@@ -1,6 +1,6 @@
 ---
 title: "Zine-Zine"
-description: "Archive de la page MediaWiki « Zine-Zine »."
+description: "Zine-Zine : numéros, couvertures et sommaires."
 legacy_page_id: 287
 legacy_title: "Zine-Zine"
 legacy_revision_id: 3851

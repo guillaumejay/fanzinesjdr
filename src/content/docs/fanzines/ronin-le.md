@@ -1,6 +1,6 @@
 ---
 title: "Ronin (Le)"
-description: "Archive de la page MediaWiki « Ronin (Le) »."
+description: "Le Ronin : numéros, couvertures et sommaires."
 legacy_page_id: 440
 legacy_title: "Ronin_(Le)"
 legacy_revision_id: 6412

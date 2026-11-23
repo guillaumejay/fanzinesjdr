@@ -1,6 +1,6 @@
 ---
 title: "Agora Imaginaire (L')"
-description: "Archive de la page MediaWiki « Agora Imaginaire (L') »."
+description: "L'Agora Imaginaire : numéros, couvertures et sommaires."
 legacy_page_id: 407
 legacy_title: "Agora_Imaginaire_(L')"
 legacy_revision_id: 6177

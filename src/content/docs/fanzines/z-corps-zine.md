@@ -1,6 +1,6 @@
 ---
 title: "Z-Corps Zine"
-description: "Archive de la page MediaWiki « Z-Corps Zine »."
+description: "Z-Corps Zine (depuis 2015) : numéros, couvertures et sommaires."
 legacy_page_id: 231
 legacy_title: "Z-Corps_Zine"
 legacy_revision_id: 2486

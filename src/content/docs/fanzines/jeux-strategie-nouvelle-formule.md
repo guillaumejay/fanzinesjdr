@@ -1,6 +1,6 @@
 ---
 title: "Jeux & Stratégie (Nouvelle Formule)"
-description: "Archive de la page MediaWiki « Jeux & Stratégie (Nouvelle Formule) »."
+description: "Jeux & Stratégie (Nouvelle Formule) : numéros, couvertures et sommaires."
 legacy_page_id: 188
 legacy_title: "Jeux_&_Stratégie_(Nouvelle_Formule)"
 legacy_revision_id: 11119
@@ -13,7 +13,7 @@ Ceci est une ébauche de fiche de fanzine. N'hésitez pas à la compléter (et �
 
 24 avril 2026 : Le retour de Jeux & Stratégie ? https://jeuxetstrategie.fr/
 
-Toutes les couvertures (fournies pas [Utilisateur:Pic](../utilisateur-pic/)) sont disponibles (reportez-vous à l'onglet « Discussion » pour plus de détails).
+Toutes les couvertures (fournies par Pic) sont disponibles.
 
 ## Généralités
 Voir aussi [Jeux & Stratégie](../jeux-strategie/)

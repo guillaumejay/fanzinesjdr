@@ -1,6 +1,6 @@
 ---
 title: "Tatou"
-description: "Archive de la page MediaWiki « Tatou »."
+description: "Tatou (1988) : numéros, couvertures et sommaires."
 legacy_page_id: 216
 legacy_title: "Tatou"
 legacy_revision_id: 4160
@@ -627,7 +627,7 @@ Source : sommaire et ours de la page 2 du numéro. Couverture d’Alain Gassner.
 Sommaire à compléter.
 
 ## Notes
-Toutes les couvertures sont disponibles (reportez-vous à l'onglet « Discussion » pour plus de détails).
+Toutes les couvertures sont disponibles.
 
 http://royaumesdailleurs.free.fr/elric/elric_tatou.html
 

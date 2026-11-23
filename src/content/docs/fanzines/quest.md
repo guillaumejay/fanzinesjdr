@@ -1,6 +1,6 @@
 ---
 title: "Quest"
-description: "Archive de la page MediaWiki « Quest »."
+description: "Quest (1990–1991) : numéros, couvertures et sommaires."
 legacy_page_id: 85
 legacy_title: "Quest"
 legacy_revision_id: 11099
@@ -230,4 +230,4 @@ Sommaire à compléter.
 Sommaire à compléter.
 
 ## Notes
-Toutes les couvertures sont disponibles (reportez-vous à l'onglet « Discussion » pour plus de détails).
+Toutes les couvertures sont disponibles.

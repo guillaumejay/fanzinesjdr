@@ -1,6 +1,6 @@
 ---
 title: "E-H"
-description: "Archive de la page MediaWiki « E-H »."
+description: "Fanzines et revues de jeu de rôle dont le titre commence par E à H."
 legacy_page_id: 5
 legacy_title: "E-H"
 legacy_revision_id: 7479

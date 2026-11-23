@@ -1,6 +1,6 @@
 ---
 title: "Q-T"
-description: "Archive de la page MediaWiki « Q-T »."
+description: "Fanzines et revues de jeu de rôle dont le titre commence par Q à T."
 legacy_page_id: 8
 legacy_title: "Q-T"
 legacy_revision_id: 10343

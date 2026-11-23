@@ -1,6 +1,6 @@
 ---
 title: "Chroniques Egyptiennes (Les)"
-description: "Archive de la page MediaWiki « Chroniques Egyptiennes (Les) »."
+description: "Les Chroniques Egyptiennes : numéros, couvertures et sommaires."
 legacy_page_id: 391
 legacy_title: "Chroniques_Egyptiennes_(Les)"
 legacy_revision_id: 6116

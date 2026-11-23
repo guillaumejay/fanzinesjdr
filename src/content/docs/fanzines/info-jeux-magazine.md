@@ -1,6 +1,6 @@
 ---
 title: "Info-Jeux Magazine"
-description: "Archive de la page MediaWiki « Info-Jeux Magazine »."
+description: "Info-Jeux Magazine (1985–1987) : numéros, couvertures et sommaires."
 legacy_page_id: 221
 legacy_title: "Info-Jeux_Magazine"
 legacy_revision_id: 11073

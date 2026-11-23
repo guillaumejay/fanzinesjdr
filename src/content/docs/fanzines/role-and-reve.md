@@ -1,6 +1,6 @@
 ---
 title: "Rôle and Rêve"
-description: "Archive de la page MediaWiki « Rôle and Rêve »."
+description: "Rôle and Rêve : numéros, couvertures et sommaires."
 legacy_page_id: 449
 legacy_title: "Rôle_and_Rêve"
 legacy_revision_id: 6536

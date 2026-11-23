@@ -1,6 +1,6 @@
 ---
 title: "Jeu de Rôle Magazine"
-description: "Archive de la page MediaWiki « Jeu de Rôle Magazine »."
+description: "Jeu de Rôle Magazine (depuis 2008) : numéros, couvertures et sommaires."
 legacy_page_id: 69
 legacy_title: "Jeu_de_Rôle_Magazine"
 legacy_revision_id: 11108

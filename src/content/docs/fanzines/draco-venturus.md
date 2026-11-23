@@ -1,6 +1,6 @@
 ---
 title: "Draco Venturus"
-description: "Archive de la page MediaWiki « Draco Venturus »."
+description: "Draco Venturus (2010–2011) : numéros, couvertures et sommaires."
 legacy_page_id: 52
 legacy_title: "Draco_Venturus"
 legacy_revision_id: 5178
@@ -119,4 +119,4 @@ http://scriptarium.fr/boutique/22-draco-venturus
 
 Draco Venturus fusionne avec Alkonautes : http://www.alkonost-editions.com/index.php?article43/le-mag-la-suite
 
-Toutes les couvertures sont disponibles (reportez-vous à l'onglet « Discussion » pour plus de détails).
+Toutes les couvertures sont disponibles.

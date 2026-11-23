@@ -1,6 +1,6 @@
 ---
 title: "Alkonautes"
-description: "Archive de la page MediaWiki « Alkonautes »."
+description: "Alkonautes : numéros, couvertures et sommaires."
 legacy_page_id: 238
 legacy_title: "Alkonautes"
 legacy_revision_id: 5177

@@ -1,6 +1,6 @@
 ---
 title: "Petit Dragon"
-description: "Archive de la page MediaWiki « Petit Dragon »."
+description: "Petit Dragon (2010–2011) : numéros, couvertures et sommaires."
 legacy_page_id: 219
 legacy_title: "Petit_Dragon"
 legacy_revision_id: 7160
@@ -31,7 +31,7 @@ Le troisième en février 2011. 72 pages. Rédacteurs en chef : Emmanuel Deloget
 
 Le quatrième en août 2011. 45 pages. Rédacteur en chef : Haazeven.
 
-Certaines (?) des couvertures sont disponibles (reportez-vous à l'onglet « Discussion » pour plus de détails).
+Certaines (?) des couvertures sont disponibles.
 
 ## Généralités
 

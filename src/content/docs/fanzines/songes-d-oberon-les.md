@@ -1,6 +1,6 @@
 ---
 title: "Songes d'Obéron (Les)"
-description: "Archive de la page MediaWiki « Songes d'Obéron (Les) »."
+description: "Les Songes d'Obéron : numéros, couvertures et sommaires."
 legacy_page_id: 50
 legacy_title: "Songes_d'Obéron_(Les)"
 legacy_revision_id: 4728

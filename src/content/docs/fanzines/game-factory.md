@@ -1,6 +1,6 @@
 ---
 title: "Game Factory"
-description: "Archive de la page MediaWiki « Game Factory »."
+description: "Game Factory : numéros, couvertures et sommaires."
 legacy_page_id: 122
 legacy_title: "Game_Factory"
 legacy_revision_id: 2454

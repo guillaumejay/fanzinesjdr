@@ -1,6 +1,6 @@
 ---
 title: "Bob'Zine"
-description: "Archive de la page MediaWiki « Bob'Zine »."
+description: "Bob'Zine : numéros, couvertures et sommaires."
 legacy_page_id: 335
 legacy_title: "Bob'Zine"
 legacy_revision_id: 5551

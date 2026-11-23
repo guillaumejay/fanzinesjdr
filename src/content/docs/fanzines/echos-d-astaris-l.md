@@ -1,6 +1,6 @@
 ---
 title: "Échos d'Astaris (L')"
-description: "Archive de la page MediaWiki « Échos d'Astaris (L') »."
+description: "L'Échos d'Astaris : numéros, couvertures et sommaires."
 legacy_page_id: 321
 legacy_title: "Échos_d'Astaris_(L')"
 legacy_revision_id: 4816

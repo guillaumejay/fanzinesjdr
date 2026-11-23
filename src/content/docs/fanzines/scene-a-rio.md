@@ -1,6 +1,6 @@
 ---
 title: "Scène à Rio"
-description: "Archive de la page MediaWiki « Scène à Rio »."
+description: "Scène à Rio : numéros, couvertures et sommaires."
 legacy_page_id: 99
 legacy_title: "Scène_à_Rio"
 legacy_revision_id: 2478

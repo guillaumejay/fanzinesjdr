@@ -1,6 +1,6 @@
 ---
 title: "APA Rôle"
-description: "Archive de la page MediaWiki « APA Rôle »."
+description: "APA Rôle : numéros, couvertures et sommaires."
 legacy_page_id: 2967
 legacy_title: "APA_Rôle"
 legacy_revision_id: 11094

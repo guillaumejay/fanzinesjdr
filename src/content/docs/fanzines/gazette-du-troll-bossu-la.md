@@ -1,6 +1,6 @@
 ---
 title: "Gazette du Troll Bossu (La)"
-description: "Archive de la page MediaWiki « Gazette du Troll Bossu (La) »."
+description: "La Gazette du Troll Bossu : numéros, couvertures et sommaires."
 legacy_page_id: 118
 legacy_title: "Gazette_du_Troll_Bossu_(La)"
 legacy_revision_id: 7704

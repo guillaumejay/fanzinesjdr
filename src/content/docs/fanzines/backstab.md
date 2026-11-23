@@ -1,6 +1,6 @@
 ---
 title: "Backstab"
-description: "Archive de la page MediaWiki « Backstab »."
+description: "Backstab (1996–2005) : numéros, couvertures et sommaires."
 legacy_page_id: 35
 legacy_title: "Backstab"
 legacy_revision_id: 7077
@@ -1127,4 +1127,4 @@ Sommaire à compléter.
 Sommaire à compléter.
 
 ## Notes
-Toutes les couvertures sont disponibles (reportez-vous à l'onglet « Discussion » pour plus de détails).
+Toutes les couvertures sont disponibles.

@@ -1,6 +1,6 @@
 ---
 title: "Miroir des Terres Médianes (Le)"
-description: "Archive de la page MediaWiki « Miroir des Terres Médianes (Le) »."
+description: "Le Miroir des Terres Médianes : numéros, couvertures et sommaires."
 legacy_page_id: 2966
 legacy_title: "Miroir_des_Terres_Médianes_(Le)"
 legacy_revision_id: 11087

@@ -1,6 +1,6 @@
 ---
 title: "Hobbit Fataliste (Le)"
-description: "Archive de la page MediaWiki « Hobbit Fataliste (Le) »."
+description: "Le Hobbit Fataliste (1994) : numéros, couvertures et sommaires."
 legacy_page_id: 75
 legacy_title: "Hobbit_Fataliste_(Le)"
 legacy_revision_id: 4787

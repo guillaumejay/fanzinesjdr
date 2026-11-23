@@ -1,6 +1,6 @@
 ---
 title: "Toile d'Arachné Solara (La)"
-description: "Archive de la page MediaWiki « Toile d'Arachné Solara (La) »."
+description: "La Toile d'Arachné Solara (1994) : numéros, couvertures et sommaires."
 legacy_page_id: 329
 legacy_title: "Toile_d'Arachné_Solara_(La)"
 legacy_revision_id: 5511
@@ -86,4 +86,4 @@ source_format: "mediawiki"
 | La crinière des ancêtres |  | 9 | scénario RuneQuest |
 
 ## Notes
-Toutes les couvertures sont disponibles (reportez-vous à l'onglet « Discussion » pour plus de détails).
+Toutes les couvertures sont disponibles.

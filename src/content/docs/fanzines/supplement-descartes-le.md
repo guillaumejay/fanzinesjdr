@@ -1,6 +1,6 @@
 ---
 title: "Supplément Descartes (Le)"
-description: "Archive de la page MediaWiki « Supplément Descartes (Le) »."
+description: "Le Supplément Descartes (1992) : numéros, couvertures et sommaires."
 legacy_page_id: 104
 legacy_title: "Supplément_Descartes_(Le)"
 legacy_revision_id: 8653
@@ -250,4 +250,4 @@ Sommaire à compléter.
 | Aide de jeu Rencontre cosmique |  | 54 | Du rififi dans les étoiles |
 
 ## Notes
-Toutes les couvertures sont disponibles (reportez-vous à l'onglet « Discussion » pour plus de détails).
+Toutes les couvertures sont disponibles.

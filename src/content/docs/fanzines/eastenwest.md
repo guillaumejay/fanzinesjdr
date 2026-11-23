@@ -1,6 +1,6 @@
 ---
 title: "Eastenwest"
-description: "Archive de la page MediaWiki « Eastenwest »."
+description: "Eastenwest (2000–2013) : numéros, couvertures et sommaires."
 legacy_page_id: 34
 legacy_title: "Eastenwest"
 legacy_revision_id: 788

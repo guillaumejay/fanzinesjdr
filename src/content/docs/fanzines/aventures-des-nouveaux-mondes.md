@@ -1,6 +1,6 @@
 ---
 title: "Aventures des Nouveaux Mondes"
-description: "Archive de la page MediaWiki « Aventures des Nouveaux Mondes »."
+description: "Aventures des Nouveaux Mondes : numéros, couvertures et sommaires."
 legacy_page_id: 406
 legacy_title: "Aventures_des_Nouveaux_Mondes"
 legacy_revision_id: 6175

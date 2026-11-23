@@ -1,6 +1,6 @@
 ---
 title: "Architeuthis"
-description: "Archive de la page MediaWiki « Architeuthis »."
+description: "Architeuthis (depuis 2021) : numéros, couvertures et sommaires."
 legacy_page_id: 496
 legacy_title: "Architeuthis"
 legacy_revision_id: 8168

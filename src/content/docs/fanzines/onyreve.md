@@ -1,6 +1,6 @@
 ---
 title: "OnyRêve"
-description: "Archive de la page MediaWiki « OnyRêve »."
+description: "OnyRêve (1997) : numéros, couvertures et sommaires."
 legacy_page_id: 339
 legacy_title: "OnyRêve"
 legacy_revision_id: 5531

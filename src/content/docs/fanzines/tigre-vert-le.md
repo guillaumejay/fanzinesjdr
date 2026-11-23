@@ -1,6 +1,6 @@
 ---
 title: "Tigre Vert (Le)"
-description: "Archive de la page MediaWiki « Tigre Vert (Le) »."
+description: "Le Tigre Vert : numéros, couvertures et sommaires."
 legacy_page_id: 396
 legacy_title: "Tigre_Vert_(Le)"
 legacy_revision_id: 6213

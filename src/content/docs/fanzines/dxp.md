@@ -1,6 +1,6 @@
 ---
 title: "DXP"
-description: "Archive de la page MediaWiki « DXP »."
+description: "DXP (2000) : numéros, couvertures et sommaires."
 legacy_page_id: 76
 legacy_title: "DXP"
 legacy_revision_id: 4550

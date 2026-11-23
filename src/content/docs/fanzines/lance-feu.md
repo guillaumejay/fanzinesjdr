@@ -1,6 +1,6 @@
 ---
 title: "Lance-Feu"
-description: "Archive de la page MediaWiki « Lance-Feu »."
+description: "Lance-Feu : numéros, couvertures et sommaires."
 legacy_page_id: 370
 legacy_title: "Lance-Feu"
 legacy_revision_id: 5926

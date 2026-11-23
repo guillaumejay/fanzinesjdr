@@ -1,6 +1,6 @@
 ---
 title: "Feuille de Chou (La)"
-description: "Archive de la page MediaWiki « Feuille de Chou (La) »."
+description: "La Feuille de Chou : numéros, couvertures et sommaires."
 legacy_page_id: 392
 legacy_title: "Feuille_de_Chou_(La)"
 legacy_revision_id: 6615

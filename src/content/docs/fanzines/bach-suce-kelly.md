@@ -1,6 +1,6 @@
 ---
 title: "Bach suce Kelly"
-description: "Archive de la page MediaWiki « Bach suce Kelly »."
+description: "Bach suce Kelly (1996–2001) : numéros, couvertures et sommaires."
 legacy_page_id: 121
 legacy_title: "Bach_suce_Kelly"
 legacy_revision_id: 6525

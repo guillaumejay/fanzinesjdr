@@ -1,6 +1,6 @@
 ---
 title: "Hermès Trimégiste"
-description: "Archive de la page MediaWiki « Hermès Trimégiste »."
+description: "Hermès Trimégiste : numéros, couvertures et sommaires."
 legacy_page_id: 256
 legacy_title: "Hermès_Trimégiste"
 legacy_revision_id: 7713

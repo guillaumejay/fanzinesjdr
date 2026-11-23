@@ -1,6 +1,6 @@
 ---
 title: "B.E.E.R"
-description: "Archive de la page MediaWiki « B.E.E.R »."
+description: "B.E.E.R (2002–2005) : numéros, couvertures et sommaires."
 legacy_page_id: 363
 legacy_title: "B.E.E.R"
 legacy_revision_id: 7204

@@ -1,6 +1,6 @@
 ---
 title: "Black Box"
-description: "Archive de la page MediaWiki « Black Box »."
+description: "Black Box (2005–2008) : numéros, couvertures et sommaires."
 legacy_page_id: 101
 legacy_title: "Black_Box"
 legacy_revision_id: 7536
@@ -200,4 +200,4 @@ Voir aussi [Casus Belli 4e Époque](../casus-belli-4e-epoque/), du même éditeu
 | **numéro jamais édité** |  |  |  |
 
 ## Notes
-Toutes les couvertures sont disponibles (reportez-vous à l'onglet « Discussion » pour plus de détails).
+Toutes les couvertures sont disponibles.

@@ -1,6 +1,6 @@
 ---
 title: "Autre Porte (L')"
-description: "Archive de la page MediaWiki « Autre Porte (L') »."
+description: "L'Autre Porte : numéros, couvertures et sommaires."
 legacy_page_id: 355
 legacy_title: "Autre_Porte_(L')"
 legacy_revision_id: 5719

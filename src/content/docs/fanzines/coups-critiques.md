@@ -1,6 +1,6 @@
 ---
 title: "Coups Critiques"
-description: "Archive de la page MediaWiki « Coups Critiques »."
+description: "Coups Critiques (1989–1990) : numéros, couvertures et sommaires."
 legacy_page_id: 334
 legacy_title: "Coups_Critiques"
 legacy_revision_id: 6464
@@ -15,8 +15,6 @@ source_format: "mediawiki"
 La plupart des infos sont reprises de ce site : http://myvyrrian.free.fr/FANCoupsCritiques.html (merci à Tybalt de me l'avoir indiqué…)
 
 ## Généralités
-
-@Tybalt : voir note à ton attention dans l'onglet "[Discussion](http://fanzines.jdr.wiki.free.fr/wiki/index.php?title=Discussion:Coups_Critiques#Note_.C3.A0_Tybalt)"
 
 ![Logo de Coups Critiques](/images/fanzines/coups-critiques/coupscritiqueslogo.jpg)
 ![Couverture de Coups Critiques](/images/fanzines/coups-critiques/coupscritiques01.jpg)
@@ -330,8 +328,6 @@ La plupart des infos sont reprises de ce site : http://myvyrrian.free.fr/FANCoup
 | Revue de presse |  | 41 | Revue de presse |
 
 ## Numéro 1 Deuxième Série
-
-@Tybalt : voir note à ton attention dans l'onglet "[Discussion](http://fanzines.jdr.wiki.free.fr/wiki/index.php?title=Discussion:Coups_Critiques#Note_.C3.A0_Tybalt)"
 
 ![Couverture du numéro 1 deuxième série de Coups Critiques](/images/fanzines/coups-critiques/coupscritiques01.jpg)
 

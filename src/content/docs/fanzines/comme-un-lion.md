@@ -1,6 +1,6 @@
 ---
 title: "Comme un Lion"
-description: "Archive de la page MediaWiki « Comme un Lion »."
+description: "Comme un Lion : numéros, couvertures et sommaires."
 legacy_page_id: 235
 legacy_title: "Comme_un_Lion"
 legacy_revision_id: 5579

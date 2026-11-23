@@ -1,6 +1,6 @@
 ---
 title: "Chasseurs de Rêves"
-description: "Archive de la page MediaWiki « Chasseurs de Rêves »."
+description: "Chasseurs de Rêves : numéros, couvertures et sommaires."
 legacy_page_id: 390
 legacy_title: "Chasseurs_de_Rêves"
 legacy_revision_id: 6656

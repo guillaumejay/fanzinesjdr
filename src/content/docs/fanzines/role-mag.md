@@ -1,6 +1,6 @@
 ---
 title: "Role Mag'"
-description: "Archive de la page MediaWiki « Role Mag' »."
+description: "Role Mag' (1990–1991) : numéros, couvertures et sommaires."
 legacy_page_id: 206
 legacy_title: "Role_Mag'"
 legacy_revision_id: 8365
@@ -256,6 +256,6 @@ Sommaire à compléter.
 | **[Fiche du jeu sur le site du Guide du Rôliste Galactique](http://www.legrog.org/jeux/messager)** |  |  |  |
 
 ## Remarque
-Toutes les couvertures sont disponibles (reportez-vous à l'onglet « Discussion » pour plus de détails).
+Toutes les couvertures sont disponibles.
 
 La page Wikipédia fait état de 9 numéros parus (et non pas 10)… sauf si l'on compte le JdR « Le Messager » comme numéro 10 !

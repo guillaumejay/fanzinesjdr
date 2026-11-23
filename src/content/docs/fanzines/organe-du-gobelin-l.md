@@ -1,6 +1,6 @@
 ---
 title: "Organe du Gobelin (L')"
-description: "Archive de la page MediaWiki « Organe du Gobelin (L') »."
+description: "L'Organe du Gobelin : numéros, couvertures et sommaires."
 legacy_page_id: 397
 legacy_title: "Organe_du_Gobelin_(L')"
 legacy_revision_id: 6215

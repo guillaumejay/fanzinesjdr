@@ -1,6 +1,6 @@
 ---
 title: "Chroniques des Terres-Dragons"
-description: "Archive de la page MediaWiki « Chroniques des Terres-Dragons »."
+description: "Chroniques des Terres-Dragons (depuis 2022) : numéros, couvertures et sommaires."
 legacy_page_id: 500
 legacy_title: "Chroniques_des_Terres-Dragons"
 legacy_revision_id: 8155

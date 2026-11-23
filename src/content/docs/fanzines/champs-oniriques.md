@@ -1,6 +1,6 @@
 ---
 title: "Champs Oniriques"
-description: "Archive de la page MediaWiki « Champs Oniriques »."
+description: "Champs Oniriques : numéros, couvertures et sommaires."
 legacy_page_id: 410
 legacy_title: "Champs_Oniriques"
 legacy_revision_id: 6185

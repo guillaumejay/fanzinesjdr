@@ -1,6 +1,6 @@
 ---
 title: "Héphaïstos"
-description: "Archive de la page MediaWiki « Héphaïstos »."
+description: "Héphaïstos : numéros, couvertures et sommaires."
 legacy_page_id: 84
 legacy_title: "Héphaïstos"
 legacy_revision_id: 5801

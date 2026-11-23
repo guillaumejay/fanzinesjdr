@@ -1,6 +1,6 @@
 ---
 title: "Bière et Bretzels"
-description: "Archive de la page MediaWiki « Bière et Bretzels »."
+description: "Bière et Bretzels : numéros, couvertures et sommaires."
 legacy_page_id: 366
 legacy_title: "Bière_et_Bretzels"
 legacy_revision_id: 5894

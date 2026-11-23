@@ -1,6 +1,6 @@
 ---
 title: "Dragons de Bretagne (Les)"
-description: "Archive de la page MediaWiki « Dragons de Bretagne (Les) »."
+description: "Les Dragons de Bretagne : numéros, couvertures et sommaires."
 legacy_page_id: 319
 legacy_title: "Dragons_de_Bretagne_(Les)"
 legacy_revision_id: 4806

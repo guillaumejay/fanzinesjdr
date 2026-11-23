@@ -1,6 +1,6 @@
 ---
 title: "Rétro-Donj"
-description: "Archive de la page MediaWiki « Rétro-Donj »."
+description: "Rétro-Donj (depuis 2020) : numéros, couvertures et sommaires."
 legacy_page_id: 487
 legacy_title: "Rétro-Donj"
 legacy_revision_id: 8092

@@ -1,6 +1,6 @@
 ---
 title: "D20 Magazine"
-description: "Archive de la page MediaWiki « D20 Magazine »."
+description: "D20 Magazine (2000–2005) : numéros, couvertures et sommaires."
 legacy_page_id: 294
 legacy_title: "D20_Magazine"
 legacy_revision_id: 4748
@@ -18,7 +18,7 @@ Un lien ici : http://les-terres-de-vs.forumgratuit.org/t878-d20-magazine
 
 http://data.bnf.fr/37586845/d20_magazine/
 
-Toutes les couvertures sont disponibles (reportez-vous à l'onglet « Discussion » pour plus de détails).
+Toutes les couvertures sont disponibles.
 
 ## Généralités
 

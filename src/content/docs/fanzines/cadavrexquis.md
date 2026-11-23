@@ -1,6 +1,6 @@
 ---
 title: "Cadavrexquis"
-description: "Archive de la page MediaWiki « Cadavrexquis »."
+description: "Cadavrexquis : numéros, couvertures et sommaires."
 legacy_page_id: 485
 legacy_title: "Cadavrexquis"
 legacy_revision_id: 7253

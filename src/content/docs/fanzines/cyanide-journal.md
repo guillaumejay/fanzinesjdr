@@ -1,6 +1,6 @@
 ---
 title: "Cyanide Journal"
-description: "Archive de la page MediaWiki « Cyanide Journal »."
+description: "Cyanide Journal : numéros, couvertures et sommaires."
 legacy_page_id: 322
 legacy_title: "Cyanide_Journal"
 legacy_revision_id: 4814

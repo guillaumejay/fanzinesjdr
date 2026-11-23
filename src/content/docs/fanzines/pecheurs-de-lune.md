@@ -1,6 +1,6 @@
 ---
 title: "Pêcheurs de Lune"
-description: "Archive de la page MediaWiki « Pêcheurs de Lune »."
+description: "Pêcheurs de Lune : numéros, couvertures et sommaires."
 legacy_page_id: 398
 legacy_title: "Pêcheurs_de_Lune"
 legacy_revision_id: 7820

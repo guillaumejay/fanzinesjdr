@@ -1,6 +1,6 @@
 ---
 title: "Terres de Brumes"
-description: "Archive de la page MediaWiki « Terres de Brumes »."
+description: "Terres de Brumes : numéros, couvertures et sommaires."
 legacy_page_id: 353
 legacy_title: "Terres_de_Brumes"
 legacy_revision_id: 5798

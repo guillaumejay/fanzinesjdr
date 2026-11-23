@@ -1,6 +1,6 @@
 ---
 title: "Dé Calé (Le)"
-description: "Archive de la page MediaWiki « Dé Calé (Le) »."
+description: "Le Dé Calé (depuis 2017) : numéros, couvertures et sommaires."
 legacy_page_id: 313
 legacy_title: "Dé_Calé_(Le)"
 legacy_revision_id: 8009

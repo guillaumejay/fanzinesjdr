@@ -1,6 +1,6 @@
 ---
 title: "Dragon VF"
-description: "Archive de la page MediaWiki « Dragon VF »."
+description: "Dragon VF (1991–1998) : numéros, couvertures et sommaires."
 legacy_page_id: 292
 legacy_title: "Dragon_VF"
 legacy_revision_id: 4750
@@ -15,7 +15,7 @@ Infos utiles sur la [Fiche Wikipédia](https://fr.wikipedia.org/wiki/Dragon_Maga
 
 Quelques infos utiles sur ce blog : [http://jdra.eklablog.net/dragon-magazine-a47096961](http://jdra.eklablog.net/dragon-magazine-a47096961)
 
-Toutes les couvertures sont disponibles (reportez-vous à l'onglet « Discussion » pour plus de détails).
+Toutes les couvertures sont disponibles.
 
 ## Généralités
 

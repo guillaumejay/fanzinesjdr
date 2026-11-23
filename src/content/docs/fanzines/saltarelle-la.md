@@ -1,6 +1,6 @@
 ---
 title: "Saltarelle (La)"
-description: "Archive de la page MediaWiki « Saltarelle (La) »."
+description: "La Saltarelle : numéros, couvertures et sommaires."
 legacy_page_id: 54
 legacy_title: "Saltarelle_(La)"
 legacy_revision_id: 5176

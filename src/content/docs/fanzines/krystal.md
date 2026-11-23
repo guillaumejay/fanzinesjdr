@@ -1,6 +1,6 @@
 ---
 title: "Krystal"
-description: "Archive de la page MediaWiki « Krystal »."
+description: "Krystal : numéros, couvertures et sommaires."
 legacy_page_id: 2963
 legacy_title: "Krystal"
 legacy_revision_id: 11083

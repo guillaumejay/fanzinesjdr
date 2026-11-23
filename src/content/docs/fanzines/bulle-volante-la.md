@@ -1,6 +1,6 @@
 ---
 title: "Bulle Volante (La)"
-description: "Archive de la page MediaWiki « Bulle Volante (La) »."
+description: "La Bulle Volante : numéros, couvertures et sommaires."
 legacy_page_id: 403
 legacy_title: "Bulle_Volante_(La)"
 legacy_revision_id: 6214

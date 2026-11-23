@@ -1,6 +1,6 @@
 ---
 title: "Lueurs d'Esteren"
-description: "Archive de la page MediaWiki « Lueurs d'Esteren »."
+description: "Lueurs d'Esteren (2012) : numéros, couvertures et sommaires."
 legacy_page_id: 318
 legacy_title: "Lueurs_d'Esteren"
 legacy_revision_id: 5604
