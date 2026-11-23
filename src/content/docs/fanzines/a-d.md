@@ -1,6 +1,6 @@
 ---
 title: "A-D"
-description: "Archive de la page MediaWiki « A-D »."
+description: "Fanzines et revues de jeu de rôle dont le titre commence par A à D."
 legacy_page_id: 4
 legacy_title: "A-D"
 legacy_revision_id: 11040

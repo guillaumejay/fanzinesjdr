@@ -1,6 +1,6 @@
 ---
 title: "Prophézine, les Enfants de Moryagorn"
-description: "Archive de la page MediaWiki « Prophézine, les Enfants de Moryagorn »."
+description: "Prophézine, les Enfants de Moryagorn : numéros, couvertures et sommaires."
 legacy_page_id: 422
 legacy_title: "Prophézine,_les_Enfants_de_Moryagorn"
 legacy_revision_id: 6225

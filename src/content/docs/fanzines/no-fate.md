@@ -1,6 +1,6 @@
 ---
 title: "No Fate"
-description: "Archive de la page MediaWiki « No Fate »."
+description: "No Fate (1996–1998) : numéros, couvertures et sommaires."
 legacy_page_id: 376
 legacy_title: "No_Fate"
 legacy_revision_id: 8433

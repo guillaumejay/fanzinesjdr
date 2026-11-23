@@ -1,6 +1,6 @@
 ---
 title: "Révélation"
-description: "Archive de la page MediaWiki « Révélation »."
+description: "Révélation : numéros, couvertures et sommaires."
 legacy_page_id: 288
 legacy_title: "Révélation"
 legacy_revision_id: 3342

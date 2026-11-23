@@ -1,6 +1,6 @@
 ---
 title: "Tumultes et Trahisons (TnT)"
-description: "Archive de la page MediaWiki « Tumultes et Trahisons (TnT) »."
+description: "Tumultes et Trahisons (TnT) : numéros, couvertures et sommaires."
 legacy_page_id: 379
 legacy_title: "Tumultes_et_Trahisons_(TnT)"
 legacy_revision_id: 6313
@@ -287,4 +287,4 @@ Sommaire à compléter.
 Sommaire à compléter.
 
 ## Notes
-Certaines des couvertures sont disponibles (reportez-vous à l'onglet « Discussion » pour plus de détails).
+Certaines des couvertures sont disponibles.

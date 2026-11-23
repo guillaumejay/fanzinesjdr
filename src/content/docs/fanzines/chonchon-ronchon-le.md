@@ -1,6 +1,6 @@
 ---
 title: "Chonchon Ronchon (Le)"
-description: "Archive de la page MediaWiki « Chonchon Ronchon (Le) »."
+description: "Le Chonchon Ronchon : numéros, couvertures et sommaires."
 legacy_page_id: 411
 legacy_title: "Chonchon_Ronchon_(Le)"
 legacy_revision_id: 6311
@@ -98,4 +98,4 @@ Sommaire à compléter.
 Sommaire à compléter.
 
 ## Notes
-Certaines des couvertures sont disponibles (reportez-vous à l'onglet « Discussion » pour plus de détails).
+Certaines des couvertures sont disponibles.

@@ -1,6 +1,6 @@
 ---
 title: "Ludoneuroniak (Le)"
-description: "Archive de la page MediaWiki « Ludoneuroniak (Le) »."
+description: "Le Ludoneuroniak : numéros, couvertures et sommaires."
 legacy_page_id: 245
 legacy_title: "Ludoneuroniak_(Le)"
 legacy_revision_id: 1922
@@ -19,4 +19,3 @@ N°1
 
 Parution : mai 1994
 
-Couverture du n°1 disponible dans l'onglet « Discussion »

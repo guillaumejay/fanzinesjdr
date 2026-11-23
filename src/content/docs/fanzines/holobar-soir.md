@@ -1,6 +1,6 @@
 ---
 title: "Holobar Soir"
-description: "Archive de la page MediaWiki « Holobar Soir »."
+description: "Holobar Soir : numéros, couvertures et sommaires."
 legacy_page_id: 484
 legacy_title: "Holobar_Soir"
 legacy_revision_id: 7228

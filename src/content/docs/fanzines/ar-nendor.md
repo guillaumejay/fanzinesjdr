@@ -1,6 +1,6 @@
 ---
 title: "Ar-nendor"
-description: "Archive de la page MediaWiki « Ar-nendor »."
+description: "Ar-nendor : numéros, couvertures et sommaires."
 legacy_page_id: 405
 legacy_title: "Ar-nendor"
 legacy_revision_id: 6172

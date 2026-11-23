@@ -1,6 +1,6 @@
 ---
 title: "Franc-Rêveur"
-description: "Archive de la page MediaWiki « Franc-Rêveur »."
+description: "Franc-Rêveur (1995) : numéros, couvertures et sommaires."
 legacy_page_id: 304
 legacy_title: "Franc-Rêveur"
 legacy_revision_id: 10809

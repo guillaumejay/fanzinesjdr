@@ -1,6 +1,6 @@
 ---
 title: "Clerc Obscur"
-description: "Archive de la page MediaWiki « Clerc Obscur »."
+description: "Clerc Obscur : numéros, couvertures et sommaires."
 legacy_page_id: 414
 legacy_title: "Clerc_Obscur"
 legacy_revision_id: 6199

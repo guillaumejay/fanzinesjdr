@@ -1,6 +1,6 @@
 ---
 title: "Jeux d'Ombres"
-description: "Archive de la page MediaWiki « Jeux d'Ombres »."
+description: "Jeux d'Ombres : numéros, couvertures et sommaires."
 legacy_page_id: 255
 legacy_title: "Jeux_d'Ombres"
 legacy_revision_id: 7747

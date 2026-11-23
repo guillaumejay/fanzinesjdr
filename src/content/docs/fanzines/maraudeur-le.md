@@ -1,6 +1,6 @@
 ---
 title: "Maraudeur (Le)"
-description: "Archive de la page MediaWiki « Maraudeur (Le) »."
+description: "Le Maraudeur (depuis 2011) : numéros, couvertures et sommaires."
 legacy_page_id: 46
 legacy_title: "Maraudeur_(Le)"
 legacy_revision_id: 5023
@@ -654,4 +654,4 @@ Sommaire à compléter.
 | Previews |  | 94 | previews |
 
 ## Notes
-Toutes les couvertures sont disponibles (reportez-vous à l'onglet « Discussion » pour plus de détails).
+Toutes les couvertures sont disponibles.

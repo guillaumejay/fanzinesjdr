@@ -1,6 +1,6 @@
 ---
 title: "Role'n'Troll"
-description: "Archive de la page MediaWiki « Role'n'Troll »."
+description: "Role'n'Troll : numéros, couvertures et sommaires."
 legacy_page_id: 94
 legacy_title: "Role'n'Troll"
 legacy_revision_id: 2753

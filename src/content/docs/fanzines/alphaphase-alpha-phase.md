@@ -1,6 +1,6 @@
 ---
 title: "AlphaPhase (Alpha+Phase)"
-description: "Archive de la page MediaWiki « AlphaPhase (Alpha+Phase) »."
+description: "AlphaPhase (Alpha+Phase) : numéros, couvertures et sommaires."
 legacy_page_id: 233
 legacy_title: "AlphaPhase_(Alpha+Phase)"
 legacy_revision_id: 1515
@@ -15,4 +15,4 @@ Alpha+Phase est un fanzine/e-zine spécialisé, consacré au jeu de rôle « Ec
 
 Les 2 numéros d'Alpha+Phase sont librement téléchargeables sur ce site : http://www.eclipsephase.fr/alphaphase/
 
-Toutes les couvertures sont disponibles (reportez-vous à l'onglet « Discussion » pour plus de détails).
+Toutes les couvertures sont disponibles.

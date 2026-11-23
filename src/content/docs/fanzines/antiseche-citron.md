@@ -1,6 +1,6 @@
 ---
 title: "Antisèche Citron"
-description: "Archive de la page MediaWiki « Antisèche Citron »."
+description: "Antisèche Citron : numéros, couvertures et sommaires."
 legacy_page_id: 207
 legacy_title: "Antisèche_Citron"
 legacy_revision_id: 6182

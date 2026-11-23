@@ -1,6 +1,6 @@
 ---
 title: "Casus Belli 1e Époque"
-description: "Archive de la page MediaWiki « Casus Belli 1e Époque »."
+description: "Casus Belli 1e Époque (1980–1999) : numéros, couvertures et sommaires."
 legacy_page_id: 124
 legacy_title: "Casus_Belli_1e_Époque"
 legacy_revision_id: 8643
@@ -3366,4 +3366,4 @@ Sommaire à compléter.
 | Jeunes loups et vieux renards autour d'une même table | Serge Olivier | 96 | conseils / aide de jeu |
 
 ## Notes
-- Toutes les couvertures de la première époque sont disponibles — fournies par [Utilisateur:Pic](../utilisateur-pic/) — (reportez-vous à l'onglet « Discussion » pour plus de détails).
+- Toutes les couvertures de la première époque sont disponibles (fournies par Pic).

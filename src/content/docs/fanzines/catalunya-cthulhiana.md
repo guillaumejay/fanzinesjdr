@@ -1,6 +1,6 @@
 ---
 title: "Catalunya Cthulhiana"
-description: "Archive de la page MediaWiki « Catalunya Cthulhiana »."
+description: "Catalunya Cthulhiana : numéros, couvertures et sommaires."
 legacy_page_id: 218
 legacy_title: "Catalunya_Cthulhiana"
 legacy_revision_id: 1238

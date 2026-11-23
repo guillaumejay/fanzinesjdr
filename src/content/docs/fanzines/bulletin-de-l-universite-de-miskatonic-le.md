@@ -1,6 +1,6 @@
 ---
 title: "Bulletin de l'Université de Miskatonic (Le)"
-description: "Archive de la page MediaWiki « Bulletin de l'Université de Miskatonic (Le) »."
+description: "Le Bulletin de l'Université de Miskatonic : numéros, couvertures et sommaires."
 legacy_page_id: 447
 legacy_title: "Bulletin_de_l'Université_de_Miskatonic_(Le)"
 legacy_revision_id: 6667

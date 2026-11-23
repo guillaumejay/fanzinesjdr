@@ -1,6 +1,6 @@
 ---
 title: "Delirium"
-description: "Archive de la page MediaWiki « Delirium »."
+description: "Delirium : numéros, couvertures et sommaires."
 legacy_page_id: 116
 legacy_title: "Delirium"
 legacy_revision_id: 756

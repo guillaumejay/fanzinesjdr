@@ -1,6 +1,6 @@
 ---
 title: "Chroniques des Autrefois & Ailleurs"
-description: "Archive de la page MediaWiki « Chroniques des Autrefois & Ailleurs »."
+description: "Chroniques des Autrefois & Ailleurs : numéros, couvertures et sommaires."
 legacy_page_id: 412
 legacy_title: "Chroniques_des_Autrefois_&_Ailleurs"
 legacy_revision_id: 6190

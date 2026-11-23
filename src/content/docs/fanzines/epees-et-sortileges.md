@@ -1,6 +1,6 @@
 ---
 title: "Épées et Sortilèges"
-description: "Archive de la page MediaWiki « Épées et Sortilèges »."
+description: "Épées et Sortilèges : numéros, couvertures et sommaires."
 legacy_page_id: 236
 legacy_title: "Épées_et_Sortilèges"
 legacy_revision_id: 11095

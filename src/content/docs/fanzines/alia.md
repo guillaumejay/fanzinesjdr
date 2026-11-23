@@ -1,6 +1,6 @@
 ---
 title: "Alia"
-description: "Archive de la page MediaWiki « Alia »."
+description: "Alia : numéros, couvertures et sommaires."
 legacy_page_id: 2960
 legacy_title: "Alia"
 legacy_revision_id: 11074

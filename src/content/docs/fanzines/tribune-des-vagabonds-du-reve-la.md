@@ -1,6 +1,6 @@
 ---
 title: "Tribune des Vagabonds du Rêve (La)"
-description: "Archive de la page MediaWiki « Tribune des Vagabonds du Rêve (La) »."
+description: "La Tribune des Vagabonds du Rêve : numéros, couvertures et sommaires."
 legacy_page_id: 359
 legacy_title: "Tribune_des_Vagabonds_du_Rêve_(La)"
 legacy_revision_id: 11114

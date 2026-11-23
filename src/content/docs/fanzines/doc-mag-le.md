@@ -1,6 +1,6 @@
 ---
 title: "Doc Mag' (Le)"
-description: "Archive de la page MediaWiki « Doc Mag' (Le) »."
+description: "Le Doc Mag' : numéros, couvertures et sommaires."
 legacy_page_id: 44
 legacy_title: "Doc_Mag'_(Le)"
 legacy_revision_id: 1735
@@ -17,4 +17,4 @@ https://www.facebook.com/LeDocMag
 
 Il compte 12 numéros (0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 12). Le n°11 est un numéro fantôme (jamais paru ?).
 
-Toutes les couvertures sont disponibles (reportez-vous à l'onglet « Discussion » pour plus de détails).
+Toutes les couvertures sont disponibles.

@@ -1,6 +1,6 @@
 ---
 title: "Érudits de l'Ambigu (Les)"
-description: "Archive de la page MediaWiki « Érudits de l'Ambigu (Les) »."
+description: "Les Érudits de l'Ambigu : numéros, couvertures et sommaires."
 legacy_page_id: 332
 legacy_title: "Érudits_de_l'Ambigu_(Les)"
 legacy_revision_id: 5559

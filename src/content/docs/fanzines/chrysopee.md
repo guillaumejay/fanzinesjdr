@@ -1,6 +1,6 @@
 ---
 title: "Chrysopée"
-description: "Archive de la page MediaWiki « Chrysopée »."
+description: "Chrysopée : numéros, couvertures et sommaires."
 legacy_page_id: 286
 legacy_title: "Chrysopée"
 legacy_revision_id: 3340

@@ -1,6 +1,6 @@
 ---
 title: "Palantir"
-description: "Archive de la page MediaWiki « Palantir »."
+description: "Palantir (1992) : numéros, couvertures et sommaires."
 legacy_page_id: 38
 legacy_title: "Palantir"
 legacy_revision_id: 5803

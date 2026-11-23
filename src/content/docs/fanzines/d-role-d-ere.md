@@ -1,6 +1,6 @@
 ---
 title: "D'Rôle d'Ère"
-description: "Archive de la page MediaWiki « D'Rôle d'Ère »."
+description: "D'Rôle d'Ère : numéros, couvertures et sommaires."
 legacy_page_id: 417
 legacy_title: "D'Rôle_d'Ère"
 legacy_revision_id: 6206

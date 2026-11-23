@@ -1,6 +1,6 @@
 ---
 title: "Tenebrae"
-description: "Archive de la page MediaWiki « Tenebrae »."
+description: "Tenebrae (2001–2003) : numéros, couvertures et sommaires."
 legacy_page_id: 367
 legacy_title: "Tenebrae"
 legacy_revision_id: 6020

@@ -1,6 +1,6 @@
 ---
 title: "Palimpseste"
-description: "Archive de la page MediaWiki « Palimpseste »."
+description: "Palimpseste : numéros, couvertures et sommaires."
 legacy_page_id: 63
 legacy_title: "Palimpseste"
 legacy_revision_id: 5005

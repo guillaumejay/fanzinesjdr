@@ -1,6 +1,6 @@
 ---
 title: "Cours du Chaos (Les)"
-description: "Archive de la page MediaWiki « Cours du Chaos (Les) »."
+description: "Les Cours du Chaos : numéros, couvertures et sommaires."
 legacy_page_id: 419
 legacy_title: "Cours_du_Chaos_(Les)"
 legacy_revision_id: 6208

@@ -1,6 +1,6 @@
 ---
 title: "Gazette de Nuln (La)"
-description: "Archive de la page MediaWiki « Gazette de Nuln (La) »."
+description: "La Gazette de Nuln : numéros, couvertures et sommaires."
 legacy_page_id: 226
 legacy_title: "Gazette_de_Nuln_(La)"
 legacy_revision_id: 1427

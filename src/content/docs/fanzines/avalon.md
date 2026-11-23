@@ -1,6 +1,6 @@
 ---
 title: "Avalon"
-description: "Archive de la page MediaWiki « Avalon »."
+description: "Avalon (1990–1991) : numéros, couvertures et sommaires."
 legacy_page_id: 132
 legacy_title: "Avalon"
 legacy_revision_id: 4521

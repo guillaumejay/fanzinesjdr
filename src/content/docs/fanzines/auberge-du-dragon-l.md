@@ -1,6 +1,6 @@
 ---
 title: "Auberge du Dragon (L')"
-description: "Archive de la page MediaWiki « Auberge du Dragon (L') »."
+description: "L'Auberge du Dragon (1991–1992) : numéros, couvertures et sommaires."
 legacy_page_id: 215
 legacy_title: "Auberge_du_Dragon_(L')"
 legacy_revision_id: 1208

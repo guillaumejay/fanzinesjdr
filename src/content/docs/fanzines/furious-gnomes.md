@@ -1,6 +1,6 @@
 ---
 title: "Furious Gnômes"
-description: "Archive de la page MediaWiki « Furious Gnômes »."
+description: "Furious Gnômes : numéros, couvertures et sommaires."
 legacy_page_id: 1557
 legacy_title: "Furious_Gnômes"
 legacy_revision_id: 9565

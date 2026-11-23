@@ -1,6 +1,6 @@
 ---
 title: "K'"
-description: "Archive de la page MediaWiki « K' »."
+description: "K' (depuis 2012) : numéros, couvertures et sommaires."
 legacy_page_id: 311
 legacy_title: "K'"
 legacy_revision_id: 4712

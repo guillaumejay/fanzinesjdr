@@ -1,6 +1,6 @@
 ---
 title: "Zuplud Club Niouzes"
-description: "Archive de la page MediaWiki « Zuplud Club Niouzes »."
+description: "Zuplud Club Niouzes : numéros, couvertures et sommaires."
 legacy_page_id: 499
 legacy_title: "Zuplud_Club_Niouzes"
 legacy_revision_id: 8104

@@ -1,6 +1,6 @@
 ---
 title: "LAB.00"
-description: "Archive de la page MediaWiki « LAB.00 »."
+description: "LAB.00 : numéros, couvertures et sommaires."
 legacy_page_id: 357
 legacy_title: "LAB.00"
 legacy_revision_id: 5732

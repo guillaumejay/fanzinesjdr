@@ -1,6 +1,6 @@
 ---
 title: "Vampire Dark News"
-description: "Archive de la page MediaWiki « Vampire Dark News »."
+description: "Vampire Dark News : numéros, couvertures et sommaires."
 legacy_page_id: 456
 legacy_title: "Vampire_Dark_News"
 legacy_revision_id: 6653

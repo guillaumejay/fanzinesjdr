@@ -1,6 +1,6 @@
 ---
 title: "Groin et la Pucelle (Le)"
-description: "Archive de la page MediaWiki « Groin et la Pucelle (Le) »."
+description: "Le Groin et la Pucelle : numéros, couvertures et sommaires."
 legacy_page_id: 434
 legacy_title: "Groin_et_la_Pucelle_(Le)"
 legacy_revision_id: 6345
@@ -92,4 +92,4 @@ Sommaire à compléter.
 Sommaire à compléter.
 
 ## Notes
-Certaines des couvertures sont disponibles (reportez-vous à l'onglet « Discussion » pour plus de détails).
+Certaines des couvertures sont disponibles.

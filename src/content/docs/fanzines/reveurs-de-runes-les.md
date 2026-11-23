@@ -1,6 +1,6 @@
 ---
 title: "Rêveurs de Runes (Les)"
-description: "Archive de la page MediaWiki « Rêveurs de Runes (Les) »."
+description: "Les Rêveurs de Runes (1991–1997) : numéros, couvertures et sommaires."
 legacy_page_id: 227
 legacy_title: "Rêveurs_de_Runes_(Les)"
 legacy_revision_id: 5712

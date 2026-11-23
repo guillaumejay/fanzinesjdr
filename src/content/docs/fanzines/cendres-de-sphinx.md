@@ -1,6 +1,6 @@
 ---
 title: "Cendres de Sphinx"
-description: "Archive de la page MediaWiki « Cendres de Sphinx »."
+description: "Cendres de Sphinx : numéros, couvertures et sommaires."
 legacy_page_id: 404
 legacy_title: "Cendres_de_Sphinx"
 legacy_revision_id: 6169

@@ -1,6 +1,6 @@
 ---
 title: "Allo, la Terre ?"
-description: "Archive de la page MediaWiki « Allo, la Terre ? »."
+description: "Allo, la Terre ? : numéros, couvertures et sommaires."
 legacy_page_id: 465
 legacy_title: "Allo,_la_Terre_?"
 legacy_revision_id: 6701

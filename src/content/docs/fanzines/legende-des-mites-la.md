@@ -1,6 +1,6 @@
 ---
 title: "Légende des Mites (La)"
-description: "Archive de la page MediaWiki « Légende des Mites (La) »."
+description: "La Légende des Mites (1986) : numéros, couvertures et sommaires."
 legacy_page_id: 131
 legacy_title: "Légende_des_Mites_(La)"
 legacy_revision_id: 5802

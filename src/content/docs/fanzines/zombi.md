@@ -1,6 +1,6 @@
 ---
 title: "Zombi"
-description: "Archive de la page MediaWiki « Zombi »."
+description: "Zombi : numéros, couvertures et sommaires."
 legacy_page_id: 86
 legacy_title: "Zombi"
 legacy_revision_id: 6126

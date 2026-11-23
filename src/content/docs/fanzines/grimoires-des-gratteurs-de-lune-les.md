@@ -1,6 +1,6 @@
 ---
 title: "Grimoires des Gratteurs de Lune (Les)"
-description: "Archive de la page MediaWiki « Grimoires des Gratteurs de Lune (Les) »."
+description: "Les Grimoires des Gratteurs de Lune (1999–2004) : numéros, couvertures et sommaires."
 legacy_page_id: 33
 legacy_title: "Grimoires_des_Gratteurs_de_Lune_(Les)"
 legacy_revision_id: 6439

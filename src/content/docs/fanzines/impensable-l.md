@@ -1,6 +1,6 @@
 ---
 title: "Impensable (L')"
-description: "Archive de la page MediaWiki « Impensable (L') »."
+description: "L'Impensable : numéros, couvertures et sommaires."
 legacy_page_id: 439
 legacy_title: "Impensable_(L')"
 legacy_revision_id: 6414

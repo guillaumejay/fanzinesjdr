@@ -1,6 +1,6 @@
 ---
 title: "Oeuf du Dragon (L')"
-description: "Archive de la page MediaWiki « Oeuf du Dragon (L') »."
+description: "L'Oeuf du Dragon : numéros, couvertures et sommaires."
 legacy_page_id: 198
 legacy_title: "Oeuf_du_Dragon_(L')"
 legacy_revision_id: 6183

@@ -1,6 +1,6 @@
 ---
 title: "Eke Eke Te Pang"
-description: "Archive de la page MediaWiki « Eke Eke Te Pang »."
+description: "Eke Eke Te Pang : numéros, couvertures et sommaires."
 legacy_page_id: 418
 legacy_title: "Eke_Eke_Te_Pang"
 legacy_revision_id: 6207

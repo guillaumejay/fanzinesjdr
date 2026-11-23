@@ -1,6 +1,6 @@
 ---
 title: "Anunnaki"
-description: "Archive de la page MediaWiki « Anunnaki »."
+description: "Anunnaki : numéros, couvertures et sommaires."
 legacy_page_id: 323
 legacy_title: "Anunnaki"
 legacy_revision_id: 6691

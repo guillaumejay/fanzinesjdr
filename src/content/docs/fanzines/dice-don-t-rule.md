@@ -1,6 +1,6 @@
 ---
 title: "Dice Don't Rule"
-description: "Archive de la page MediaWiki « Dice Don't Rule »."
+description: "Dice Don't Rule : numéros, couvertures et sommaires."
 legacy_page_id: 424
 legacy_title: "Dice_Don't_Rule"
 legacy_revision_id: 6230

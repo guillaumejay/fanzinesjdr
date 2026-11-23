@@ -1,6 +1,6 @@
 ---
 title: "Raiders of Adventure"
-description: "Archive de la page MediaWiki « Raiders of Adventure »."
+description: "Raiders of Adventure : numéros, couvertures et sommaires."
 legacy_page_id: 344
 legacy_title: "Raiders_of_Adventure"
 legacy_revision_id: 5654

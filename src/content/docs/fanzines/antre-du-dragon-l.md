@@ -1,6 +1,6 @@
 ---
 title: "Antre du Dragon (L')"
-description: "Archive de la page MediaWiki « Antre du Dragon (L') »."
+description: "L'Antre du Dragon (1983–1993) : numéros, couvertures et sommaires."
 legacy_page_id: 442
 legacy_title: "Antre_du_Dragon_(L')"
 legacy_revision_id: 8370

@@ -1,6 +1,6 @@
 ---
 title: "Immersion"
-description: "Archive de la page MediaWiki « Immersion »."
+description: "Immersion : numéros, couvertures et sommaires."
 legacy_page_id: 317
 legacy_title: "Immersion"
 legacy_revision_id: 5694

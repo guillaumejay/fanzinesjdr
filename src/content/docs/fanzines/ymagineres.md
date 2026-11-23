@@ -1,6 +1,6 @@
 ---
 title: "YmaginereS"
-description: "Archive de la page MediaWiki « YmaginereS »."
+description: "YmaginereS : numéros, couvertures et sommaires."
 legacy_page_id: 43
 legacy_title: "YmaginereS"
 legacy_revision_id: 5780
@@ -20,7 +20,7 @@ http://ymagineres.wix.com/alive#!home/mainPage
 
 Il compte 4 numéros (0, 1, 2 et 3) et 2 hors-série (1 et 2).
 
-Toutes les couvertures sont disponibles (reportez-vous à l'onglet « Discussion » pour plus de détails).
+Toutes les couvertures sont disponibles.
 
 ## Généralités
 

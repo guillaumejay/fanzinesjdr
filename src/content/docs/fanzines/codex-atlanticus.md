@@ -1,6 +1,6 @@
 ---
 title: "Codex Atlanticus"
-description: "Archive de la page MediaWiki « Codex Atlanticus »."
+description: "Codex Atlanticus : numéros, couvertures et sommaires."
 legacy_page_id: 420
 legacy_title: "Codex_Atlanticus"
 legacy_revision_id: 6210

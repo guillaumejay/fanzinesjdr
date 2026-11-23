@@ -1,6 +1,6 @@
 ---
 title: "Indie-rpg Magazine"
-description: "Archive de la page MediaWiki « Indie-rpg Magazine »."
+description: "Indie-rpg Magazine : numéros, couvertures et sommaires."
 legacy_page_id: 368
 legacy_title: "Indie-rpg_Magazine"
 legacy_revision_id: 10114

@@ -1,6 +1,6 @@
 ---
 title: "Ludochronik"
-description: "Archive de la page MediaWiki « Ludochronik »."
+description: "Ludochronik : numéros, couvertures et sommaires."
 legacy_page_id: 2965
 legacy_title: "Ludochronik"
 legacy_revision_id: 11085

@@ -1,6 +1,6 @@
 ---
 title: "Sombre Hérault"
-description: "Archive de la page MediaWiki « Sombre Hérault »."
+description: "Sombre Hérault (1991) : numéros, couvertures et sommaires."
 legacy_page_id: 95
 legacy_title: "Sombre_Hérault"
 legacy_revision_id: 5507

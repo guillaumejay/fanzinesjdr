@@ -1,6 +1,6 @@
 ---
 title: "Gazette Blindée (La)"
-description: "Archive de la page MediaWiki « Gazette Blindée (La) »."
+description: "La Gazette Blindée : numéros, couvertures et sommaires."
 legacy_page_id: 61
 legacy_title: "Gazette_Blindée_(La)"
 legacy_revision_id: 2904
@@ -159,4 +159,4 @@ http://scriiipt.com/telechargements/?category=7
 
 Il compte 6 numéros.
 
-Toutes les couvertures sont disponibles (reportez-vous à l'onglet « Discussion » pour plus de détails).
+Toutes les couvertures sont disponibles.

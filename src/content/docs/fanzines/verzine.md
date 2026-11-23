@@ -1,6 +1,6 @@
 ---
 title: "Verzine"
-description: "Archive de la page MediaWiki « Verzine »."
+description: "Verzine : numéros, couvertures et sommaires."
 legacy_page_id: 441
 legacy_title: "Verzine"
 legacy_revision_id: 6420

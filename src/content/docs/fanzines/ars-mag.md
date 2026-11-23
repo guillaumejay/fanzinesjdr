@@ -1,6 +1,6 @@
 ---
 title: "Ars Mag"
-description: "Archive de la page MediaWiki « Ars Mag »."
+description: "Ars Mag (1994–2001) : numéros, couvertures et sommaires."
 legacy_page_id: 37
 legacy_title: "Ars_Mag"
 legacy_revision_id: 8394
@@ -650,4 +650,4 @@ Depuis 2019, tous les numéros sont (gratuitement) disponibles en pdf sur le sit
 
 On pourra retrouver tous les articles d'Ars Mag dus à la plume de Jérôme Darmont sur son site : http://darmont.free.fr/arm/
 
-Toutes les couvertures sont disponibles (reportez-vous à l'onglet « Discussion » pour plus de détails).
+Toutes les couvertures sont disponibles.

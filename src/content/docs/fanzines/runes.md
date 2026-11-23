@@ -1,6 +1,6 @@
 ---
 title: "Runes"
-description: "Archive de la page MediaWiki « Runes »."
+description: "Runes (1983–1985) : numéros, couvertures et sommaires."
 legacy_page_id: 70
 legacy_title: "Runes"
 legacy_revision_id: 11080
@@ -15,7 +15,7 @@ Les sommaires des n° 3 à 10 ont été relevés sur les pages de sommaire et l'
 
 Il semblerait qu'un numéro 1bis ait paru (en quoi diffère-t-il du numéro 1, je ne le sais pas) : [voir commentaire de Sylvain Donnet sur ce blog](http://www.runes-le-magazine.com/tous-les-numeros-de-runes-sont-maintenant-en-ligne/#comment-932)
 
-Toutes les couvertures des 10 numéros de Runes sont disponibles à l'affichage  (reportez-vous à l'onglet « Discussion » pour plus de détails).
+Toutes les couvertures des 10 numéros de Runes sont disponibles.
 
 ## Généralités
 ![Logo de Runes](/images/fanzines/runes/runes-logo.png)

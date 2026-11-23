@@ -1,6 +1,6 @@
 ---
 title: "Voix de Rokugan (La)"
-description: "Archive de la page MediaWiki « Voix de Rokugan (La) »."
+description: "La Voix de Rokugan : numéros, couvertures et sommaires."
 legacy_page_id: 239
 legacy_title: "Voix_de_Rokugan_(La)"
 legacy_revision_id: 1699

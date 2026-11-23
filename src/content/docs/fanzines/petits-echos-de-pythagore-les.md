@@ -1,6 +1,6 @@
 ---
 title: "Petits Echos de Pythagore (Les)"
-description: "Archive de la page MediaWiki « Petits Echos de Pythagore (Les) »."
+description: "Les Petits Echos de Pythagore : numéros, couvertures et sommaires."
 legacy_page_id: 393
 legacy_title: "Petits_Echos_de_Pythagore_(Les)"
 legacy_revision_id: 10284

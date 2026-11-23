@@ -1,6 +1,6 @@
 ---
 title: "An Disantel"
-description: "Archive de la page MediaWiki « An Disantel »."
+description: "An Disantel : numéros, couvertures et sommaires."
 legacy_page_id: 409
 legacy_title: "An_Disantel"
 legacy_revision_id: 11075

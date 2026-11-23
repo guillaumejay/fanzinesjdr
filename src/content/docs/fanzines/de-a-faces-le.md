@@ -1,6 +1,6 @@
 ---
 title: "Dé à π faces (Le)"
-description: "Archive de la page MediaWiki « Dé à π faces (Le) »."
+description: "Le Dé à π faces (1991) : numéros, couvertures et sommaires."
 legacy_page_id: 81
 legacy_title: "Dé_à_π_faces_(Le)"
 legacy_revision_id: 2451

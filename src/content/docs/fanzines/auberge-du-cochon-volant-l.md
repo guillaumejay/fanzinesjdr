@@ -1,6 +1,6 @@
 ---
 title: "Auberge du Cochon Volant (L')"
-description: "Archive de la page MediaWiki « Auberge du Cochon Volant (L') »."
+description: "L'Auberge du Cochon Volant : numéros, couvertures et sommaires."
 legacy_page_id: 387
 legacy_title: "Auberge_du_Cochon_Volant_(L')"
 legacy_revision_id: 6173

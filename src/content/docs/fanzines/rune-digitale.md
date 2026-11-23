@@ -1,6 +1,6 @@
 ---
 title: "Rune Digitale"
-description: "Archive de la page MediaWiki « Rune Digitale »."
+description: "Rune Digitale : numéros, couvertures et sommaires."
 legacy_page_id: 365
 legacy_title: "Rune_Digitale"
 legacy_revision_id: 5893

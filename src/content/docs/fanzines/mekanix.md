@@ -1,6 +1,6 @@
 ---
 title: "Mekanix"
-description: "Archive de la page MediaWiki « Mekanix »."
+description: "Mekanix : numéros, couvertures et sommaires."
 legacy_page_id: 493
 legacy_title: "Mekanix"
 legacy_revision_id: 11097

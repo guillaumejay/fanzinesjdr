@@ -1,6 +1,6 @@
 ---
 title: "Amberzine"
-description: "Archive de la page MediaWiki « Amberzine »."
+description: "Amberzine : numéros, couvertures et sommaires."
 legacy_page_id: 425
 legacy_title: "Amberzine"
 legacy_revision_id: 6292

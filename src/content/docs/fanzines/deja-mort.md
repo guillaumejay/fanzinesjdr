@@ -1,6 +1,6 @@
 ---
 title: "Déjà Mort"
-description: "Archive de la page MediaWiki « Déjà Mort »."
+description: "Déjà Mort (depuis 2021) : numéros, couvertures et sommaires."
 legacy_page_id: 498
 legacy_title: "Déjà_Mort"
 legacy_revision_id: 8080

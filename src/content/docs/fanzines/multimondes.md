@@ -1,6 +1,6 @@
 ---
 title: "Multimondes"
-description: "Archive de la page MediaWiki « Multimondes »."
+description: "Multimondes : numéros, couvertures et sommaires."
 legacy_page_id: 229
 legacy_title: "Multimondes"
 legacy_revision_id: 4849
@@ -16,7 +16,7 @@ source_format: "mediawiki"
 
 http://data.bnf.fr/37132318/multimondes__paris_/
 
-Toutes les couvertures sont disponibles (reportez-vous à l'onglet « Discussion » pour plus de détails).
+Toutes les couvertures sont disponibles.
 
 ## Généralités
 

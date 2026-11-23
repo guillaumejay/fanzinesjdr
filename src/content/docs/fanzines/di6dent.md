@@ -1,6 +1,6 @@
 ---
 title: "Di6dent"
-description: "Archive de la page MediaWiki « Di6dent »."
+description: "Di6dent (2010–2017) : numéros, couvertures et sommaires."
 legacy_page_id: 194
 legacy_title: "Di6dent"
 legacy_revision_id: 7044
@@ -617,7 +617,7 @@ Sommaire à compléter.
 | Game over pour Déméter |  | 144 | scénario Polaris |
 
 ## Notes
-Toutes les couvertures sont disponibles (reportez-vous à l'onglet « Discussion » pour plus de détails).
+Toutes les couvertures sont disponibles.
 
 Le numéro 15 sera le dernier numéro de Di6dent : http://lefix.di6dent.fr/archives/3862
 

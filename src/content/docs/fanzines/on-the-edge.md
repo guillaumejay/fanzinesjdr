@@ -1,6 +1,6 @@
 ---
 title: "On the Edge"
-description: "Archive de la page MediaWiki « On the Edge »."
+description: "On the Edge (1992–1994) : numéros, couvertures et sommaires."
 legacy_page_id: 470
 legacy_title: "On_the_Edge"
 legacy_revision_id: 6876

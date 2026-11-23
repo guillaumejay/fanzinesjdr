@@ -1,6 +1,6 @@
 ---
 title: "Éclaireur (L’)"
-description: "Archive de la page MediaWiki « Éclaireur (L’) »."
+description: "L’Éclaireur : numéros, couvertures et sommaires."
 legacy_page_id: 65
 legacy_title: "Éclaireur_(L’)"
 legacy_revision_id: 3855
@@ -17,4 +17,4 @@ http://eclaireur.olympe.in (désolé : lien-mort…)
 
 Il compte 2 numéros.
 
-Toutes les couvertures sont disponibles ( reportez-vous à l'onglet « Discussion » pour plus de détails).
+Toutes les couvertures sont disponibles.

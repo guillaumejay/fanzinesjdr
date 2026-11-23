@@ -1,6 +1,6 @@
 ---
 title: "Falstaff"
-description: "Archive de la page MediaWiki « Falstaff »."
+description: "Falstaff (1997) : numéros, couvertures et sommaires."
 legacy_page_id: 351
 legacy_title: "Falstaff"
 legacy_revision_id: 5700

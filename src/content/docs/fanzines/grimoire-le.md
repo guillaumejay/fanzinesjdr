@@ -1,6 +1,6 @@
 ---
 title: "Grimoire (Le)"
-description: "Archive de la page MediaWiki « Grimoire (Le) »."
+description: "Le Grimoire (1992–2004) : numéros, couvertures et sommaires."
 legacy_page_id: 240
 legacy_title: "Grimoire_(Le)"
 legacy_revision_id: 6086
@@ -667,4 +667,4 @@ Sommaire à compléter.
 Sommaire à compléter.
 
 ## Notes
-Toutes les couvertures sont disponibles (reportez-vous à l'onglet « Discussion » pour plus de détails).
+Toutes les couvertures sont disponibles.

@@ -1,6 +1,6 @@
 ---
 title: "Chroniques de l'Oeil Noir"
-description: "Archive de la page MediaWiki « Chroniques de l'Oeil Noir »."
+description: "Chroniques de l'Oeil Noir (2003–2004) : numéros, couvertures et sommaires."
 legacy_page_id: 301
 legacy_title: "Chroniques_de_l'Oeil_Noir"
 legacy_revision_id: 4418
@@ -92,4 +92,4 @@ Sommaire à compléter.
 Sommaire à compléter.
 
 ## Notes
-Toutes les couvertures sont disponibles (reportez-vous à l'onglet « Discussion » pour plus de détails).
+Toutes les couvertures sont disponibles.

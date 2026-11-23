@@ -1,6 +1,6 @@
 ---
 title: "Gazette L'Immortel (La)"
-description: "Archive de la page MediaWiki « Gazette L'Immortel (La) »."
+description: "La Gazette L'Immortel : numéros, couvertures et sommaires."
 legacy_page_id: 243
 legacy_title: "Gazette_L'Immortel_(La)"
 legacy_revision_id: 4968
@@ -21,7 +21,7 @@ http://heritiersbabel.org/?p=435
 
 Il compte 3 numéros.
 
-Toutes les couvertures sont disponibles (reportez-vous à l'onglet « Discussion » pour plus de détails).
+Toutes les couvertures sont disponibles.
 
 ## Généralités
 

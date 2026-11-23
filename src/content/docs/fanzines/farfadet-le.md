@@ -1,6 +1,6 @@
 ---
 title: "Farfadet (Le)"
-description: "Archive de la page MediaWiki « Farfadet (Le) »."
+description: "Le Farfadet (1986) : numéros, couvertures et sommaires."
 legacy_page_id: 247
 legacy_title: "Farfadet_(Le)"
 legacy_revision_id: 11059

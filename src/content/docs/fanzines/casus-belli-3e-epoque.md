@@ -1,6 +1,6 @@
 ---
 title: "Casus Belli 3e Époque"
-description: "Archive de la page MediaWiki « Casus Belli 3e Époque »."
+description: "Casus Belli 3e Époque (2010–2011) : numéros, couvertures et sommaires."
 legacy_page_id: 126
 legacy_title: "Casus_Belli_3e_Époque"
 legacy_revision_id: 7531
@@ -198,4 +198,4 @@ Sommaire à compléter.
 Sommaire à compléter.
 
 ## Notes
-Toutes les couvertures de la troisième époque sont disponibles (reportez-vous à l'onglet « Discussion » pour plus de détails).
+Toutes les couvertures de la troisième époque sont disponibles.

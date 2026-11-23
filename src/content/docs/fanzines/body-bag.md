@@ -1,6 +1,6 @@
 ---
 title: "Body Bag"
-description: "Archive de la page MediaWiki « Body Bag »."
+description: "Body Bag : numéros, couvertures et sommaires."
 legacy_page_id: 369
 legacy_title: "Body_Bag"
 legacy_revision_id: 5921

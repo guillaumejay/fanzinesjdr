@@ -1,6 +1,6 @@
 ---
 title: "Putride"
-description: "Archive de la page MediaWiki « Putride »."
+description: "Putride (2012) : numéros, couvertures et sommaires."
 legacy_page_id: 444
 legacy_title: "Putride"
 legacy_revision_id: 6475

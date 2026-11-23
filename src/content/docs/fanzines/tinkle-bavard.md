@@ -1,6 +1,6 @@
 ---
 title: "Tinkle Bavard"
-description: "Archive de la page MediaWiki « Tinkle Bavard »."
+description: "Tinkle Bavard (1989–2001) : numéros, couvertures et sommaires."
 legacy_page_id: 213
 legacy_title: "Tinkle_Bavard"
 legacy_revision_id: 8514
@@ -20,7 +20,7 @@ Tous les sommaires ainsi que certains articles sont librement consultables sur l
 
 http://www.monpetitcoin.com/createurs/tinkle/index.html
 
-Toutes les couvertures sont disponibles (reportez-vous à l'onglet « Discussion » pour plus de détails).
+Toutes les couvertures sont disponibles.
 
 ## Généralités
 

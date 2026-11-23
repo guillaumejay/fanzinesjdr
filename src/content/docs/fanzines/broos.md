@@ -1,6 +1,6 @@
 ---
 title: "Broos"
-description: "Archive de la page MediaWiki « Broos »."
+description: "Broos : numéros, couvertures et sommaires."
 legacy_page_id: 315
 legacy_title: "Broos"
 legacy_revision_id: 11100

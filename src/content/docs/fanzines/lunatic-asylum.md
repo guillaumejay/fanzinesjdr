@@ -1,6 +1,6 @@
 ---
 title: "Lunatic Asylum"
-description: "Archive de la page MediaWiki « Lunatic Asylum »."
+description: "Lunatic Asylum (1997) : numéros, couvertures et sommaires."
 legacy_page_id: 346
 legacy_title: "Lunatic_Asylum"
 legacy_revision_id: 5884

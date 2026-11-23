@@ -1,6 +1,6 @@
 ---
 title: "Slam, the Door of West"
-description: "Archive de la page MediaWiki « Slam, the Door of West »."
+description: "Slam, the Door of West (1990) : numéros, couvertures et sommaires."
 legacy_page_id: 80
 legacy_title: "Slam,_the_Door_of_West"
 legacy_revision_id: 2555

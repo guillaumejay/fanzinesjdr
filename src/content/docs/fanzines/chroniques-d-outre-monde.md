@@ -1,6 +1,6 @@
 ---
 title: "Chroniques d'Outre Monde"
-description: "Archive de la page MediaWiki « Chroniques d'Outre Monde »."
+description: "Chroniques d'Outre Monde (1986–1993) : numéros, couvertures et sommaires."
 legacy_page_id: 68
 legacy_title: "Chroniques_d'Outre_Monde"
 legacy_revision_id: 11101
@@ -689,4 +689,4 @@ Sommaire à compléter.
 Sommaire à compléter.
 
 ## Notes
-Toutes les couvertures sont disponibles (reportez-vous à l'onglet « Discussion » pour plus de détails).
+Toutes les couvertures sont disponibles.

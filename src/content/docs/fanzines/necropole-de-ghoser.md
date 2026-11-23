@@ -1,6 +1,6 @@
 ---
 title: "Nécropole de Ghoser"
-description: "Archive de la page MediaWiki « Nécropole de Ghoser »."
+description: "Nécropole de Ghoser (1987) : numéros, couvertures et sommaires."
 legacy_page_id: 120
 legacy_title: "Nécropole_de_Ghoser"
 legacy_revision_id: 6881

@@ -1,6 +1,6 @@
 ---
 title: "Casus Belli 4e Époque"
-description: "Archive de la page MediaWiki « Casus Belli 4e Époque »."
+description: "Casus Belli 4e Époque (depuis 2011) : numéros, couvertures et sommaires."
 legacy_page_id: 127
 legacy_title: "Casus_Belli_4e_Époque"
 legacy_revision_id: 11112
@@ -2415,6 +2415,6 @@ Sommaire à compléter.
 Sommaire à compléter.
 
 ## Notes
-Toutes les couvertures de la quatrième époque sont disponibles (reportez-vous à l'onglet « [Discussion](http://fanzines.jdr.wiki.free.fr/wiki/index.php?title=Discussion:Casus_Belli_4e_Époque) » pour plus de détails).
+Toutes les couvertures de la quatrième époque sont disponibles.
 
 Meriark, sur son blog, maintient des index (au format XLS et régulièrement mis à jour) sur le contenu des numéros de Casus Belli quatrième époque : [à consulter ici](https://fantaisiesdelimaginaire.wordpress.com/?s=%22casus+belli+-+index%22)

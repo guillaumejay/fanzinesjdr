@@ -1,6 +1,6 @@
 ---
 title: "Cluricaune (Le)"
-description: "Archive de la page MediaWiki « Cluricaune (Le) »."
+description: "Le Cluricaune : numéros, couvertures et sommaires."
 legacy_page_id: 384
 legacy_title: "Cluricaune_(Le)"
 legacy_revision_id: 6129

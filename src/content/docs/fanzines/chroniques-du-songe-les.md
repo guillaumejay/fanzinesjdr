@@ -1,6 +1,6 @@
 ---
 title: "Chroniques du Songe (Les)"
-description: "Archive de la page MediaWiki « Chroniques du Songe (Les) »."
+description: "Les Chroniques du Songe : numéros, couvertures et sommaires."
 legacy_page_id: 413
 legacy_title: "Chroniques_du_Songe_(Les)"
 legacy_revision_id: 6194

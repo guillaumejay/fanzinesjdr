@@ -1,6 +1,6 @@
 ---
 title: "Sorcier des Abîmes (Le)"
-description: "Archive de la page MediaWiki « Sorcier des Abîmes (Le) »."
+description: "Le Sorcier des Abîmes : numéros, couvertures et sommaires."
 legacy_page_id: 437
 legacy_title: "Sorcier_des_Abîmes_(Le)"
 legacy_revision_id: 7080
@@ -155,4 +155,4 @@ Sommaire à compléter.
 Sommaire à compléter.
 
 ## Notes
-Certaines des couvertures sont disponibles (reportez-vous à l'onglet « Discussion » pour plus de détails).
+Certaines des couvertures sont disponibles.

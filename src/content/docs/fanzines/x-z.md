@@ -1,6 +1,6 @@
 ---
 title: "X-Z"
-description: "Archive de la page MediaWiki « X-Z »."
+description: "Fanzines et revues de jeu de rôle dont le titre commence par X à Z."
 legacy_page_id: 10
 legacy_title: "X-Z"
 legacy_revision_id: 6682

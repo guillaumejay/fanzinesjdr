@@ -1,6 +1,6 @@
 ---
 title: "Taurus Fortis"
-description: "Archive de la page MediaWiki « Taurus Fortis »."
+description: "Taurus Fortis : numéros, couvertures et sommaires."
 legacy_page_id: 394
 legacy_title: "Taurus_Fortis"
 legacy_revision_id: 6122

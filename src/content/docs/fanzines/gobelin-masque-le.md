@@ -1,6 +1,6 @@
 ---
 title: "Gobelin Masqué (Le)"
-description: "Archive de la page MediaWiki « Gobelin Masqué (Le) »."
+description: "Le Gobelin Masqué : numéros, couvertures et sommaires."
 legacy_page_id: 483
 legacy_title: "Gobelin_Masqué_(Le)"
 legacy_revision_id: 7222

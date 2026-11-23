@@ -1,6 +1,6 @@
 ---
 title: "Jeux & Stratégie"
-description: "Archive de la page MediaWiki « Jeux & Stratégie »."
+description: "Jeux & Stratégie (1980–1989) : numéros, couvertures et sommaires."
 legacy_page_id: 189
 legacy_title: "Jeux_&_Stratégie"
 legacy_revision_id: 11120
@@ -15,7 +15,7 @@ Le magazine Jeux & Stratégie a sa [Fiche Wikipédia](https://fr.wikipedia.org/w
 
 24 avril 2026 : Le retour de Jeux & Stratégie ? https://jeuxetstrategie.fr/
 
-Toutes les couvertures (fournies pas [Utilisateur:Pic](../utilisateur-pic/)) sont disponibles (reportez-vous à l'onglet « Discussion » pour plus de détails).
+Toutes les couvertures (fournies par Pic) sont disponibles.
 
 ## Généralités
 

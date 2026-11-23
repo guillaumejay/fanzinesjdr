@@ -1,6 +1,6 @@
 ---
 title: "Chroniques d'Altaride"
-description: "Archive de la page MediaWiki « Chroniques d'Altaride »."
+description: "Chroniques d'Altaride (depuis 2012) : numéros, couvertures et sommaires."
 legacy_page_id: 48
 legacy_title: "Chroniques_d'Altaride"
 legacy_revision_id: 5179
@@ -28,7 +28,7 @@ Je contacte Benoît Chérel à ce sujet
 Hello, on m'appelle, j'accours !
 Quel genre de présentation voulez-vous ?
 
-Toutes les couvertures sont disponibles (reportez-vous à l'onglet « Discussion » pour plus de détails).
+Toutes les couvertures sont disponibles.
 
 ## Généralités
 

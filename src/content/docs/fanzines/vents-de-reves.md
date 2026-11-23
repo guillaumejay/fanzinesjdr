@@ -1,6 +1,6 @@
 ---
 title: "Vents de Rêves"
-description: "Archive de la page MediaWiki « Vents de Rêves »."
+description: "Vents de Rêves : numéros, couvertures et sommaires."
 legacy_page_id: 395
 legacy_title: "Vents_de_Rêves"
 legacy_revision_id: 6125

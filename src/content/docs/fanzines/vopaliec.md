@@ -1,6 +1,6 @@
 ---
 title: "Vopaliec"
-description: "Archive de la page MediaWiki « Vopaliec »."
+description: "Vopaliec : numéros, couvertures et sommaires."
 legacy_page_id: 479
 legacy_title: "Vopaliec"
 legacy_revision_id: 11082
