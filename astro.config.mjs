@@ -6,6 +6,7 @@ export default defineConfig({
   integrations: [
     starlight({
       title: 'Fanzines JDR',
+      customCss: ['./src/styles/custom.css'],
       description: 'Archives des revues et fanzines francophones de jeu de rôle.',
       defaultLocale: 'root',
       locales: {
